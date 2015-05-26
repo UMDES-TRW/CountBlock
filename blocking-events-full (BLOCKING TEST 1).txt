@@ -1,0 +1,30 @@
+State found which transitions out of non-blocking space
+Blocking state name: (((F,F)))
+Transition History: 
+	6	(((F,F)))
+
+State found which transitions out of non-blocking space
+Blocking state name: (((C,C)))
+Transition History: 
+	1	(((B,B)))
+	2	(((C,C)))
+
+Blocking state explored
+State name: (((F,F)))
+Marked? YES
+	7	(((G,G)))
+Blocking state explored
+State name: (((C,C)))
+Marked? YES
+	3	(((D,D)))
+Blocking state explored
+State name: (((G,G)))
+Marked? YES
+	8	(((H,H)))
+Blocking state explored
+State name: (((D,D)))
+Marked? YES
+Blocking state explored
+State name: (((H,H)))
+Marked? YES
+	9	(((G,G)))
