@@ -1,0 +1,155 @@
+20
+InitialState	1	1
+PS	Z1	c	o
+
+Z1	1	1
+nlp1_t	Z2	c	o
+
+Z10	1	1
+ntfr1	Z11	c	o
+
+Z11	1	1
+pdl1_f	Z12	c	o
+
+Z12	1	1
+fpdl	Z13	c	o
+
+Z13	1	1
+ddl1_f	Z14	c	o
+
+Z14	1	1
+c_ula1_t	Z15	c	o
+
+Z15	1	1
+s_null1	Z16	c	o
+
+Z16	1	1
+PDA	Z17	c	o
+
+Z17	1	1
+PS	Z18	c	o
+
+Z18	1	1
+nlp1_t	Z19	c	o
+
+Z19	1	0
+
+Z2	1	1
+npdl1	Z3	c	o
+
+Z3	1	1
+nda1	Z4	c	o
+
+Z4	1	1
+FSTMO	Z5	c	o
+
+Z5	1	1
+lad1	Z6	c	o
+
+Z6	1	1
+s_retry1_t	Z7	c	o
+
+Z7	1	1
+nPDS	Z8	c	o
+
+Z8	1	1
+EFD1	Z9	c	o
+
+Z9	1	1
+lad1	Z10	c	o
+
+94 events
+DA	c	o
+DC	c	o
+DDC	c	o
+DS	c	o
+EFD1	c	o
+EFD2	c	o
+FR	c	o
+FSTMO	c	o
+KWTMO	c	o
+LPTMO	c	o
+LSTMO	c	o
+MTMO	c	o
+PDA	c	o
+PS	c	o
+PTMO	c	o
+RTMO	c	o
+TMO	c	o
+ULATMO	c	o
+a_kivl_c	c	o
+bsp2	c	o
+c_lp1_t	c	o
+c_ula1_t	c	o
+da	c	o
+da1	c	o
+da2	c	o
+da3	c	o
+dda	c	o
+dda2	c	o
+ddl	c	o
+ddl1	c	o
+ddl1_f	c	o
+ddl2	c	o
+ddl2_f	c	o
+fddl	c	o
+fpdl	c	o
+igoff	c	o
+igoff2	c	o
+kivl1_c	c	o
+lad1	c	o
+lad_ddl	c	o
+lad_pdl	c	o
+lkp3	c	o
+lp1_t	c	o
+nEFD1	c	o
+nEFD2	c	o
+nFR	c	o
+nPDS	c	o
+nbsp2	c	o
+nda	c	o
+nda1	c	o
+nda2	c	o
+nda3	c	o
+ndda	c	o
+ndda2	c	o
+nddl	c	o
+nddl1	c	o
+nddl1_f	c	o
+nddl2	c	o
+nigoff	c	o
+nigoff2	c	o
+nkivl1_c	c	o
+nlkp3	c	o
+nlp1_t	c	o
+npdl1	c	o
+npdl1_f	c	o
+nretry1_t	c	o
+nsbp2	c	o
+ntfr1	c	o
+nula1_t	c	o
+null1	c	o
+null_ddl	c	o
+null_pdl	c	o
+pdl1	c	o
+pdl1_f	c	o
+pdl2_f	c	o
+pp1	c	o
+retry1_t	c	o
+s_kivl1_c	c	o
+s_kw1_t	c	o
+s_kw2_t	c	o
+s_kw3_t	c	o
+s_lp3_t	c	o
+s_null1	c	o
+s_retry1_t	c	o
+s_ula1_t	c	o
+sbp2	c	o
+tfr1	c	o
+ula1	c	o
+ula1_t	c	o
+ula_ddl	c	o
+ula_pdl	c	o
+uld1	c	o
+uld_ddl	c	o
+uld_pdl	c	o

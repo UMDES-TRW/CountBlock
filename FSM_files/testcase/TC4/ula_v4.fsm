@@ -1,0 +1,12 @@
+2
+
+nulaState	1	3
+s_ula1_t	ulaState	c	o
+nula1_t	nulaState	c	o
+c_ula1_t	nulaState	c	o
+
+ulaState	0	4
+s_ula1_t	ulaState	c	o
+ula1_t	ulaState	c	o
+c_ula1_t	nulaState	c	o
+ULATMO	nulaState	c	o

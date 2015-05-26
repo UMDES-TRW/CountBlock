@@ -1,0 +1,14 @@
+2
+
+igoffState	1	4
+igoff	igoffState	c	o
+igoff2	igoffState	c	o
+igoff5	igoffState	c	o
+nIGOFF	nigoffState	c	o
+
+nigoffState	1	4
+nigoff	nigoffState	c	o
+nigoff2	nigoffState	c	o
+nigoff5	nigoffState	c	o
+IGOFF	igoffState	c	o
+

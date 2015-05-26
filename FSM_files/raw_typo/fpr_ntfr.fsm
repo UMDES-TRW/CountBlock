@@ -1,0 +1,25 @@
+4
+
+nfpr_ntfrState	1	4
+nfpr2	nfpr_ntfrState	c	o
+ntfr1	nfpr_ntfrState	c	o
+FR	nfpr_tfrState	c	o
+nFR	nfpr_ntfrState	c	o
+
+fpr_ntfrState	1	4
+nFR	fpr_ntfrState	c	o
+fpr2	fpr_ntfrState	c	o
+ntfr1	fpr_ntfrState	c	o
+FR	nfpr_tfrState	c	o
+
+nfpr_tfrState	1	4
+nFR	nfpr_ntfrState	c	o
+nfpr2	nfpr_tfrState	c	o
+tfr1	nfpr_tfrState	c	o
+FR	fpr_tfrState	c	o
+
+fpr_tfrState	1	4
+nFR	fpr_ntfrState	c	o
+fpr2	fpr_tfrState	c	o
+tfr1	fpr_tfrState	c	o
+FR	fpr_tfrState	c	o

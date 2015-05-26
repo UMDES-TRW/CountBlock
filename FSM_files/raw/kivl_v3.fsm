@@ -1,0 +1,11 @@
+2
+
+kivlState	1	3
+kivl1_c	kivlState	c	o
+s_kivl1_c	kivlState	c	o
+a_kivl_c	nkivlState	c	o
+
+nkivlState	1	3
+nkivl1_c	nkivlState	c	o
+s_kivl1_c	kivlState	c	o
+a_kivl_c	nkivlState	c	o

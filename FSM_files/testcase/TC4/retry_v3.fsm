@@ -1,0 +1,10 @@
+2
+
+nretryState	1	2
+s_retry1_t	retryState	c	o
+nretry1_t	nretryState	c	o
+
+retryState	0	3
+retry1_t	retryState	c	o
+s_retry1_t	retryState	c	o
+RTMO	nretryState	c	o

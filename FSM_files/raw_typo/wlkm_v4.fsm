@@ -1,0 +1,10 @@
+2
+
+nwlkmState 1 2
+s_wlkm2_t wlkmState c o
+c_wlkm2_t nwlkmState c o
+
+wlkmState 1 3
+c_wlkm2_t nwlkmState c o
+MTMO nwlkmState c o
+s_wlkm2_t wlkmState c o

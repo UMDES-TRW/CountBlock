@@ -1,0 +1,12 @@
+2
+
+nkwState	1	3
+s_kw1_t	kwState	c	o
+s_kw2_t	kwState	c	o
+s_kw3_t	kwState	c	o
+
+kwState 1	4
+KWTMO	nkwState	c	o
+s_kw1_t	kwState	c	o
+s_kw2_t	kwState	c	o
+s_kw3_t	kwState	c	o

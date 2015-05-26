@@ -1,0 +1,12 @@
+2
+
+nfsState 1 3
+s_fsext1_t fsState c o
+s_fsreg1_t fsState c o
+c_fs1_t nfsState c o
+
+fsState 1 4
+FSTMO nfsState c o
+c_fs1_t nfsState c o
+s_fsext1_t fsState c o
+s_fsreg1_t fsState c o

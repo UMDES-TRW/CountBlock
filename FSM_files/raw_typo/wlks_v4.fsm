@@ -1,0 +1,10 @@
+2
+
+nwlksState 1 2
+s_wlks2_t wlksState c o
+c_wlks2_t nwlksState c o
+
+wlksState 1 3
+c_wlks2_t nwlksState c o
+LSTMO nwlksState c o
+s_wlks2_t wlksState c o

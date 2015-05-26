@@ -1,0 +1,50 @@
+2
+
+Default 1 44
+DDC	AfterDDC c o
+DS	Default c o
+KWTMO	Default c o
+PS	Default c o
+c_lp1_t	Default c o
+c_ula1_t	Default c o
+da1	Default c o
+ddl	Default c o
+ddl1	Default c o
+ddl1_f	Default c o
+ddl2	Default c o
+ddl2_f	Default c o
+fddl	Default c o
+fpdl	Default c o
+lad_ddl	Default c o
+lad_pdl	Default c o
+lp1_t	Default c o
+nda1	Default c o
+nddl	Default c o
+nddl1	Default c o
+nddl1_f	Default c o
+nddl2	Default c o
+nkivWarn_f	Default c o
+nlp1_t	Default c o
+npdl1	Default c o
+npdl1_f	Default c o
+nula1_t	Default c o
+null_ddl	Default c o
+null_pdl	Default c o
+pdl1	Default c o
+pdl1_f	Default c o
+pdl2_f	Default c o
+s_fsext1_t	Default c o
+s_fsreg1_t	Default c o
+s_kivl1_c	Default c o
+s_lad1	Default c o
+s_retry1_t	Default c o
+s_ula1	Default c o
+s_uld1	Default c o
+ula1_t	Default c o
+ula_ddl	Default c o
+ula_pdl	Default c o
+uld_ddl	Default c o
+uld_pdl	Default c o
+
+AfterDDC 1 0
+

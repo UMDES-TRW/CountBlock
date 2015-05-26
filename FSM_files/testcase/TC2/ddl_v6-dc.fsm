@@ -1,0 +1,47 @@
+5
+
+nddlState 1 7
+nddl	nddlState c o
+nddl2	nddlState c o
+nddl1	nddlState c o
+ddl2_f	ddlState c o
+ddl1_f	ddlState c o
+nddl1_f	nddlState c o
+fddl	Fault c o
+
+ddlState 1 7
+ddl	ddlState c o
+ddl1	ddlState c o
+ddl2	ddlState c o
+ddl2_f	ddlState c o
+ddl1_f	ddlState c o
+nddl1_f	nddlState c o
+fddl	Fault c o
+
+Fault 1 7
+lad_ddl	F_ddlState c o
+null_ddl	F_nddlState c o
+ula_ddl	F_nddlState c o
+uld_ddl	F_nddlState c o
+ddl2_f	ddlState c o
+ddl1_f	ddlState c o
+nddl1_f	nddlState c o
+
+F_ddlState 1 7
+ddl	F_ddlState c o
+ddl1	F_ddlState c o
+ddl2	F_ddlState c o
+ddl2_f	ddlState c o
+ddl1_f	ddlState c o
+nddl1_f	nddlState c o
+fddl	Fault c o
+
+F_nddlState 1 7
+nddl	F_nddlState c o
+nddl1	F_nddlState c o
+nddl2	F_nddlState c o
+ddl2_f	ddlState c o
+ddl1_f	ddlState c o
+nddl1_f	nddlState c o
+fddl	Fault c o
+

@@ -1,0 +1,396 @@
+68
+
+WAidle	1	11
+DA	1	c	o
+DC	3	c	o
+DS	WAidle	c	o
+PS	WAidle	c	o
+FR	WAidle	c	o
+nFR	WAidle	c	o
+LSTMO	WAidle	c	o
+PTMO	WAidle	c	o
+EFD2	WAidle	c	o
+nEFD2	WAidle	c	o
+MTMO	WAidle	c	o
+
+1	0	2
+dda2	2	c	o
+ndda2	WAidle	c	o
+
+10	0	2
+nigoff2	81	c	o
+igoff2	11	c	o
+
+11	0	2
+nbsp2	12	c	o
+bsp2	81	c	o
+
+12	0	2
+sbp2	81	c	o
+nsbp2	13	c	o
+
+13	0	1
+kivwarn2_f	14	c	o
+
+14	0	1
+s_kw2_t	81	c	o
+
+15	0	1
+c_wlkp2_t	16	c	o
+
+16	0	1
+s_wlks2_t	17	c	o
+
+17	0	1
+s_wlkfs2_c	WAInitDrvrScan	c	o
+
+18	0	1
+c_wlks2_t	19	c	o
+
+19	0	1
+s_wlkp2_t	WAInitDrvrDelay	c	o
+
+2	0	1
+s_ddwa2	WAidle	c	o
+
+21	0	1
+c_wlks2_t	22	c	o
+
+22	0	1
+s_wlkp2_t	23	c	o
+
+23	0	1
+s_wlkm2_t	WALockPending	c	o
+
+24	0	1
+s_wlks2_t	WAInitPsgrScan	c	o
+
+25	0	1
+c_wlks2_t	26	c	o
+
+26	0	1
+a_wlkfs2_c	51	c	o
+
+28	0	1
+s_wlks2_t	WAInitDrvrScan	c	o
+
+3	0	2
+da2	WAidle	c	o
+nda2	4	c	o
+
+37	0	1
+s_wlks2_t	WALockPendingPoll	c	o
+
+38	0	1
+c_wlkp2_t	39	c	o
+
+39	0	1
+s_wlks2_t	WAFinalReg	c	o
+
+4	0	2
+ddwa2	5	c	o
+nddwa2	WAidle	c	o
+
+40	0	1
+s_wlkfs2_c	41	c	o
+
+41	0	1
+c_wlks2_t	42	c	o
+
+42	0	1
+s_wlks2_t	WAReDrvrScan	c	o
+
+43	0	1
+c_wlks2_t	44	c	o
+
+44	0	1
+s_wlkp2_t	WALockPending	c	o
+
+45	0	1
+c_wlks2_t	46	c	o
+
+46	0	1
+s_wlkp2_t	WAReDrvrDelay	c	o
+
+47	0	1
+s_wlks2_t	WARePsgrScan	c	o
+
+48	0	1
+c_wlks2_t	49	c	o
+
+49	0	1
+a_wlkfs2_c	55	c	o
+
+5	0	2
+nigoff2	WAidle	c	o
+igoff2	6	c	o
+
+51	0	2
+wlkfs2_c	52	c	o
+nwlkfs2_c	53	c	o
+
+52	0	1
+s_wlkp2_t	WAInitPsgrDelay	c	o
+
+53	0	1
+c_wlks2_t	54	c	o
+
+54	0	1
+wlklfail_f	WAidle	c	o
+
+55	0	2
+wlkfs2_c	56	c	o
+nwlkfs2_c	38	c	o
+
+56	0	1
+s_wlkp2_t	WARePsgrDelay	c	o
+
+59	0	1
+kivwarn2_f	60	c	o
+
+6	0	2
+nddl2	7	c	o
+ddl2	WAidle	c	o
+
+60	0	1
+s_kw2_t	WAidle	c	o
+
+61	0	1
+pdl2_f	82	c	o
+
+63	0	2
+dda2	67	c	o
+ndda2	64	c	o
+
+64	0	1
+wlklfail_f	67	c	o
+
+65	0	1
+c_wlks2_t	66	c	o
+
+66	0	1
+c_wlkm2_t	WAidle	c	o
+
+67	0	1
+c_wlkp2_t	65	c	o
+
+7	0	1
+s_wlks2_t	8	c	o
+
+8	0	1
+s_nddwa2	WAInitReg	c	o
+
+81	0	1
+c_wlks2_t	WAidle	c	o
+
+82	0	1
+ddl2_f	WAidle	c	o
+
+9	0	2
+nfpr2	81	c	o
+fpr2	10	c	o
+
+WAFinalReg	1	15
+DA	63	c	o
+DC	WAFinalReg	c	o
+DS	67	c	o
+PS	67	c	o
+FR	59	c	o
+nFR	61	c	o
+LSTMO	61	c	o
+PTMO	WAFinalReg	c	o
+EFD2	WAFinalReg	c	o
+nEFD2	WAFinalReg	c	o
+MTMO	WAFinalReg	c	o
+nigoff2	67	c	o
+igoff2	WAFinalReg	c	o
+nddl2	WAFinalReg	c	o
+ddl2	67	c	o
+
+WAInitDrvrDelay	1	15
+DA	63	c	o
+DC	WAInitDrvrDelay	c	o
+DS	67	c	o
+PS	67	c	o
+FR	WAInitDrvrDelay	c	o
+nFR	WAInitDrvrDelay	c	o
+LSTMO	WAInitDrvrDelay	c	o
+PTMO	24	c	o
+EFD2	WAInitDrvrDelay	c	o
+nEFD2	WAInitDrvrDelay	c	o
+MTMO	WAInitDrvrDelay	c	o
+nigoff2	67	c	o
+igoff2	WAInitDrvrDelay	c	o
+nddl2	WAInitDrvrDelay	c	o
+ddl2	67	c	o
+
+WAInitDrvrScan	1	15
+DA	63	c	o
+DC	WAInitDrvrScan	c	o
+DS	67	c	o
+PS	67	c	o
+FR	WAInitDrvrScan	c	o
+nFR	WAInitDrvrScan	c	o
+LSTMO	18	c	o
+PTMO	WAInitDrvrScan	c	o
+EFD2	21	c	o
+nEFD2	18	c	o
+MTMO	WAInitDrvrScan	c	o
+nigoff2	67	c	o
+igoff2	WAInitDrvrScan	c	o
+nddl2	WAInitDrvrScan	c	o
+ddl2	67	c	o
+
+WAInitPsgrDelay	1	15
+DA	63	c	o
+DC	WAInitPsgrDelay	c	o
+DS	67	c	o
+PS	67	c	o
+FR	WAInitPsgrDelay	c	o
+nFR	WAInitPsgrDelay	c	o
+LSTMO	WAInitPsgrDelay	c	o
+PTMO	28	c	o
+EFD2	WAInitPsgrDelay	c	o
+nEFD2	WAInitPsgrDelay	c	o
+MTMO	WAInitPsgrDelay	c	o
+nigoff2	67	c	o
+igoff2	WAInitPsgrDelay	c	o
+nddl2	WAInitPsgrDelay	c	o
+ddl2	67	c	o
+
+WAInitPsgrScan	1	15
+DA	63	c	o
+DC	WAInitPsgrScan	c	o
+DS	67	c	o
+PS	67	c	o
+FR	WAInitPsgrScan	c	o
+nFR	WAInitPsgrScan	c	o
+LSTMO	25	c	o
+PTMO	WAInitPsgrScan	c	o
+EFD2	21	c	o
+nEFD2	25	c	o
+MTMO	WAInitPsgrScan	c	o
+nigoff2	67	c	o
+igoff2	WAInitPsgrScan	c	o
+nddl2	WAInitPsgrScan	c	o
+ddl2	67	c	o
+
+WAInitReg	1	15
+DA	63	c	o
+DC	WAInitReg	c	o
+DS	67	c	o
+PS	67	c	o
+FR	9	c	o
+nFR	15	c	o
+LSTMO	15	c	o
+PTMO	WAInitReg	c	o
+EFD2	WAInitReg	c	o
+nEFD2	WAInitReg	c	o
+MTMO	WAInitReg	c	o
+nigoff2	67	c	o
+igoff2	WAInitReg	c	o
+nddl2	WAInitReg	c	o
+ddl2	67	c	o
+
+WALockPending	1	15
+DA	63	c	o
+DC	WALockPending	c	o
+DS	67	c	o
+PS	67	c	o
+FR	WALockPending	c	o
+nFR	WALockPending	c	o
+LSTMO	WALockPending	c	o
+PTMO	37	c	o
+EFD2	WALockPending	c	o
+nEFD2	WALockPending	c	o
+MTMO	38	c	o
+nigoff2	67	c	o
+igoff2	WALockPending	c	o
+nddl2	WALockPending	c	o
+ddl2	67	c	o
+
+WALockPendingPoll	1	15
+DA	63	c	o
+DC	WALockPendingPoll	c	o
+DS	67	c	o
+PS	67	c	o
+FR	WALockPendingPoll	c	o
+nFR	WALockPendingPoll	c	o
+LSTMO	40	c	o
+PTMO	WALockPendingPoll	c	o
+EFD2	43	c	o
+nEFD2	40	c	o
+MTMO	38	c	o
+nigoff2	67	c	o
+igoff2	WALockPendingPoll	c	o
+nddl2	WALockPendingPoll	c	o
+ddl2	67	c	o
+
+WAReDrvrDelay	1	15
+DA	63	c	o
+DC	WAReDrvrDelay	c	o
+DS	67	c	o
+PS	67	c	o
+FR	WAReDrvrDelay	c	o
+nFR	WAReDrvrDelay	c	o
+LSTMO	WAReDrvrDelay	c	o
+PTMO	47	c	o
+EFD2	WAReDrvrDelay	c	o
+nEFD2	WAReDrvrDelay	c	o
+MTMO	WAReDrvrDelay	c	o
+nigoff2	67	c	o
+igoff2	WAReDrvrDelay	c	o
+nddl2	WAReDrvrDelay	c	o
+ddl2	67	c	o
+
+WAReDrvrScan	1	15
+DA	63	c	o
+DC	WAReDrvrScan	c	o
+DS	67	c	o
+PS	67	c	o
+FR	WAReDrvrScan	c	o
+nFR	WAReDrvrScan	c	o
+LSTMO	45	c	o
+PTMO	WAReDrvrScan	c	o
+EFD2	21	c	o
+nEFD2	45	c	o
+MTMO	WAReDrvrScan	c	o
+nigoff2	67	c	o
+igoff2	WAReDrvrScan	c	o
+nddl2	WAReDrvrScan	c	o
+ddl2	67	c	o
+
+WARePsgrDelay	1	15
+DA	63	c	o
+DC	WARePsgrDelay	c	o
+DS	67	c	o
+PS	67	c	o
+FR	WARePsgrDelay	c	o
+nFR	WARePsgrDelay	c	o
+LSTMO	WARePsgrDelay	c	o
+PTMO	42	c	o
+EFD2	WARePsgrDelay	c	o
+nEFD2	WARePsgrDelay	c	o
+MTMO	WARePsgrDelay	c	o
+nigoff2	67	c	o
+igoff2	WARePsgrDelay	c	o
+nddl2	WARePsgrDelay	c	o
+ddl2	67	c	o
+
+WARePsgrScan	1	15
+DA	63	c	o
+DC	WARePsgrScan	c	o
+DS	67	c	o
+PS	67	c	o
+FR	WARePsgrScan	c	o
+nFR	WARePsgrScan	c	o
+LSTMO	48	c	o
+PTMO	WARePsgrScan	c	o
+EFD2	21	c	o
+nEFD2	48	c	o
+MTMO	WARePsgrScan	c	o
+nigoff2	67	c	o
+igoff2	WARePsgrScan	c	o
+nddl2	WARePsgrScan	c	o
+ddl2	67	c	o
+

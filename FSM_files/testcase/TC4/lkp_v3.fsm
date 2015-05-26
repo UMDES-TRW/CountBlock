@@ -1,0 +1,12 @@
+2
+
+nlkpState	1	3
+da	lkpState	c	o
+nda	nlkpState	c	o
+nlkp3	nlkpState	c	o
+
+
+lkpState	0	3
+lkp3	lkpState	c	o
+nda	nlkpState	c	o
+da	lkpState	c	o

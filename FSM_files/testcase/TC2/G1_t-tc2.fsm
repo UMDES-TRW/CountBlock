@@ -1,0 +1,63 @@
+22
+
+PEidle	1	4
+PS	13	c	o
+DS	0	c	o
+KWTMO	74	c	o
+DDC	31	c	o
+
+13	0	0
+
+0	0	0
+
+74	0	1
+nkivWarn_f	PEidle	c	o
+
+31	0	1
+c_ula1_t	PEidle	c	o
+
+2	0	1
+nddl1_f	53	c	o
+
+30	0	2
+nddl1	6	c	o
+ddl1	4	c	o
+
+10	0	1
+da1	PEidle	c	o
+
+11	0	0
+
+28	0	1
+s_fsreg1_t	PEintScan	c	o
+
+15	0	1
+nddl1_f	66	c	o
+
+29	0	2
+pdl1	7	c	o
+npdl1	10	c	o
+
+66	0	1
+npdl1_f	53	c	o
+
+3	0	1
+s_kivl1_c	PEidle	c	o
+
+7	0	0
+
+19	0	0
+
+9	0	1
+s_fsext1_t	PEextScan	c	o
+
+53	0	0
+
+PEintScan	1	0
+
+6	0	0
+
+4	0	0
+
+PEextScan	1	0
+

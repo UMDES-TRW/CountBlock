@@ -1,0 +1,12 @@
+2
+
+nlpState	1	3
+nlp1_t	nlpState	c	o
+s_lp3_t	lpState	c	o
+c_lp1_t	nlpState	c	o
+
+lpState	1	4
+s_lp3_t	lpState	c	o
+c_lp1_t	nlpState	c	o
+LPTMO	nlpState	c	o
+lp1_t	lpState	c	o

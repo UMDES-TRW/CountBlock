@@ -1,0 +1,37 @@
+10
+
+WAidle	1	2
+DA	1	c	o
+DC	3	c	o
+
+1	0	2
+dda2	2	c	o
+ndda2	WAidle	c	o
+
+3	0	2
+da2	WAidle	c	o
+nda2	4	c	o
+
+2	0	1
+s_ddwa2	WAidle	c	o
+
+4	0	2
+ddwa2	5	c	o
+nddwa2	WAidle	c	o
+
+5	0	2
+nigoff2	WAidle	c	o
+igoff2	6	c	o
+
+6	0	2
+nddl2	7	c	o
+ddl2	WAidle	c	o
+
+7	0	1
+s_wlks2_t	8	c	o
+
+8	0	1
+s_nddwa2	WAInitReg	c	o
+
+WAInitReg	1	1
+DC	WAInitReg	c	o

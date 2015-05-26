@@ -1,0 +1,37 @@
+4
+
+ncmdState	1	7
+s_uld1	uldState	c	o
+s_ula1	ulaState	c	o
+s_lad1	ladState	c	o
+s_null1	ncmdState	c	o
+null1	ncmdState	c	o
+null_pdl	ncmdState	c	o
+null_ddl	ncmdState	c	o
+
+ladState	1	7
+s_ula1	ulaState	c	o
+s_uld1	uldState	c	o
+s_lad1	ladState	c	o
+s_null1	ncmdState	c	o
+lad1	ladState	c	o
+lad_pdl	ladState	c	o
+lad_ddl	ladState	c	o
+
+ulaState	1	7
+s_ula1	ulaState	c	o
+s_uld1	uldState	c	o
+s_lad1	ladState	c	o
+s_null1	ncmdState	c	o
+ula1	ulaState	c	o
+ula_pdl	ulaState	c	o
+ula_ddl	ulaState	c	o
+
+uldState	1	7
+s_ula1	ulaState	c	o
+s_uld1	uldState	c	o
+s_lad1	ladState	c	o
+s_null1	ncmdState	c	o
+uld_pdl	uldState	c	o
+uld_ddl	uldState	c	o
+uld1	uldState	c	o

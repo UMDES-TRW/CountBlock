@@ -1,0 +1,33 @@
+8
+
+LKidle	1	4
+DC	0	c	o
+FR	LKidle	c	o
+nFR	LKidle	c	o
+TMO	LKidle	c	o
+
+LKintScan	1	4
+FR	2	c	o
+nFR	LKidle	c	o
+TMO	LKidle	c	o
+DC	LKintScan	c	o
+
+5	0	1
+s_lp3_t	LKidle	c	o
+
+4	0	1
+s_kw3_t	5	c	o
+
+3	0	1
+s_lkps3_t	LKintScan	c	o
+
+2	0	1
+KivWarn3_f	4	c	o
+
+1	0	2
+nlkp3	LKidle	c	o
+lkp3	3	c	o
+
+0	0	2
+da3	LKidle	c	o
+nda3	1	c	o

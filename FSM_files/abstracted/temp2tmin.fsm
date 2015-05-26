@@ -1,0 +1,5822 @@
+540
+
+q0,q37,q270,q980	1	9
+DA	q1060,q929	c	o
+DC	q828,q728	c	o
+DS	q0,q37,q270,q980	c	o
+EFD2	q0,q37,q270,q980	c	o
+FR	q437,q112,q1020,q347,q1058	c	o
+nEFD2	q0,q37,q270,q980	c	o
+nFR	q0,q37,q270,q980	c	o
+ntfr1	q0,q37,q270,q980	c	o
+PS	q0,q37,q270,q980	c	o
+
+q1,q157	0	11
+dda	q12,q169	c	o
+DS	q1,q157	c	o
+EFD2	q1,q157	c	o
+FR	q1,q157	c	o
+LSTMO	q302,q158	c	o
+MTMO	q197,q334	c	o
+ndda	q171,q365,q14,q233	c	o
+nEFD2	q1,q157	c	o
+nFR	q79,q1022	c	o
+PS	q1,q157	c	o
+tfr1	q1,q157	c	o
+
+q1000,q890	0	15
+ddl2	q260,q381	c	o
+DS	q260,q381	c	o
+EFD2	q735,q604	c	o
+FR	q1077,q952	c	o
+igoff	q1002,q892	c	o
+igoff2	q1000,q890	c	o
+LSTMO	q916,q1038	c	o
+MTMO	q97,q1039	c	o
+nddl2	q1000,q890	c	o
+nEFD2	q916,q1038	c	o
+nFR	q1000,q890	c	o
+nigoff	q896,q1006	c	o
+nigoff2	q260,q381	c	o
+ntfr1	q1000,q890	c	o
+PS	q260,q381	c	o
+
+q1001,q63	0	4
+ddl2_f	q1026,q83	c	o
+igoff	q1003,q65	c	o
+nigoff	q69,q1007	c	o
+ntfr1	q1001,q63	c	o
+
+q1002,q892	0	15
+ddl	q896,q1006	c	o
+ddl2	q262,q382	c	o
+DS	q262,q382	c	o
+EFD2	q736,q606	c	o
+FR	q953,q1078	c	o
+igoff2	q1002,q892	c	o
+LSTMO	q917,q1040	c	o
+MTMO	q99,q1041	c	o
+nddl	q898,q1008	c	o
+nddl2	q1002,q892	c	o
+nEFD2	q917,q1040	c	o
+nFR	q1002,q892	c	o
+nigoff2	q262,q382	c	o
+ntfr1	q1002,q892	c	o
+PS	q262,q382	c	o
+
+q1003,q65	0	4
+ddl	q69,q1007	c	o
+ddl2_f	q85,q1028	c	o
+nddl	q71,q1009	c	o
+ntfr1	q1003,q65	c	o
+
+q1004,q894	0	15
+da	q898,q1008	c	o
+ddl2	q264,q383	c	o
+DS	q264,q383	c	o
+EFD2	q737,q608	c	o
+FR	q1079,q954	c	o
+igoff2	q1004,q894	c	o
+LSTMO	q918,q1042	c	o
+MTMO	q101,q1043	c	o
+nda	q898,q1008	c	o
+nddl2	q1004,q894	c	o
+nEFD2	q918,q1042	c	o
+nFR	q1004,q894	c	o
+nigoff2	q264,q383	c	o
+ntfr1	q1004,q894	c	o
+PS	q264,q383	c	o
+
+q1005,q67	0	4
+da	q71,q1009	c	o
+ddl2_f	q87,q1030	c	o
+nda	q71,q1009	c	o
+ntfr1	q1005,q67	c	o
+
+q101,q1043	0	14
+da	q1047,q105	c	o
+ddl2	q264,q383	c	o
+DS	q264,q383	c	o
+EFD2	q737,q608	c	o
+FR	q180,q22	c	o
+igoff2	q101,q1043	c	o
+LSTMO	q995,q55	c	o
+nda	q1047,q105	c	o
+nddl2	q101,q1043	c	o
+nEFD2	q995,q55	c	o
+nFR	q101,q1043	c	o
+nigoff2	q264,q383	c	o
+ntfr1	q101,q1043	c	o
+PS	q264,q383	c	o
+
+q1011,q900	0	5
+da	q1019,q905	c	o
+igoff2	q780	c	o
+nda	q1013,q901	c	o
+nigoff2	q430,q1010,q335	c	o
+tfr1	q1011,q900	c	o
+
+q1013,q901	0	5
+igoff	q1015,q902	c	o
+igoff2	q782	c	o
+nigoff	q1019,q905	c	o
+nigoff2	q337,q431,q1012	c	o
+tfr1	q1013,q901	c	o
+
+q1015,q902	0	5
+ddl	q1019,q905	c	o
+igoff2	q784	c	o
+nddl	q1021,q907	c	o
+nigoff2	q432,q1014,q339	c	o
+tfr1	q1015,q902	c	o
+
+q1017,q903	0	5
+da	q1021,q907	c	o
+igoff2	q786	c	o
+nda	q1021,q907	c	o
+nigoff2	q341,q433,q1016	c	o
+tfr1	q1017,q903	c	o
+
+q1018,q435,q345	1	9
+DA	q987,q44	c	o
+DC	q767,q860	c	o
+DS	q1018,q435,q345	c	o
+EFD2	q1018,q435,q345	c	o
+FR	q1018,q435,q345	c	o
+nEFD2	q1018,q435,q345	c	o
+nFR	q385,q268	c	o
+PS	q1018,q435,q345	c	o
+tfr1	q1018,q435,q345	c	o
+
+q1019,q905	0	3
+igoff2	q788	c	o
+nigoff2	q1018,q435,q345	c	o
+tfr1	q1019,q905	c	o
+
+q1021,q907	0	3
+igoff2	q790	c	o
+nigoff2	q437,q112,q1020,q347,q1058	c	o
+tfr1	q1021,q907	c	o
+
+q1023,q909	0	15
+da	q913,q1032	c	o
+ddl2	q258,q380	c	o
+DS	q258,q380	c	o
+EFD2	q1023,q909	c	o
+FR	q957,q2	c	o
+igoff2	q1023,q909	c	o
+MTMO	q114,q1061	c	o
+nda	q1025,q910	c	o
+nddl2	q1023,q909	c	o
+nEFD2	q1023,q909	c	o
+nFR	q1023,q909	c	o
+nigoff2	q258,q380	c	o
+ntfr1	q1023,q909	c	o
+PS	q258,q380	c	o
+PTMO	q998,q888	c	o
+
+q1025,q910	0	15
+ddl2	q260,q381	c	o
+DS	q260,q381	c	o
+EFD2	q1025,q910	c	o
+FR	q4,q958	c	o
+igoff	q1027,q911	c	o
+igoff2	q1025,q910	c	o
+MTMO	q116,q1062	c	o
+nddl2	q1025,q910	c	o
+nEFD2	q1025,q910	c	o
+nFR	q1025,q910	c	o
+nigoff	q913,q1032	c	o
+nigoff2	q260,q381	c	o
+ntfr1	q1025,q910	c	o
+PS	q260,q381	c	o
+PTMO	q1000,q890	c	o
+
+q1026,q83	0	11
+DS	q1026,q83	c	o
+EFD2	q1026,q83	c	o
+FR	q161,q5	c	o
+igoff	q85,q1028	c	o
+LSTMO	q84,q237	c	o
+MTMO	q261,q117	c	o
+nEFD2	q1026,q83	c	o
+nFR	q1026,q83	c	o
+nigoff	q91,q1033	c	o
+ntfr1	q1026,q83	c	o
+PS	q1026,q83	c	o
+
+q1027,q911	0	15
+ddl	q913,q1032	c	o
+ddl2	q262,q382	c	o
+DS	q262,q382	c	o
+EFD2	q1027,q911	c	o
+FR	q959,q6	c	o
+igoff2	q1027,q911	c	o
+MTMO	q118,q1063	c	o
+nddl	q914,q1034	c	o
+nddl2	q1027,q911	c	o
+nEFD2	q1027,q911	c	o
+nFR	q1027,q911	c	o
+nigoff2	q262,q382	c	o
+ntfr1	q1027,q911	c	o
+PS	q262,q382	c	o
+PTMO	q1002,q892	c	o
+
+q1029,q912	0	15
+da	q914,q1034	c	o
+ddl2	q264,q383	c	o
+DS	q264,q383	c	o
+EFD2	q1029,q912	c	o
+FR	q8,q960	c	o
+igoff2	q1029,q912	c	o
+MTMO	q120,q1064	c	o
+nda	q914,q1034	c	o
+nddl2	q1029,q912	c	o
+nEFD2	q1029,q912	c	o
+nFR	q1029,q912	c	o
+nigoff2	q264,q383	c	o
+ntfr1	q1029,q912	c	o
+PS	q264,q383	c	o
+PTMO	q1004,q894	c	o
+
+q1031,q89	0	11
+dda	q91,q1033	c	o
+DS	q1031,q89	c	o
+EFD2	q1031,q89	c	o
+FR	q167,q10	c	o
+LSTMO	q90,q240	c	o
+MTMO	q267,q122	c	o
+ndda	q91,q1033	c	o
+nEFD2	q1031,q89	c	o
+nFR	q1031,q89	c	o
+ntfr1	q1031,q89	c	o
+PS	q1031,q89	c	o
+
+q1035,q155,q300,q93	1	11
+DA	q323,q419	c	o
+DC	q465,q570	c	o
+DS	q1035,q155,q300,q93	c	o
+EFD2	q1035,q155,q300,q93	c	o
+FR	q171,q365,q14,q233	c	o
+LSTMO	q301,q94,q243,q404	c	o
+MTMO	q271,q981,q126,q879	c	o
+nEFD2	q1035,q155,q300,q93	c	o
+nFR	q1035,q155,q300,q93	c	o
+ntfr1	q1035,q155,q300,q93	c	o
+PS	q1035,q155,q300,q93	c	o
+
+q1045,q103	1	14
+DA	q1065,q934	c	o
+DC	q95,q1037	c	o
+ddl2	q385,q268	c	o
+DS	q385,q268	c	o
+EFD2	q610,q738	c	o
+FR	q24,q182	c	o
+igoff2	q1045,q103	c	o
+LSTMO	q996,q57	c	o
+nddl2	q1045,q103	c	o
+nEFD2	q996,q57	c	o
+nFR	q1045,q103	c	o
+nigoff2	q385,q268	c	o
+ntfr1	q1045,q103	c	o
+PS	q385,q268	c	o
+
+q1047,q105	1	14
+DA	q1060,q929	c	o
+DC	q101,q1043	c	o
+ddl2	q0,q37,q270,q980	c	o
+DS	q0,q37,q270,q980	c	o
+EFD2	q612,q739	c	o
+FR	q184,q26	c	o
+igoff2	q1047,q105	c	o
+LSTMO	q59,q997	c	o
+nddl2	q1047,q105	c	o
+nEFD2	q59,q997	c	o
+nFR	q1047,q105	c	o
+nigoff2	q0,q37,q270,q980	c	o
+ntfr1	q1047,q105	c	o
+PS	q0,q37,q270,q980	c	o
+
+q1054,q110	0	3
+da	q437,q112,q1020,q347,q1058	c	o
+nda	q437,q112,q1020,q347,q1058	c	o
+tfr1	q1054,q110	c	o
+
+q1056,q836,q111,q926	0	3
+igoff2	q537,q660	c	o
+nigoff2	q1018,q435,q345	c	o
+tfr1	q1056,q836,q111,q926	c	o
+
+q1057,q968,q872,q927	0	3
+igoff2	q436,q538	c	o
+nigoff2	q207,q346	c	o
+tfr1	q1057,q968,q872,q927	c	o
+
+q1059,q348,q209,q928	1	10
+DA	q852,q759	c	o
+DC	q774,q659	c	o
+DS	q1059,q348,q209,q928	c	o
+EFD2	q1059,q348,q209,q928	c	o
+FR	q1059,q348,q209,q928	c	o
+LSTMO	q437,q112,q1020,q347,q1058	c	o
+nEFD2	q1059,q348,q209,q928	c	o
+nFR	q271,q981,q126,q879	c	o
+PS	q1059,q348,q209,q928	c	o
+tfr1	q1059,q348,q209,q928	c	o
+
+q106,q249	0	2
+ddl2_f	q0,q37,q270,q980	c	o
+ntfr1	q106,q249	c	o
+
+q1060,q929	0	5
+dda	q935,q1066	c	o
+dda2	q256,q379	c	o
+ndda	q937,q1068	c	o
+ndda2	q256,q379	c	o
+ntfr1	q1060,q929	c	o
+
+q1065,q934	0	5
+dda	q935,q1066	c	o
+dda2	q266,q384	c	o
+ndda	q935,q1066	c	o
+ndda2	q266,q384	c	o
+ntfr1	q1065,q934	c	o
+
+q1067,q123	1	14
+DA	q1065,q934	c	o
+DC	q114,q1061	c	o
+ddl2	q385,q268	c	o
+DS	q385,q268	c	o
+EFD2	q1067,q123	c	o
+FR	q46,q208	c	o
+igoff2	q1067,q123	c	o
+nddl2	q1067,q123	c	o
+nEFD2	q1067,q123	c	o
+nFR	q1067,q123	c	o
+nigoff2	q385,q268	c	o
+ntfr1	q1067,q123	c	o
+PS	q385,q268	c	o
+PTMO	q1045,q103	c	o
+
+q1069,q125	1	14
+DA	q1060,q929	c	o
+DC	q120,q1064	c	o
+ddl2	q0,q37,q270,q980	c	o
+DS	q0,q37,q270,q980	c	o
+EFD2	q1069,q125	c	o
+FR	q210,q48	c	o
+igoff2	q1069,q125	c	o
+nddl2	q1069,q125	c	o
+nEFD2	q1069,q125	c	o
+nFR	q1069,q125	c	o
+nigoff2	q0,q37,q270,q980	c	o
+ntfr1	q1069,q125	c	o
+PS	q0,q37,q270,q980	c	o
+PTMO	q1047,q105	c	o
+
+q107,q1048	0	3
+da	q1056,q836,q111,q926	c	o
+nda	q108,q1050	c	o
+tfr1	q107,q1048	c	o
+
+q1072,q131	0	14
+ddl	q1074,q135	c	o
+ddl2	q432,q1014,q339	c	o
+DS	q432,q1014,q339	c	o
+EFD2	q1072,q131	c	o
+FR	q315,q411	c	o
+igoff2	q1072,q131	c	o
+LSTMO	q668,q541	c	o
+nddl	q1075,q137	c	o
+nddl2	q1072,q131	c	o
+nEFD2	q1072,q131	c	o
+nFR	q814,q891	c	o
+nigoff2	q432,q1014,q339	c	o
+PS	q432,q1014,q339	c	o
+tfr1	q1072,q131	c	o
+
+q1074,q135	1	14
+DA	q987,q44	c	o
+DC	q127,q1070	c	o
+ddl2	q1018,q435,q345	c	o
+DS	q1018,q435,q345	c	o
+EFD2	q1074,q135	c	o
+FR	q415,q319	c	o
+igoff2	q1074,q135	c	o
+LSTMO	q543,q672	c	o
+nddl2	q1074,q135	c	o
+nEFD2	q1074,q135	c	o
+nFR	q817,q895	c	o
+nigoff2	q1018,q435,q345	c	o
+PS	q1018,q435,q345	c	o
+tfr1	q1074,q135	c	o
+
+q1075,q137	1	14
+DA	q982,q39	c	o
+DC	q133,q1073	c	o
+ddl2	q437,q112,q1020,q347,q1058	c	o
+DS	q437,q112,q1020,q347,q1058	c	o
+EFD2	q1075,q137	c	o
+FR	q321,q417	c	o
+igoff2	q1075,q137	c	o
+LSTMO	q544,q674	c	o
+nddl2	q1075,q137	c	o
+nEFD2	q1075,q137	c	o
+nFR	q819,q897	c	o
+nigoff2	q437,q112,q1020,q347,q1058	c	o
+PS	q437,q112,q1020,q347,q1058	c	o
+tfr1	q1075,q137	c	o
+
+q1077,q952	0	15
+ddl2	q337,q431,q1012	c	o
+DS	q337,q431,q1012	c	o
+EFD2	q781,q665	c	o
+FR	q1077,q952	c	o
+igoff	q953,q1078	c	o
+igoff2	q1077,q952	c	o
+LSTMO	q17,q964	c	o
+MTMO	q176,q18	c	o
+nddl2	q1077,q952	c	o
+nEFD2	q17,q964	c	o
+nFR	q1000,q890	c	o
+nigoff	q955,q1080	c	o
+nigoff2	q337,q431,q1012	c	o
+PS	q337,q431,q1012	c	o
+tfr1	q1077,q952	c	o
+
+q1079,q954	0	15
+da	q1081,q956	c	o
+ddl2	q341,q433,q1016	c	o
+DS	q341,q433,q1016	c	o
+EFD2	q785,q669	c	o
+FR	q1079,q954	c	o
+igoff2	q1079,q954	c	o
+LSTMO	q21,q966	c	o
+MTMO	q180,q22	c	o
+nda	q1081,q956	c	o
+nddl2	q1079,q954	c	o
+nEFD2	q21,q966	c	o
+nFR	q1004,q894	c	o
+nigoff2	q341,q433,q1016	c	o
+PS	q341,q433,q1016	c	o
+tfr1	q1079,q954	c	o
+
+q108,q1050	0	3
+igoff	q109,q1052	c	o
+nigoff	q1056,q836,q111,q926	c	o
+tfr1	q108,q1050	c	o
+
+q1081,q956	1	15
+DA	q982,q39	c	o
+DC	q1079,q954	c	o
+ddl2	q437,q112,q1020,q347,q1058	c	o
+DS	q437,q112,q1020,q347,q1058	c	o
+EFD2	q789,q673	c	o
+FR	q1081,q956	c	o
+igoff2	q1081,q956	c	o
+LSTMO	q25,q969	c	o
+MTMO	q184,q26	c	o
+nddl2	q1081,q956	c	o
+nEFD2	q25,q969	c	o
+nFR	q898,q1008	c	o
+nigoff2	q437,q112,q1020,q347,q1058	c	o
+PS	q437,q112,q1020,q347,q1058	c	o
+tfr1	q1081,q956	c	o
+
+q1086,q154	1	15
+DA	q1065,q934	c	o
+DC	q146,q1082	c	o
+ddl2	q385,q268	c	o
+DS	q385,q268	c	o
+EFD2	q610,q738	c	o
+FR	q77,q232	c	o
+igoff2	q1086,q154	c	o
+LSTMO	q241,q92	c	o
+MTMO	q58,q215	c	o
+nddl2	q1086,q154	c	o
+nEFD2	q241,q92	c	o
+nFR	q1086,q154	c	o
+nigoff2	q385,q268	c	o
+ntfr1	q1086,q154	c	o
+PS	q385,q268	c	o
+
+q1087,q156	1	15
+DA	q1060,q929	c	o
+DC	q152,q1085	c	o
+ddl2	q0,q37,q270,q980	c	o
+DS	q0,q37,q270,q980	c	o
+EFD2	q612,q739	c	o
+FR	q234,q78	c	o
+igoff2	q1087,q156	c	o
+LSTMO	q301,q94,q243,q404	c	o
+MTMO	q60,q216	c	o
+nddl2	q1087,q156	c	o
+nEFD2	q301,q94,q243,q404	c	o
+nFR	q1087,q156	c	o
+nigoff2	q0,q37,q270,q980	c	o
+ntfr1	q1087,q156	c	o
+PS	q0,q37,q270,q980	c	o
+
+q109,q1052	0	3
+ddl	q1056,q836,q111,q926	c	o
+nddl	q437,q112,q1020,q347,q1058	c	o
+tfr1	q109,q1052	c	o
+
+q113,q257	0	10
+dda	q124,q269	c	o
+DS	q113,q257	c	o
+EFD2	q113,q257	c	o
+FR	q197,q334	c	o
+LSTMO	q256,q379	c	o
+ndda	q271,q981,q126,q879	c	o
+nEFD2	q113,q257	c	o
+nFR	q113,q257	c	o
+ntfr1	q113,q257	c	o
+PS	q113,q257	c	o
+
+q114,q1061	0	14
+da	q1067,q123	c	o
+ddl2	q258,q380	c	o
+DS	q258,q380	c	o
+EFD2	q114,q1061	c	o
+FR	q40,q199	c	o
+igoff2	q114,q1061	c	o
+nda	q116,q1062	c	o
+nddl2	q114,q1061	c	o
+nEFD2	q114,q1061	c	o
+nFR	q114,q1061	c	o
+nigoff2	q258,q380	c	o
+ntfr1	q114,q1061	c	o
+PS	q258,q380	c	o
+PTMO	q95,q1037	c	o
+
+q115,q259	0	10
+da	q124,q269	c	o
+DS	q115,q259	c	o
+EFD2	q115,q259	c	o
+FR	q198,q336	c	o
+LSTMO	q258,q380	c	o
+nda	q261,q117	c	o
+nEFD2	q115,q259	c	o
+nFR	q115,q259	c	o
+ntfr1	q115,q259	c	o
+PS	q115,q259	c	o
+
+q116,q1062	0	14
+ddl2	q260,q381	c	o
+DS	q260,q381	c	o
+EFD2	q116,q1062	c	o
+FR	q201,q41	c	o
+igoff	q118,q1063	c	o
+igoff2	q116,q1062	c	o
+nddl2	q116,q1062	c	o
+nEFD2	q116,q1062	c	o
+nFR	q116,q1062	c	o
+nigoff	q1067,q123	c	o
+nigoff2	q260,q381	c	o
+ntfr1	q116,q1062	c	o
+PS	q260,q381	c	o
+PTMO	q97,q1039	c	o
+
+q118,q1063	0	14
+ddl	q1067,q123	c	o
+ddl2	q262,q382	c	o
+DS	q262,q382	c	o
+EFD2	q118,q1063	c	o
+FR	q42,q203	c	o
+igoff2	q118,q1063	c	o
+nddl	q1069,q125	c	o
+nddl2	q118,q1063	c	o
+nEFD2	q118,q1063	c	o
+nFR	q118,q1063	c	o
+nigoff2	q262,q382	c	o
+ntfr1	q118,q1063	c	o
+PS	q262,q382	c	o
+PTMO	q99,q1041	c	o
+
+q119,q263	0	10
+ddl	q124,q269	c	o
+DS	q119,q263	c	o
+EFD2	q119,q263	c	o
+FR	q202,q340	c	o
+LSTMO	q262,q382	c	o
+nddl	q271,q981,q126,q879	c	o
+nEFD2	q119,q263	c	o
+nFR	q119,q263	c	o
+ntfr1	q119,q263	c	o
+PS	q119,q263	c	o
+
+q12,q169	1	11
+DA	q374,q480	c	o
+DC	q512,q626	c	o
+DS	q12,q169	c	o
+EFD2	q12,q169	c	o
+FR	q12,q169	c	o
+LSTMO	q308,q803,q170	c	o
+MTMO	q207,q346	c	o
+nEFD2	q12,q169	c	o
+nFR	q91,q1033	c	o
+PS	q12,q169	c	o
+tfr1	q12,q169	c	o
+
+q120,q1064	0	14
+da	q1069,q125	c	o
+ddl2	q264,q383	c	o
+DS	q264,q383	c	o
+EFD2	q120,q1064	c	o
+FR	q205,q43	c	o
+igoff2	q120,q1064	c	o
+nda	q1069,q125	c	o
+nddl2	q120,q1064	c	o
+nEFD2	q120,q1064	c	o
+nFR	q120,q1064	c	o
+nigoff2	q264,q383	c	o
+ntfr1	q120,q1064	c	o
+PS	q264,q383	c	o
+PTMO	q101,q1043	c	o
+
+q121,q265	0	10
+da	q271,q981,q126,q879	c	o
+DS	q121,q265	c	o
+EFD2	q121,q265	c	o
+FR	q204,q342	c	o
+LSTMO	q264,q383	c	o
+nda	q271,q981,q126,q879	c	o
+nEFD2	q121,q265	c	o
+nFR	q121,q265	c	o
+ntfr1	q121,q265	c	o
+PS	q121,q265	c	o
+
+q124,q269	1	10
+DA	q707,q816	c	o
+DC	q723,q594	c	o
+DS	q124,q269	c	o
+EFD2	q124,q269	c	o
+FR	q207,q346	c	o
+LSTMO	q385,q268	c	o
+nEFD2	q124,q269	c	o
+nFR	q124,q269	c	o
+ntfr1	q124,q269	c	o
+PS	q124,q269	c	o
+
+q127,q1070	0	14
+da	q1074,q135	c	o
+ddl2	q430,q1010,q335	c	o
+DS	q430,q1010,q335	c	o
+EFD2	q127,q1070	c	o
+FR	q407,q311	c	o
+igoff2	q127,q1070	c	o
+LSTMO	q664,q539	c	o
+nda	q129,q1071	c	o
+nddl2	q127,q1070	c	o
+nEFD2	q127,q1070	c	o
+nFR	q812,q887	c	o
+nigoff2	q430,q1010,q335	c	o
+PS	q430,q1010,q335	c	o
+tfr1	q127,q1070	c	o
+
+q128,q272	0	14
+da	q136,q276	c	o
+ddl2	q430,q1010,q335	c	o
+DS	q430,q1010,q335	c	o
+EFD2	q663,q779	c	o
+FR	q128,q272	c	o
+igoff2	q128,q272	c	o
+LSTMO	q430,q1010,q335	c	o
+nda	q273,q130	c	o
+nddl2	q128,q272	c	o
+nEFD2	q430,q1010,q335	c	o
+nFR	q211,q50	c	o
+nigoff2	q430,q1010,q335	c	o
+PS	q430,q1010,q335	c	o
+tfr1	q128,q272	c	o
+
+q129,q1071	0	14
+ddl2	q337,q431,q1012	c	o
+DS	q337,q431,q1012	c	o
+EFD2	q129,q1071	c	o
+FR	q313,q409	c	o
+igoff	q1072,q131	c	o
+igoff2	q129,q1071	c	o
+LSTMO	q666,q540	c	o
+nddl2	q129,q1071	c	o
+nEFD2	q129,q1071	c	o
+nFR	q889,q813	c	o
+nigoff	q1074,q135	c	o
+nigoff2	q337,q431,q1012	c	o
+PS	q337,q431,q1012	c	o
+tfr1	q129,q1071	c	o
+
+q13,q962	1	15
+DA	q982,q39	c	o
+DC	q8,q960	c	o
+ddl2	q437,q112,q1020,q347,q1058	c	o
+DS	q437,q112,q1020,q347,q1058	c	o
+EFD2	q13,q962	c	o
+FR	q13,q962	c	o
+igoff2	q13,q962	c	o
+MTMO	q210,q48	c	o
+nddl2	q13,q962	c	o
+nEFD2	q13,q962	c	o
+nFR	q914,q1034	c	o
+nigoff2	q437,q112,q1020,q347,q1058	c	o
+PS	q437,q112,q1020,q347,q1058	c	o
+PTMO	q1081,q956	c	o
+tfr1	q13,q962	c	o
+
+q132,q274	0	14
+ddl	q136,q276	c	o
+ddl2	q432,q1014,q339	c	o
+DS	q432,q1014,q339	c	o
+EFD2	q667,q783	c	o
+FR	q132,q274	c	o
+igoff2	q132,q274	c	o
+LSTMO	q432,q1014,q339	c	o
+nddl	q277,q138	c	o
+nddl2	q132,q274	c	o
+nEFD2	q432,q1014,q339	c	o
+nFR	q213,q54	c	o
+nigoff2	q432,q1014,q339	c	o
+PS	q432,q1014,q339	c	o
+tfr1	q132,q274	c	o
+
+q133,q1073	0	14
+da	q1075,q137	c	o
+ddl2	q341,q433,q1016	c	o
+DS	q341,q433,q1016	c	o
+EFD2	q133,q1073	c	o
+FR	q413,q317	c	o
+igoff2	q133,q1073	c	o
+LSTMO	q670,q542	c	o
+nda	q1075,q137	c	o
+nddl2	q133,q1073	c	o
+nEFD2	q133,q1073	c	o
+nFR	q815,q893	c	o
+nigoff2	q341,q433,q1016	c	o
+PS	q341,q433,q1016	c	o
+tfr1	q133,q1073	c	o
+
+q136,q276	1	14
+DA	q987,q44	c	o
+DC	q128,q272	c	o
+ddl2	q1018,q435,q345	c	o
+DS	q1018,q435,q345	c	o
+EFD2	q671,q787	c	o
+FR	q136,q276	c	o
+igoff2	q136,q276	c	o
+LSTMO	q1018,q435,q345	c	o
+nddl2	q136,q276	c	o
+nEFD2	q1018,q435,q345	c	o
+nFR	q58,q215	c	o
+nigoff2	q1018,q435,q345	c	o
+PS	q1018,q435,q345	c	o
+tfr1	q136,q276	c	o
+
+q139,q278	0	4
+da	q143,q286	c	o
+ddl2_f	q160,q303,q798	c	o
+nda	q280,q140	c	o
+tfr1	q139,q278	c	o
+
+q141,q282	0	4
+ddl	q143,q286	c	o
+ddl2_f	q305,q800,q164	c	o
+nddl	q288,q144	c	o
+tfr1	q141,q282	c	o
+
+q142,q284	0	4
+da	q288,q144	c	o
+ddl2_f	q306,q801,q166	c	o
+nda	q288,q144	c	o
+tfr1	q142,q284	c	o
+
+q143,q286	0	2
+ddl2_f	q308,q803,q170	c	o
+tfr1	q143,q286	c	o
+
+q146,q1082	0	15
+da	q1086,q154	c	o
+ddl2	q258,q380	c	o
+DS	q258,q380	c	o
+EFD2	q734,q602	c	o
+FR	q73,q224	c	o
+igoff2	q146,q1082	c	o
+LSTMO	q236,q82	c	o
+MTMO	q211,q50	c	o
+nda	q148,q1083	c	o
+nddl2	q146,q1082	c	o
+nEFD2	q236,q82	c	o
+nFR	q146,q1082	c	o
+nigoff2	q258,q380	c	o
+ntfr1	q146,q1082	c	o
+PS	q258,q380	c	o
+
+q148,q1083	0	15
+ddl2	q260,q381	c	o
+DS	q260,q381	c	o
+EFD2	q735,q604	c	o
+FR	q226,q74	c	o
+igoff	q150,q1084	c	o
+igoff2	q148,q1083	c	o
+LSTMO	q84,q237	c	o
+MTMO	q212,q52	c	o
+nddl2	q148,q1083	c	o
+nEFD2	q84,q237	c	o
+nFR	q148,q1083	c	o
+nigoff	q1086,q154	c	o
+nigoff2	q260,q381	c	o
+ntfr1	q148,q1083	c	o
+PS	q260,q381	c	o
+
+q15,q963	0	15
+da	q23,q967	c	o
+ddl2	q430,q1010,q335	c	o
+DS	q430,q1010,q335	c	o
+EFD2	q15,q963	c	o
+FR	q846,q939	c	o
+igoff2	q15,q963	c	o
+LSTMO	q250,q370	c	o
+MTMO	q127,q1070	c	o
+nda	q17,q964	c	o
+nddl2	q15,q963	c	o
+nEFD2	q15,q963	c	o
+nFR	q185,q28	c	o
+nigoff2	q430,q1010,q335	c	o
+PS	q430,q1010,q335	c	o
+tfr1	q15,q963	c	o
+
+q150,q1084	0	15
+ddl	q1086,q154	c	o
+ddl2	q262,q382	c	o
+DS	q262,q382	c	o
+EFD2	q736,q606	c	o
+FR	q75,q228	c	o
+igoff2	q150,q1084	c	o
+LSTMO	q238,q86	c	o
+MTMO	q213,q54	c	o
+nddl	q1087,q156	c	o
+nddl2	q150,q1084	c	o
+nEFD2	q238,q86	c	o
+nFR	q150,q1084	c	o
+nigoff2	q262,q382	c	o
+ntfr1	q150,q1084	c	o
+PS	q262,q382	c	o
+
+q152,q1085	0	15
+da	q1087,q156	c	o
+ddl2	q264,q383	c	o
+DS	q264,q383	c	o
+EFD2	q737,q608	c	o
+FR	q230,q76	c	o
+igoff2	q152,q1085	c	o
+LSTMO	q239,q88	c	o
+MTMO	q214,q56	c	o
+nda	q1087,q156	c	o
+nddl2	q152,q1085	c	o
+nEFD2	q239,q88	c	o
+nFR	q152,q1085	c	o
+nigoff2	q264,q383	c	o
+ntfr1	q152,q1085	c	o
+PS	q264,q383	c	o
+
+q153,q510,q298,q625	0	3
+igoff2	q242,q367	c	o
+nigoff2	q91,q1033	c	o
+ntfr1	q153,q510,q298,q625	c	o
+
+q16,q174	0	14
+da	q24,q182	c	o
+ddl2	q430,q1010,q335	c	o
+DS	q430,q1010,q335	c	o
+EFD2	q663,q779	c	o
+FR	q16,q174	c	o
+igoff2	q16,q174	c	o
+LSTMO	q127,q1070	c	o
+nda	q176,q18	c	o
+nddl2	q16,q174	c	o
+nEFD2	q127,q1070	c	o
+nFR	q95,q1037	c	o
+nigoff2	q430,q1010,q335	c	o
+PS	q430,q1010,q335	c	o
+tfr1	q16,q174	c	o
+
+q160,q303,q798	0	10
+da	q308,q803,q170	c	o
+DS	q160,q303,q798	c	o
+EFD2	q160,q303,q798	c	o
+FR	q160,q303,q798	c	o
+MTMO	q430,q1010,q335	c	o
+nda	q162,q304,q799	c	o
+nEFD2	q160,q303,q798	c	o
+nFR	q236,q82	c	o
+PS	q160,q303,q798	c	o
+tfr1	q160,q303,q798	c	o
+
+q161,q5	0	11
+DS	q161,q5	c	o
+EFD2	q161,q5	c	o
+FR	q161,q5	c	o
+igoff	q7,q163	c	o
+LSTMO	q162,q304,q799	c	o
+MTMO	q338,q200	c	o
+nEFD2	q161,q5	c	o
+nFR	q1026,q83	c	o
+nigoff	q12,q169	c	o
+PS	q161,q5	c	o
+tfr1	q161,q5	c	o
+
+q162,q304,q799	0	10
+DS	q162,q304,q799	c	o
+EFD2	q162,q304,q799	c	o
+FR	q162,q304,q799	c	o
+igoff	q305,q800,q164	c	o
+MTMO	q337,q431,q1012	c	o
+nEFD2	q162,q304,q799	c	o
+nFR	q84,q237	c	o
+nigoff	q308,q803,q170	c	o
+PS	q162,q304,q799	c	o
+tfr1	q162,q304,q799	c	o
+
+q165,q9	0	11
+da	q171,q365,q14,q233	c	o
+DS	q165,q9	c	o
+EFD2	q165,q9	c	o
+FR	q165,q9	c	o
+LSTMO	q306,q801,q166	c	o
+MTMO	q204,q342	c	o
+nda	q171,q365,q14,q233	c	o
+nEFD2	q165,q9	c	o
+nFR	q87,q1030	c	o
+PS	q165,q9	c	o
+tfr1	q165,q9	c	o
+
+q167,q10	0	11
+dda	q12,q169	c	o
+DS	q167,q10	c	o
+EFD2	q167,q10	c	o
+FR	q167,q10	c	o
+LSTMO	q168,q307	c	o
+MTMO	q344,q206	c	o
+ndda	q12,q169	c	o
+nEFD2	q167,q10	c	o
+nFR	q1031,q89	c	o
+PS	q167,q10	c	o
+tfr1	q167,q10	c	o
+
+q168,q307	0	10
+dda	q308,q803,q170	c	o
+DS	q168,q307	c	o
+EFD2	q168,q307	c	o
+FR	q168,q307	c	o
+MTMO	q434,q343	c	o
+ndda	q308,q803,q170	c	o
+nEFD2	q168,q307	c	o
+nFR	q90,q240	c	o
+PS	q168,q307	c	o
+tfr1	q168,q307	c	o
+
+q17,q964	0	15
+ddl2	q337,q431,q1012	c	o
+DS	q337,q431,q1012	c	o
+EFD2	q17,q964	c	o
+FR	q847,q941	c	o
+igoff	q19,q965	c	o
+igoff2	q17,q964	c	o
+LSTMO	q251,q371	c	o
+MTMO	q129,q1071	c	o
+nddl2	q17,q964	c	o
+nEFD2	q17,q964	c	o
+nFR	q187,q30	c	o
+nigoff	q23,q967	c	o
+nigoff2	q337,q431,q1012	c	o
+PS	q337,q431,q1012	c	o
+tfr1	q17,q964	c	o
+
+q171,q365,q14,q233	1	11
+DA	q475,q369	c	o
+DC	q515,q632	c	o
+DS	q171,q365,q14,q233	c	o
+EFD2	q171,q365,q14,q233	c	o
+FR	q171,q365,q14,q233	c	o
+LSTMO	q310,q461,q804,q172,q366	c	o
+MTMO	q1059,q348,q209,q928	c	o
+nEFD2	q171,q365,q14,q233	c	o
+nFR	q1035,q155,q300,q93	c	o
+PS	q171,q365,q14,q233	c	o
+tfr1	q171,q365,q14,q233	c	o
+
+q175,q314	0	4
+ddl2_f	q337,q431,q1012	c	o
+igoff	q177,q316	c	o
+nigoff	q320,q181	c	o
+tfr1	q175,q314	c	o
+
+q176,q18	0	14
+ddl2	q337,q431,q1012	c	o
+DS	q337,q431,q1012	c	o
+EFD2	q781,q665	c	o
+FR	q176,q18	c	o
+igoff	q20,q178	c	o
+igoff2	q176,q18	c	o
+LSTMO	q129,q1071	c	o
+nddl2	q176,q18	c	o
+nEFD2	q129,q1071	c	o
+nFR	q97,q1039	c	o
+nigoff	q24,q182	c	o
+nigoff2	q337,q431,q1012	c	o
+PS	q337,q431,q1012	c	o
+tfr1	q176,q18	c	o
+
+q177,q316	0	4
+ddl	q320,q181	c	o
+ddl2_f	q432,q1014,q339	c	o
+nddl	q322,q183	c	o
+tfr1	q177,q316	c	o
+
+q179,q318	0	4
+da	q322,q183	c	o
+ddl2_f	q341,q433,q1016	c	o
+nda	q322,q183	c	o
+tfr1	q179,q318	c	o
+
+q180,q22	0	14
+da	q184,q26	c	o
+ddl2	q341,q433,q1016	c	o
+DS	q341,q433,q1016	c	o
+EFD2	q785,q669	c	o
+FR	q180,q22	c	o
+igoff2	q180,q22	c	o
+LSTMO	q133,q1073	c	o
+nda	q184,q26	c	o
+nddl2	q180,q22	c	o
+nEFD2	q133,q1073	c	o
+nFR	q101,q1043	c	o
+nigoff2	q341,q433,q1016	c	o
+PS	q341,q433,q1016	c	o
+tfr1	q180,q22	c	o
+
+q184,q26	1	14
+DA	q982,q39	c	o
+DC	q180,q22	c	o
+ddl2	q437,q112,q1020,q347,q1058	c	o
+DS	q437,q112,q1020,q347,q1058	c	o
+EFD2	q789,q673	c	o
+FR	q184,q26	c	o
+igoff2	q184,q26	c	o
+LSTMO	q1075,q137	c	o
+nddl2	q184,q26	c	o
+nEFD2	q1075,q137	c	o
+nFR	q1047,q105	c	o
+nigoff2	q437,q112,q1020,q347,q1058	c	o
+PS	q437,q112,q1020,q347,q1058	c	o
+tfr1	q184,q26	c	o
+
+q185,q28	0	4
+da	q193,q36	c	o
+nda	q187,q30	c	o
+ntfr1	q185,q28	c	o
+pdl2_f	q999,q61	c	o
+
+q187,q30	0	4
+igoff	q189,q32	c	o
+nigoff	q193,q36	c	o
+ntfr1	q187,q30	c	o
+pdl2_f	q1001,q63	c	o
+
+q188,q325	0	4
+igoff	q326,q190	c	o
+nigoff	q194,q329	c	o
+ntfr1	q188,q325	c	o
+pdl2_f	q218,q64	c	o
+
+q189,q32	0	4
+ddl	q193,q36	c	o
+nddl	q195,q38	c	o
+ntfr1	q189,q32	c	o
+pdl2_f	q1003,q65	c	o
+
+q19,q965	0	15
+ddl	q23,q967	c	o
+ddl2	q432,q1014,q339	c	o
+DS	q432,q1014,q339	c	o
+EFD2	q19,q965	c	o
+FR	q848,q943	c	o
+igoff2	q19,q965	c	o
+LSTMO	q372,q252	c	o
+MTMO	q1072,q131	c	o
+nddl	q25,q969	c	o
+nddl2	q19,q965	c	o
+nEFD2	q19,q965	c	o
+nFR	q189,q32	c	o
+nigoff2	q432,q1014,q339	c	o
+PS	q432,q1014,q339	c	o
+tfr1	q19,q965	c	o
+
+q191,q34	0	4
+da	q195,q38	c	o
+nda	q195,q38	c	o
+ntfr1	q191,q34	c	o
+pdl2_f	q1005,q67	c	o
+
+q193,q36	0	2
+ntfr1	q193,q36	c	o
+pdl2_f	q69,q1007	c	o
+
+q194,q329	0	2
+ntfr1	q194,q329	c	o
+pdl2_f	q70,q221	c	o
+
+q195,q38	0	2
+ntfr1	q195,q38	c	o
+pdl2_f	q71,q1009	c	o
+
+q197,q334	0	10
+dda	q207,q346	c	o
+DS	q197,q334	c	o
+EFD2	q197,q334	c	o
+FR	q197,q334	c	o
+LSTMO	q429,q333	c	o
+ndda	q1059,q348,q209,q928	c	o
+nEFD2	q197,q334	c	o
+nFR	q113,q257	c	o
+PS	q197,q334	c	o
+tfr1	q197,q334	c	o
+
+q198,q336	0	10
+da	q207,q346	c	o
+DS	q198,q336	c	o
+EFD2	q198,q336	c	o
+FR	q198,q336	c	o
+LSTMO	q430,q1010,q335	c	o
+nda	q338,q200	c	o
+nEFD2	q198,q336	c	o
+nFR	q115,q259	c	o
+PS	q198,q336	c	o
+tfr1	q198,q336	c	o
+
+q20,q178	0	14
+ddl	q24,q182	c	o
+ddl2	q432,q1014,q339	c	o
+DS	q432,q1014,q339	c	o
+EFD2	q667,q783	c	o
+FR	q20,q178	c	o
+igoff2	q20,q178	c	o
+LSTMO	q1072,q131	c	o
+nddl	q184,q26	c	o
+nddl2	q20,q178	c	o
+nEFD2	q1072,q131	c	o
+nFR	q99,q1041	c	o
+nigoff2	q432,q1014,q339	c	o
+PS	q432,q1014,q339	c	o
+tfr1	q20,q178	c	o
+
+q201,q41	0	14
+ddl2	q337,q431,q1012	c	o
+DS	q337,q431,q1012	c	o
+EFD2	q201,q41	c	o
+FR	q201,q41	c	o
+igoff	q42,q203	c	o
+igoff2	q201,q41	c	o
+nddl2	q201,q41	c	o
+nEFD2	q201,q41	c	o
+nFR	q116,q1062	c	o
+nigoff	q46,q208	c	o
+nigoff2	q337,q431,q1012	c	o
+PS	q337,q431,q1012	c	o
+PTMO	q176,q18	c	o
+tfr1	q201,q41	c	o
+
+q202,q340	0	10
+ddl	q207,q346	c	o
+DS	q202,q340	c	o
+EFD2	q202,q340	c	o
+FR	q202,q340	c	o
+LSTMO	q432,q1014,q339	c	o
+nddl	q1059,q348,q209,q928	c	o
+nEFD2	q202,q340	c	o
+nFR	q119,q263	c	o
+PS	q202,q340	c	o
+tfr1	q202,q340	c	o
+
+q204,q342	0	10
+da	q1059,q348,q209,q928	c	o
+DS	q204,q342	c	o
+EFD2	q204,q342	c	o
+FR	q204,q342	c	o
+LSTMO	q341,q433,q1016	c	o
+nda	q1059,q348,q209,q928	c	o
+nEFD2	q204,q342	c	o
+nFR	q121,q265	c	o
+PS	q204,q342	c	o
+tfr1	q204,q342	c	o
+
+q205,q43	0	14
+da	q210,q48	c	o
+ddl2	q341,q433,q1016	c	o
+DS	q341,q433,q1016	c	o
+EFD2	q205,q43	c	o
+FR	q205,q43	c	o
+igoff2	q205,q43	c	o
+nda	q210,q48	c	o
+nddl2	q205,q43	c	o
+nEFD2	q205,q43	c	o
+nFR	q120,q1064	c	o
+nigoff2	q341,q433,q1016	c	o
+PS	q341,q433,q1016	c	o
+PTMO	q180,q22	c	o
+tfr1	q205,q43	c	o
+
+q207,q346	1	10
+DA	q760,q853	c	o
+DC	q768,q656	c	o
+DS	q207,q346	c	o
+EFD2	q207,q346	c	o
+FR	q207,q346	c	o
+LSTMO	q1018,q435,q345	c	o
+nEFD2	q207,q346	c	o
+nFR	q124,q269	c	o
+PS	q207,q346	c	o
+tfr1	q207,q346	c	o
+
+q21,q966	0	15
+da	q25,q969	c	o
+ddl2	q341,q433,q1016	c	o
+DS	q341,q433,q1016	c	o
+EFD2	q21,q966	c	o
+FR	q849,q945	c	o
+igoff2	q21,q966	c	o
+LSTMO	q373,q253	c	o
+MTMO	q133,q1073	c	o
+nda	q25,q969	c	o
+nddl2	q21,q966	c	o
+nEFD2	q21,q966	c	o
+nFR	q191,q34	c	o
+nigoff2	q341,q433,q1016	c	o
+PS	q341,q433,q1016	c	o
+tfr1	q21,q966	c	o
+
+q210,q48	1	14
+DA	q982,q39	c	o
+DC	q205,q43	c	o
+ddl2	q437,q112,q1020,q347,q1058	c	o
+DS	q437,q112,q1020,q347,q1058	c	o
+EFD2	q210,q48	c	o
+FR	q210,q48	c	o
+igoff2	q210,q48	c	o
+nddl2	q210,q48	c	o
+nEFD2	q210,q48	c	o
+nFR	q1069,q125	c	o
+nigoff2	q437,q112,q1020,q347,q1058	c	o
+PS	q437,q112,q1020,q347,q1058	c	o
+PTMO	q184,q26	c	o
+tfr1	q210,q48	c	o
+
+q211,q50	0	14
+da	q58,q215	c	o
+ddl2	q258,q380	c	o
+DS	q258,q380	c	o
+EFD2	q734,q602	c	o
+FR	q128,q272	c	o
+igoff2	q211,q50	c	o
+LSTMO	q258,q380	c	o
+nda	q212,q52	c	o
+nddl2	q211,q50	c	o
+nEFD2	q258,q380	c	o
+nFR	q211,q50	c	o
+nigoff2	q258,q380	c	o
+ntfr1	q211,q50	c	o
+PS	q258,q380	c	o
+
+q212,q52	0	14
+ddl2	q260,q381	c	o
+DS	q260,q381	c	o
+EFD2	q735,q604	c	o
+FR	q273,q130	c	o
+igoff	q213,q54	c	o
+igoff2	q212,q52	c	o
+LSTMO	q260,q381	c	o
+nddl2	q212,q52	c	o
+nEFD2	q260,q381	c	o
+nFR	q212,q52	c	o
+nigoff	q58,q215	c	o
+nigoff2	q260,q381	c	o
+ntfr1	q212,q52	c	o
+PS	q260,q381	c	o
+
+q213,q54	0	14
+ddl	q58,q215	c	o
+ddl2	q262,q382	c	o
+DS	q262,q382	c	o
+EFD2	q736,q606	c	o
+FR	q132,q274	c	o
+igoff2	q213,q54	c	o
+LSTMO	q262,q382	c	o
+nddl	q60,q216	c	o
+nddl2	q213,q54	c	o
+nEFD2	q262,q382	c	o
+nFR	q213,q54	c	o
+nigoff2	q262,q382	c	o
+ntfr1	q213,q54	c	o
+PS	q262,q382	c	o
+
+q214,q56	0	14
+da	q60,q216	c	o
+ddl2	q264,q383	c	o
+DS	q264,q383	c	o
+EFD2	q737,q608	c	o
+FR	q275,q134	c	o
+igoff2	q214,q56	c	o
+LSTMO	q264,q383	c	o
+nda	q60,q216	c	o
+nddl2	q214,q56	c	o
+nEFD2	q264,q383	c	o
+nFR	q214,q56	c	o
+nigoff2	q264,q383	c	o
+ntfr1	q214,q56	c	o
+PS	q264,q383	c	o
+
+q218,q64	0	4
+ddl2_f	q84,q237	c	o
+igoff	q66,q219	c	o
+nigoff	q70,q221	c	o
+ntfr1	q218,q64	c	o
+
+q222,q72	0	2
+ddl2_f	q301,q94,q243,q404	c	o
+ntfr1	q222,q72	c	o
+
+q226,q74	0	15
+ddl2	q337,q431,q1012	c	o
+DS	q337,q431,q1012	c	o
+EFD2	q781,q665	c	o
+FR	q226,q74	c	o
+igoff	q75,q228	c	o
+igoff2	q226,q74	c	o
+LSTMO	q162,q304,q799	c	o
+MTMO	q273,q130	c	o
+nddl2	q226,q74	c	o
+nEFD2	q162,q304,q799	c	o
+nFR	q148,q1083	c	o
+nigoff	q77,q232	c	o
+nigoff2	q337,q431,q1012	c	o
+PS	q337,q431,q1012	c	o
+tfr1	q226,q74	c	o
+
+q227,q359	0	3
+ddl	q363,q691,q231,q562	c	o
+nddl	q171,q365,q14,q233	c	o
+tfr1	q227,q359	c	o
+
+q23,q967	1	15
+DA	q987,q44	c	o
+DC	q15,q963	c	o
+ddl2	q1018,q435,q345	c	o
+DS	q1018,q435,q345	c	o
+EFD2	q23,q967	c	o
+FR	q947,q850	c	o
+igoff2	q23,q967	c	o
+LSTMO	q375,q254	c	o
+MTMO	q1074,q135	c	o
+nddl2	q23,q967	c	o
+nEFD2	q23,q967	c	o
+nFR	q193,q36	c	o
+nigoff2	q1018,q435,q345	c	o
+PS	q1018,q435,q345	c	o
+tfr1	q23,q967	c	o
+
+q230,q76	0	15
+da	q234,q78	c	o
+ddl2	q341,q433,q1016	c	o
+DS	q341,q433,q1016	c	o
+EFD2	q785,q669	c	o
+FR	q230,q76	c	o
+igoff2	q230,q76	c	o
+LSTMO	q306,q801,q166	c	o
+MTMO	q275,q134	c	o
+nda	q234,q78	c	o
+nddl2	q230,q76	c	o
+nEFD2	q306,q801,q166	c	o
+nFR	q152,q1085	c	o
+nigoff2	q341,q433,q1016	c	o
+PS	q341,q433,q1016	c	o
+tfr1	q230,q76	c	o
+
+q234,q78	1	15
+DA	q982,q39	c	o
+DC	q230,q76	c	o
+ddl2	q437,q112,q1020,q347,q1058	c	o
+DS	q437,q112,q1020,q347,q1058	c	o
+EFD2	q789,q673	c	o
+FR	q234,q78	c	o
+igoff2	q234,q78	c	o
+LSTMO	q310,q461,q804,q172,q366	c	o
+MTMO	q277,q138	c	o
+nddl2	q234,q78	c	o
+nEFD2	q310,q461,q804,q172,q366	c	o
+nFR	q1087,q156	c	o
+nigoff2	q437,q112,q1020,q347,q1058	c	o
+PS	q437,q112,q1020,q347,q1058	c	o
+tfr1	q234,q78	c	o
+
+q235,q80	0	10
+dda	q241,q92	c	o
+DS	q235,q80	c	o
+EFD2	q235,q80	c	o
+FR	q302,q158	c	o
+MTMO	q256,q379	c	o
+ndda	q301,q94,q243,q404	c	o
+nEFD2	q235,q80	c	o
+nFR	q235,q80	c	o
+ntfr1	q235,q80	c	o
+PS	q235,q80	c	o
+
+q236,q82	0	10
+da	q241,q92	c	o
+DS	q236,q82	c	o
+EFD2	q236,q82	c	o
+FR	q160,q303,q798	c	o
+MTMO	q258,q380	c	o
+nda	q84,q237	c	o
+nEFD2	q236,q82	c	o
+nFR	q236,q82	c	o
+ntfr1	q236,q82	c	o
+PS	q236,q82	c	o
+
+q238,q86	0	10
+ddl	q241,q92	c	o
+DS	q238,q86	c	o
+EFD2	q238,q86	c	o
+FR	q305,q800,q164	c	o
+MTMO	q262,q382	c	o
+nddl	q301,q94,q243,q404	c	o
+nEFD2	q238,q86	c	o
+nFR	q238,q86	c	o
+ntfr1	q238,q86	c	o
+PS	q238,q86	c	o
+
+q239,q88	0	10
+da	q301,q94,q243,q404	c	o
+DS	q239,q88	c	o
+EFD2	q239,q88	c	o
+FR	q306,q801,q166	c	o
+MTMO	q264,q383	c	o
+nda	q301,q94,q243,q404	c	o
+nEFD2	q239,q88	c	o
+nFR	q239,q88	c	o
+ntfr1	q239,q88	c	o
+PS	q239,q88	c	o
+
+q24,q182	1	14
+DA	q987,q44	c	o
+DC	q16,q174	c	o
+ddl2	q1018,q435,q345	c	o
+DS	q1018,q435,q345	c	o
+EFD2	q671,q787	c	o
+FR	q24,q182	c	o
+igoff2	q24,q182	c	o
+LSTMO	q1074,q135	c	o
+nddl2	q24,q182	c	o
+nEFD2	q1074,q135	c	o
+nFR	q1045,q103	c	o
+nigoff2	q1018,q435,q345	c	o
+PS	q1018,q435,q345	c	o
+tfr1	q24,q182	c	o
+
+q241,q92	1	10
+DA	q857,q764	c	o
+DC	q695,q565	c	o
+DS	q241,q92	c	o
+EFD2	q241,q92	c	o
+FR	q308,q803,q170	c	o
+MTMO	q385,q268	c	o
+nEFD2	q241,q92	c	o
+nFR	q241,q92	c	o
+ntfr1	q241,q92	c	o
+PS	q241,q92	c	o
+
+q242,q367	0	3
+ddl2	q91,q1033	c	o
+nddl2	q534,q654	c	o
+ntfr1	q242,q367	c	o
+
+q244,q96	0	4
+da	q248,q104	c	o
+ddl2_f	q258,q380	c	o
+nda	q98,q245	c	o
+ntfr1	q244,q96	c	o
+
+q246,q100	0	4
+ddl	q248,q104	c	o
+ddl2_f	q262,q382	c	o
+nddl	q106,q249	c	o
+ntfr1	q246,q100	c	o
+
+q247,q102	0	4
+da	q106,q249	c	o
+ddl2_f	q264,q383	c	o
+nda	q106,q249	c	o
+ntfr1	q247,q102	c	o
+
+q248,q104	0	2
+ddl2_f	q385,q268	c	o
+ntfr1	q248,q104	c	o
+
+q25,q969	1	15
+DA	q982,q39	c	o
+DC	q21,q966	c	o
+ddl2	q437,q112,q1020,q347,q1058	c	o
+DS	q437,q112,q1020,q347,q1058	c	o
+EFD2	q25,q969	c	o
+FR	q851,q949	c	o
+igoff2	q25,q969	c	o
+LSTMO	q255,q377	c	o
+MTMO	q1075,q137	c	o
+nddl2	q25,q969	c	o
+nEFD2	q25,q969	c	o
+nFR	q195,q38	c	o
+nigoff2	q437,q112,q1020,q347,q1058	c	o
+PS	q437,q112,q1020,q347,q1058	c	o
+tfr1	q25,q969	c	o
+
+q250,q370	0	4
+da	q375,q254	c	o
+nda	q251,q371	c	o
+pdl2_f	q139,q278	c	o
+tfr1	q250,q370	c	o
+
+q251,q371	0	4
+igoff	q372,q252	c	o
+nigoff	q375,q254	c	o
+pdl2_f	q280,q140	c	o
+tfr1	q251,q371	c	o
+
+q255,q377	0	2
+pdl2_f	q288,q144	c	o
+tfr1	q255,q377	c	o
+
+q256,q379	0	9
+dda	q385,q268	c	o
+DS	q256,q379	c	o
+EFD2	q256,q379	c	o
+FR	q429,q333	c	o
+ndda	q0,q37,q270,q980	c	o
+nEFD2	q256,q379	c	o
+nFR	q256,q379	c	o
+ntfr1	q256,q379	c	o
+PS	q256,q379	c	o
+
+q258,q380	0	9
+da	q385,q268	c	o
+DS	q258,q380	c	o
+EFD2	q258,q380	c	o
+FR	q430,q1010,q335	c	o
+nda	q260,q381	c	o
+nEFD2	q258,q380	c	o
+nFR	q258,q380	c	o
+ntfr1	q258,q380	c	o
+PS	q258,q380	c	o
+
+q260,q381	0	9
+DS	q260,q381	c	o
+EFD2	q260,q381	c	o
+FR	q337,q431,q1012	c	o
+igoff	q262,q382	c	o
+nEFD2	q260,q381	c	o
+nFR	q260,q381	c	o
+nigoff	q385,q268	c	o
+ntfr1	q260,q381	c	o
+PS	q260,q381	c	o
+
+q261,q117	0	10
+DS	q261,q117	c	o
+EFD2	q261,q117	c	o
+FR	q338,q200	c	o
+igoff	q119,q263	c	o
+LSTMO	q260,q381	c	o
+nEFD2	q261,q117	c	o
+nFR	q261,q117	c	o
+nigoff	q124,q269	c	o
+ntfr1	q261,q117	c	o
+PS	q261,q117	c	o
+
+q262,q382	0	9
+ddl	q385,q268	c	o
+DS	q262,q382	c	o
+EFD2	q262,q382	c	o
+FR	q432,q1014,q339	c	o
+nddl	q0,q37,q270,q980	c	o
+nEFD2	q262,q382	c	o
+nFR	q262,q382	c	o
+ntfr1	q262,q382	c	o
+PS	q262,q382	c	o
+
+q264,q383	0	9
+da	q0,q37,q270,q980	c	o
+DS	q264,q383	c	o
+EFD2	q264,q383	c	o
+FR	q341,q433,q1016	c	o
+nda	q0,q37,q270,q980	c	o
+nEFD2	q264,q383	c	o
+nFR	q264,q383	c	o
+ntfr1	q264,q383	c	o
+PS	q264,q383	c	o
+
+q266,q384	0	9
+dda	q385,q268	c	o
+DS	q266,q384	c	o
+EFD2	q266,q384	c	o
+FR	q434,q343	c	o
+ndda	q385,q268	c	o
+nEFD2	q266,q384	c	o
+nFR	q266,q384	c	o
+ntfr1	q266,q384	c	o
+PS	q266,q384	c	o
+
+q267,q122	0	10
+dda	q124,q269	c	o
+DS	q267,q122	c	o
+EFD2	q267,q122	c	o
+FR	q344,q206	c	o
+LSTMO	q266,q384	c	o
+ndda	q124,q269	c	o
+nEFD2	q267,q122	c	o
+nFR	q267,q122	c	o
+ntfr1	q267,q122	c	o
+PS	q267,q122	c	o
+
+q27,q970	0	3
+da	q795,q978,q35,q877	c	o
+nda	q29,q972	c	o
+ntfr1	q27,q970	c	o
+
+q271,q981,q126,q879	1	10
+DA	q811,q706	c	o
+DC	q729,q597	c	o
+DS	q271,q981,q126,q879	c	o
+EFD2	q271,q981,q126,q879	c	o
+FR	q1059,q348,q209,q928	c	o
+LSTMO	q0,q37,q270,q980	c	o
+nEFD2	q271,q981,q126,q879	c	o
+nFR	q271,q981,q126,q879	c	o
+ntfr1	q271,q981,q126,q879	c	o
+PS	q271,q981,q126,q879	c	o
+
+q273,q130	0	14
+ddl2	q337,q431,q1012	c	o
+DS	q337,q431,q1012	c	o
+EFD2	q781,q665	c	o
+FR	q273,q130	c	o
+igoff	q132,q274	c	o
+igoff2	q273,q130	c	o
+LSTMO	q337,q431,q1012	c	o
+nddl2	q273,q130	c	o
+nEFD2	q337,q431,q1012	c	o
+nFR	q212,q52	c	o
+nigoff	q136,q276	c	o
+nigoff2	q337,q431,q1012	c	o
+PS	q337,q431,q1012	c	o
+tfr1	q273,q130	c	o
+
+q275,q134	0	14
+da	q277,q138	c	o
+ddl2	q341,q433,q1016	c	o
+DS	q341,q433,q1016	c	o
+EFD2	q785,q669	c	o
+FR	q275,q134	c	o
+igoff2	q275,q134	c	o
+LSTMO	q341,q433,q1016	c	o
+nda	q277,q138	c	o
+nddl2	q275,q134	c	o
+nEFD2	q341,q433,q1016	c	o
+nFR	q214,q56	c	o
+nigoff2	q341,q433,q1016	c	o
+PS	q341,q433,q1016	c	o
+tfr1	q275,q134	c	o
+
+q277,q138	1	14
+DA	q982,q39	c	o
+DC	q275,q134	c	o
+ddl2	q437,q112,q1020,q347,q1058	c	o
+DS	q437,q112,q1020,q347,q1058	c	o
+EFD2	q789,q673	c	o
+FR	q277,q138	c	o
+igoff2	q277,q138	c	o
+LSTMO	q437,q112,q1020,q347,q1058	c	o
+nddl2	q277,q138	c	o
+nEFD2	q437,q112,q1020,q347,q1058	c	o
+nFR	q60,q216	c	o
+nigoff2	q437,q112,q1020,q347,q1058	c	o
+PS	q437,q112,q1020,q347,q1058	c	o
+tfr1	q277,q138	c	o
+
+q279	0	4
+da	q287	c	o
+nda	q281	c	o
+s_kw2_t	q160,q303,q798	c	o
+tfr1	q279	c	o
+
+q280,q140	0	4
+ddl2_f	q162,q304,q799	c	o
+igoff	q141,q282	c	o
+nigoff	q143,q286	c	o
+tfr1	q280,q140	c	o
+
+q281	0	4
+igoff	q283	c	o
+nigoff	q287	c	o
+s_kw2_t	q162,q304,q799	c	o
+tfr1	q281	c	o
+
+q283	0	4
+ddl	q287	c	o
+nddl	q289	c	o
+s_kw2_t	q305,q800,q164	c	o
+tfr1	q283	c	o
+
+q285	0	4
+da	q289	c	o
+nda	q289	c	o
+s_kw2_t	q306,q801,q166	c	o
+tfr1	q285	c	o
+
+q287	0	2
+s_kw2_t	q308,q803,q170	c	o
+tfr1	q287	c	o
+
+q288,q144	0	2
+ddl2_f	q310,q461,q804,q172,q366	c	o
+tfr1	q288,q144	c	o
+
+q289	0	2
+s_kw2_t	q310,q461,q804,q172,q366	c	o
+tfr1	q289	c	o
+
+q29,q972	0	3
+igoff	q974,q31	c	o
+nigoff	q795,q978,q35,q877	c	o
+ntfr1	q29,q972	c	o
+
+q290,q145	0	3
+da	q153,q510,q298,q625	c	o
+nda	q292,q147	c	o
+ntfr1	q290,q145	c	o
+
+q291,q394	0	3
+da	q299,q752,q402,q843	c	o
+nda	q396,q293	c	o
+ntfr1	q291,q394	c	o
+
+q292,q147	0	3
+igoff	q294,q149	c	o
+nigoff	q153,q510,q298,q625	c	o
+ntfr1	q292,q147	c	o
+
+q294,q149	0	3
+ddl	q153,q510,q298,q625	c	o
+nddl	q1035,q155,q300,q93	c	o
+ntfr1	q294,q149	c	o
+
+q296,q151	0	3
+da	q1035,q155,q300,q93	c	o
+nda	q1035,q155,q300,q93	c	o
+ntfr1	q296,q151	c	o
+
+q299,q752,q402,q843	0	3
+igoff2	q368,q467	c	o
+nigoff2	q241,q92	c	o
+ntfr1	q299,q752,q402,q843	c	o
+
+q3,q159	0	11
+da	q12,q169	c	o
+DS	q3,q159	c	o
+EFD2	q3,q159	c	o
+FR	q3,q159	c	o
+LSTMO	q160,q303,q798	c	o
+MTMO	q198,q336	c	o
+nda	q161,q5	c	o
+nEFD2	q3,q159	c	o
+nFR	q81,q1024	c	o
+PS	q3,q159	c	o
+tfr1	q3,q159	c	o
+
+q301,q94,q243,q404	1	10
+DA	q763,q856	c	o
+DC	q571,q701	c	o
+DS	q301,q94,q243,q404	c	o
+EFD2	q301,q94,q243,q404	c	o
+FR	q310,q461,q804,q172,q366	c	o
+MTMO	q0,q37,q270,q980	c	o
+nEFD2	q301,q94,q243,q404	c	o
+nFR	q301,q94,q243,q404	c	o
+ntfr1	q301,q94,q243,q404	c	o
+PS	q301,q94,q243,q404	c	o
+
+q302,q158	0	10
+dda	q308,q803,q170	c	o
+DS	q302,q158	c	o
+EFD2	q302,q158	c	o
+FR	q302,q158	c	o
+MTMO	q429,q333	c	o
+ndda	q310,q461,q804,q172,q366	c	o
+nEFD2	q302,q158	c	o
+nFR	q235,q80	c	o
+PS	q302,q158	c	o
+tfr1	q302,q158	c	o
+
+q305,q800,q164	0	10
+ddl	q308,q803,q170	c	o
+DS	q305,q800,q164	c	o
+EFD2	q305,q800,q164	c	o
+FR	q305,q800,q164	c	o
+MTMO	q432,q1014,q339	c	o
+nddl	q310,q461,q804,q172,q366	c	o
+nEFD2	q305,q800,q164	c	o
+nFR	q238,q86	c	o
+PS	q305,q800,q164	c	o
+tfr1	q305,q800,q164	c	o
+
+q306,q801,q166	0	10
+da	q310,q461,q804,q172,q366	c	o
+DS	q306,q801,q166	c	o
+EFD2	q306,q801,q166	c	o
+FR	q306,q801,q166	c	o
+MTMO	q341,q433,q1016	c	o
+nda	q310,q461,q804,q172,q366	c	o
+nEFD2	q306,q801,q166	c	o
+nFR	q239,q88	c	o
+PS	q306,q801,q166	c	o
+tfr1	q306,q801,q166	c	o
+
+q308,q803,q170	1	10
+DA	q904,q822	c	o
+DC	q753,q627	c	o
+DS	q308,q803,q170	c	o
+EFD2	q308,q803,q170	c	o
+FR	q308,q803,q170	c	o
+MTMO	q1018,q435,q345	c	o
+nEFD2	q308,q803,q170	c	o
+nFR	q241,q92	c	o
+PS	q308,q803,q170	c	o
+tfr1	q308,q803,q170	c	o
+
+q309,q405	0	3
+ddl2	q12,q169	c	o
+nddl2	q591,q718	c	o
+tfr1	q309,q405	c	o
+
+q310,q461,q804,q172,q366	1	10
+DA	q821,q899	c	o
+DC	q633,q756	c	o
+DS	q310,q461,q804,q172,q366	c	o
+EFD2	q310,q461,q804,q172,q366	c	o
+FR	q310,q461,q804,q172,q366	c	o
+MTMO	q437,q112,q1020,q347,q1058	c	o
+nEFD2	q310,q461,q804,q172,q366	c	o
+nFR	q301,q94,q243,q404	c	o
+PS	q310,q461,q804,q172,q366	c	o
+tfr1	q310,q461,q804,q172,q366	c	o
+
+q312,q173	0	4
+da	q320,q181	c	o
+ddl2_f	q430,q1010,q335	c	o
+nda	q175,q314	c	o
+tfr1	q312,q173	c	o
+
+q313,q409	0	4
+igoff	q315,q411	c	o
+nigoff	q415,q319	c	o
+s_kw2_t	q338,q200	c	o
+tfr1	q313,q409	c	o
+
+q315,q411	0	4
+ddl	q415,q319	c	o
+nddl	q321,q417	c	o
+s_kw2_t	q202,q340	c	o
+tfr1	q315,q411	c	o
+
+q320,q181	0	2
+ddl2_f	q1018,q435,q345	c	o
+tfr1	q320,q181	c	o
+
+q321,q417	0	2
+s_kw2_t	q1059,q348,q209,q928	c	o
+tfr1	q321,q417	c	o
+
+q322,q183	0	2
+ddl2_f	q437,q112,q1020,q347,q1058	c	o
+tfr1	q322,q183	c	o
+
+q323,q419	0	5
+dda	q330,q426	c	o
+dda2	q79,q1022	c	o
+ndda	q428,q332	c	o
+ndda2	q79,q1022	c	o
+ntfr1	q323,q419	c	o
+
+q324,q186	0	4
+da	q194,q329	c	o
+nda	q188,q325	c	o
+ntfr1	q324,q186	c	o
+pdl2_f	q62,q217	c	o
+
+q326,q190	0	4
+ddl	q194,q329	c	o
+nddl	q331,q196	c	o
+ntfr1	q326,q190	c	o
+pdl2_f	q66,q219	c	o
+
+q327,q192	0	4
+da	q331,q196	c	o
+nda	q331,q196	c	o
+ntfr1	q327,q192	c	o
+pdl2_f	q68,q220	c	o
+
+q330,q426	0	3
+dda2	q91,q1033	c	o
+ndda2	q91,q1033	c	o
+ntfr1	q330,q426	c	o
+
+q331,q196	0	2
+ntfr1	q331,q196	c	o
+pdl2_f	q222,q72	c	o
+
+q337,q431,q1012	0	9
+DS	q337,q431,q1012	c	o
+EFD2	q337,q431,q1012	c	o
+FR	q337,q431,q1012	c	o
+igoff	q432,q1014,q339	c	o
+nEFD2	q337,q431,q1012	c	o
+nFR	q260,q381	c	o
+nigoff	q1018,q435,q345	c	o
+PS	q337,q431,q1012	c	o
+tfr1	q337,q431,q1012	c	o
+
+q338,q200	0	10
+DS	q338,q200	c	o
+EFD2	q338,q200	c	o
+FR	q338,q200	c	o
+igoff	q202,q340	c	o
+LSTMO	q337,q431,q1012	c	o
+nEFD2	q338,q200	c	o
+nFR	q261,q117	c	o
+nigoff	q207,q346	c	o
+PS	q338,q200	c	o
+tfr1	q338,q200	c	o
+
+q341,q433,q1016	0	9
+da	q437,q112,q1020,q347,q1058	c	o
+DS	q341,q433,q1016	c	o
+EFD2	q341,q433,q1016	c	o
+FR	q341,q433,q1016	c	o
+nda	q437,q112,q1020,q347,q1058	c	o
+nEFD2	q341,q433,q1016	c	o
+nFR	q264,q383	c	o
+PS	q341,q433,q1016	c	o
+tfr1	q341,q433,q1016	c	o
+
+q344,q206	0	10
+dda	q207,q346	c	o
+DS	q344,q206	c	o
+EFD2	q344,q206	c	o
+FR	q344,q206	c	o
+LSTMO	q434,q343	c	o
+ndda	q207,q346	c	o
+nEFD2	q344,q206	c	o
+nFR	q267,q122	c	o
+PS	q344,q206	c	o
+tfr1	q344,q206	c	o
+
+q353,q447	1	14
+DA	q1065,q934	c	o
+DC	q439,q349	c	o
+ddl2	q385,q268	c	o
+DS	q385,q268	c	o
+EFD2	q610,q738	c	o
+FR	q391,q502	c	o
+igoff2	q353,q447	c	o
+LSTMO	q1067,q123	c	o
+nddl2	q353,q447	c	o
+nEFD2	q1067,q123	c	o
+nFR	q353,q447	c	o
+nigoff2	q385,q268	c	o
+ntfr1	q353,q447	c	o
+PS	q385,q268	c	o
+
+q354,q449	1	14
+DA	q1060,q929	c	o
+DC	q445,q352	c	o
+ddl2	q0,q37,q270,q980	c	o
+DS	q0,q37,q270,q980	c	o
+EFD2	q612,q739	c	o
+FR	q504,q392	c	o
+igoff2	q354,q449	c	o
+LSTMO	q1069,q125	c	o
+nddl2	q354,q449	c	o
+nEFD2	q1069,q125	c	o
+nFR	q354,q449	c	o
+nigoff2	q0,q37,q270,q980	c	o
+ntfr1	q354,q449	c	o
+PS	q0,q37,q270,q980	c	o
+
+q355,q223	0	3
+da	q363,q691,q231,q562	c	o
+nda	q357,q225	c	o
+tfr1	q355,q223	c	o
+
+q356,q451	0	3
+da	q364,q802,q459,q884	c	o
+nda	q453,q358	c	o
+tfr1	q356,q451	c	o
+
+q357,q225	0	3
+igoff	q227,q359	c	o
+nigoff	q363,q691,q231,q562	c	o
+tfr1	q357,q225	c	o
+
+q361,q229	0	3
+da	q171,q365,q14,q233	c	o
+nda	q171,q365,q14,q233	c	o
+tfr1	q361,q229	c	o
+
+q363,q691,q231,q562	0	3
+igoff2	q309,q405	c	o
+nigoff2	q12,q169	c	o
+tfr1	q363,q691,q231,q562	c	o
+
+q364,q802,q459,q884	0	3
+igoff2	q406,q517	c	o
+nigoff2	q308,q803,q170	c	o
+tfr1	q364,q802,q459,q884	c	o
+
+q368,q467	0	3
+ddl2	q241,q92	c	o
+nddl2	q534,q654	c	o
+ntfr1	q368,q467	c	o
+
+q372,q252	0	4
+ddl	q375,q254	c	o
+nddl	q255,q377	c	o
+pdl2_f	q141,q282	c	o
+tfr1	q372,q252	c	o
+
+q373,q253	0	4
+da	q255,q377	c	o
+nda	q255,q377	c	o
+pdl2_f	q142,q284	c	o
+tfr1	q373,q253	c	o
+
+q374,q480	0	5
+dda	q482,q376	c	o
+dda2	q167,q10	c	o
+ndda	q482,q376	c	o
+ndda2	q167,q10	c	o
+tfr1	q374,q480	c	o
+
+q375,q254	0	2
+pdl2_f	q143,q286	c	o
+tfr1	q375,q254	c	o
+
+q378,q484	0	3
+dda2	q171,q365,q14,q233	c	o
+ndda2	q171,q365,q14,q233	c	o
+tfr1	q378,q484	c	o
+
+q385,q268	1	9
+DA	q1065,q934	c	o
+DC	q722,q825	c	o
+DS	q385,q268	c	o
+EFD2	q385,q268	c	o
+FR	q1018,q435,q345	c	o
+nEFD2	q385,q268	c	o
+nFR	q385,q268	c	o
+ntfr1	q385,q268	c	o
+PS	q385,q268	c	o
+
+q386,q486	0	3
+ddl2	q124,q269	c	o
+nddl2	q446,q553	c	o
+ntfr1	q386,q486	c	o
+
+q387,q494	0	14
+da	q391,q502	c	o
+ddl2	q430,q1010,q335	c	o
+DS	q430,q1010,q335	c	o
+EFD2	q663,q779	c	o
+FR	q387,q494	c	o
+igoff2	q387,q494	c	o
+LSTMO	q40,q199	c	o
+nda	q496,q388	c	o
+nddl2	q387,q494	c	o
+nEFD2	q40,q199	c	o
+nFR	q439,q349	c	o
+nigoff2	q430,q1010,q335	c	o
+PS	q430,q1010,q335	c	o
+tfr1	q387,q494	c	o
+
+q389,q498	0	14
+ddl	q391,q502	c	o
+ddl2	q432,q1014,q339	c	o
+DS	q432,q1014,q339	c	o
+EFD2	q667,q783	c	o
+FR	q389,q498	c	o
+igoff2	q389,q498	c	o
+LSTMO	q42,q203	c	o
+nddl	q504,q392	c	o
+nddl2	q389,q498	c	o
+nEFD2	q42,q203	c	o
+nFR	q443,q351	c	o
+nigoff2	q432,q1014,q339	c	o
+PS	q432,q1014,q339	c	o
+tfr1	q389,q498	c	o
+
+q391,q502	1	14
+DA	q987,q44	c	o
+DC	q387,q494	c	o
+ddl2	q1018,q435,q345	c	o
+DS	q1018,q435,q345	c	o
+EFD2	q671,q787	c	o
+FR	q391,q502	c	o
+igoff2	q391,q502	c	o
+LSTMO	q46,q208	c	o
+nddl2	q391,q502	c	o
+nEFD2	q46,q208	c	o
+nFR	q353,q447	c	o
+nigoff2	q1018,q435,q345	c	o
+PS	q1018,q435,q345	c	o
+tfr1	q391,q502	c	o
+
+q396,q293	0	3
+igoff	q398,q295	c	o
+nigoff	q299,q752,q402,q843	c	o
+ntfr1	q396,q293	c	o
+
+q398,q295	0	3
+ddl	q299,q752,q402,q843	c	o
+nddl	q301,q94,q243,q404	c	o
+ntfr1	q398,q295	c	o
+
+q4,q958	0	15
+ddl2	q337,q431,q1012	c	o
+DS	q337,q431,q1012	c	o
+EFD2	q4,q958	c	o
+FR	q4,q958	c	o
+igoff	q959,q6	c	o
+igoff2	q4,q958	c	o
+MTMO	q201,q41	c	o
+nddl2	q4,q958	c	o
+nEFD2	q4,q958	c	o
+nFR	q1025,q910	c	o
+nigoff	q961,q11	c	o
+nigoff2	q337,q431,q1012	c	o
+PS	q337,q431,q1012	c	o
+PTMO	q1077,q952	c	o
+tfr1	q4,q958	c	o
+
+q40,q199	0	14
+da	q46,q208	c	o
+ddl2	q430,q1010,q335	c	o
+DS	q430,q1010,q335	c	o
+EFD2	q40,q199	c	o
+FR	q40,q199	c	o
+igoff2	q40,q199	c	o
+nda	q201,q41	c	o
+nddl2	q40,q199	c	o
+nEFD2	q40,q199	c	o
+nFR	q114,q1061	c	o
+nigoff2	q430,q1010,q335	c	o
+PS	q430,q1010,q335	c	o
+PTMO	q16,q174	c	o
+tfr1	q40,q199	c	o
+
+q400,q297	0	3
+da	q301,q94,q243,q404	c	o
+nda	q301,q94,q243,q404	c	o
+ntfr1	q400,q297	c	o
+
+q401,q509	1	14
+DA	q1065,q934	c	o
+DC	q505,q393	c	o
+ddl2	q385,q268	c	o
+DS	q385,q268	c	o
+EFD2	q610,q738	c	o
+FR	q458,q561	c	o
+igoff2	q401,q509	c	o
+LSTMO	q473,q580	c	o
+nddl2	q401,q509	c	o
+nEFD2	q473,q580	c	o
+nFR	q401,q509	c	o
+nigoff2	q385,q268	c	o
+ntfr1	q401,q509	c	o
+PS	q385,q268	c	o
+
+q403,q511	1	14
+DA	q1060,q929	c	o
+DC	q508,q399	c	o
+ddl2	q0,q37,q270,q980	c	o
+DS	q0,q37,q270,q980	c	o
+EFD2	q612,q739	c	o
+FR	q563,q460	c	o
+igoff2	q403,q511	c	o
+LSTMO	q474,q581	c	o
+nddl2	q403,q511	c	o
+nEFD2	q474,q581	c	o
+nFR	q403,q511	c	o
+nigoff2	q0,q37,q270,q980	c	o
+ntfr1	q403,q511	c	o
+PS	q0,q37,q270,q980	c	o
+
+q406,q517	0	3
+ddl2	q308,q803,q170	c	o
+nddl2	q591,q718	c	o
+tfr1	q406,q517	c	o
+
+q407,q311	0	4
+da	q415,q319	c	o
+nda	q313,q409	c	o
+s_kw2_t	q198,q336	c	o
+tfr1	q407,q311	c	o
+
+q408	0	4
+da	q416	c	o
+nda	q410	c	o
+s_kw2_t	q430,q1010,q335	c	o
+tfr1	q408	c	o
+
+q410	0	4
+igoff	q412	c	o
+nigoff	q416	c	o
+s_kw2_t	q337,q431,q1012	c	o
+tfr1	q410	c	o
+
+q412	0	4
+ddl	q416	c	o
+nddl	q418	c	o
+s_kw2_t	q432,q1014,q339	c	o
+tfr1	q412	c	o
+
+q413,q317	0	4
+da	q321,q417	c	o
+nda	q321,q417	c	o
+s_kw2_t	q204,q342	c	o
+tfr1	q413,q317	c	o
+
+q414	0	4
+da	q418	c	o
+nda	q418	c	o
+s_kw2_t	q341,q433,q1016	c	o
+tfr1	q414	c	o
+
+q415,q319	0	2
+s_kw2_t	q207,q346	c	o
+tfr1	q415,q319	c	o
+
+q416	0	2
+s_kw2_t	q1018,q435,q345	c	o
+tfr1	q416	c	o
+
+q418	0	2
+s_kw2_t	q437,q112,q1020,q347,q1058	c	o
+tfr1	q418	c	o
+
+q42,q203	0	14
+ddl	q46,q208	c	o
+ddl2	q432,q1014,q339	c	o
+DS	q432,q1014,q339	c	o
+EFD2	q42,q203	c	o
+FR	q42,q203	c	o
+igoff2	q42,q203	c	o
+nddl	q210,q48	c	o
+nddl2	q42,q203	c	o
+nEFD2	q42,q203	c	o
+nFR	q118,q1063	c	o
+nigoff2	q432,q1014,q339	c	o
+PS	q432,q1014,q339	c	o
+PTMO	q20,q178	c	o
+tfr1	q42,q203	c	o
+
+q424,q328	0	5
+dda	q330,q426	c	o
+dda2	q1031,q89	c	o
+ndda	q330,q426	c	o
+ndda2	q1031,q89	c	o
+ntfr1	q424,q328	c	o
+
+q425,q533	1	15
+DA	q1065,q934	c	o
+DC	q525,q420	c	o
+ddl2	q385,q268	c	o
+DS	q385,q268	c	o
+EFD2	q610,q738	c	o
+FR	q481,q590	c	o
+igoff2	q425,q533	c	o
+LSTMO	q913,q1032	c	o
+MTMO	q353,q447	c	o
+nddl2	q425,q533	c	o
+nEFD2	q913,q1032	c	o
+nFR	q425,q533	c	o
+nigoff2	q385,q268	c	o
+ntfr1	q425,q533	c	o
+PS	q385,q268	c	o
+
+q427,q535	1	15
+DA	q1060,q929	c	o
+DC	q531,q423	c	o
+ddl2	q0,q37,q270,q980	c	o
+DS	q0,q37,q270,q980	c	o
+EFD2	q612,q739	c	o
+FR	q592,q483	c	o
+igoff2	q427,q535	c	o
+LSTMO	q914,q1034	c	o
+MTMO	q354,q449	c	o
+nddl2	q427,q535	c	o
+nEFD2	q914,q1034	c	o
+nFR	q427,q535	c	o
+nigoff2	q0,q37,q270,q980	c	o
+ntfr1	q427,q535	c	o
+PS	q0,q37,q270,q980	c	o
+
+q428,q332	0	3
+dda2	q1035,q155,q300,q93	c	o
+ndda2	q1035,q155,q300,q93	c	o
+ntfr1	q428,q332	c	o
+
+q429,q333	0	9
+dda	q1018,q435,q345	c	o
+DS	q429,q333	c	o
+EFD2	q429,q333	c	o
+FR	q429,q333	c	o
+ndda	q437,q112,q1020,q347,q1058	c	o
+nEFD2	q429,q333	c	o
+nFR	q256,q379	c	o
+PS	q429,q333	c	o
+tfr1	q429,q333	c	o
+
+q430,q1010,q335	0	9
+da	q1018,q435,q345	c	o
+DS	q430,q1010,q335	c	o
+EFD2	q430,q1010,q335	c	o
+FR	q430,q1010,q335	c	o
+nda	q337,q431,q1012	c	o
+nEFD2	q430,q1010,q335	c	o
+nFR	q258,q380	c	o
+PS	q430,q1010,q335	c	o
+tfr1	q430,q1010,q335	c	o
+
+q432,q1014,q339	0	9
+ddl	q1018,q435,q345	c	o
+DS	q432,q1014,q339	c	o
+EFD2	q432,q1014,q339	c	o
+FR	q432,q1014,q339	c	o
+nddl	q437,q112,q1020,q347,q1058	c	o
+nEFD2	q432,q1014,q339	c	o
+nFR	q262,q382	c	o
+PS	q432,q1014,q339	c	o
+tfr1	q432,q1014,q339	c	o
+
+q434,q343	0	9
+dda	q1018,q435,q345	c	o
+DS	q434,q343	c	o
+EFD2	q434,q343	c	o
+FR	q434,q343	c	o
+ndda	q1018,q435,q345	c	o
+nEFD2	q434,q343	c	o
+nFR	q266,q384	c	o
+PS	q434,q343	c	o
+tfr1	q434,q343	c	o
+
+q436,q538	0	3
+ddl2	q207,q346	c	o
+nddl2	q501,q621	c	o
+tfr1	q436,q538	c	o
+
+q437,q112,q1020,q347,q1058	1	9
+DA	q982,q39	c	o
+DC	q866,q773	c	o
+DS	q437,q112,q1020,q347,q1058	c	o
+EFD2	q437,q112,q1020,q347,q1058	c	o
+FR	q437,q112,q1020,q347,q1058	c	o
+nEFD2	q437,q112,q1020,q347,q1058	c	o
+nFR	q0,q37,q270,q980	c	o
+PS	q437,q112,q1020,q347,q1058	c	o
+tfr1	q437,q112,q1020,q347,q1058	c	o
+
+q439,q349	0	14
+da	q353,q447	c	o
+ddl2	q258,q380	c	o
+DS	q258,q380	c	o
+EFD2	q734,q602	c	o
+FR	q387,q494	c	o
+igoff2	q439,q349	c	o
+LSTMO	q114,q1061	c	o
+nda	q441,q350	c	o
+nddl2	q439,q349	c	o
+nEFD2	q114,q1061	c	o
+nFR	q439,q349	c	o
+nigoff2	q258,q380	c	o
+ntfr1	q439,q349	c	o
+PS	q258,q380	c	o
+
+q441,q350	0	14
+ddl2	q260,q381	c	o
+DS	q260,q381	c	o
+EFD2	q735,q604	c	o
+FR	q496,q388	c	o
+igoff	q443,q351	c	o
+igoff2	q441,q350	c	o
+LSTMO	q116,q1062	c	o
+nddl2	q441,q350	c	o
+nEFD2	q116,q1062	c	o
+nFR	q441,q350	c	o
+nigoff	q353,q447	c	o
+nigoff2	q260,q381	c	o
+ntfr1	q441,q350	c	o
+PS	q260,q381	c	o
+
+q443,q351	0	14
+ddl	q353,q447	c	o
+ddl2	q262,q382	c	o
+DS	q262,q382	c	o
+EFD2	q736,q606	c	o
+FR	q389,q498	c	o
+igoff2	q443,q351	c	o
+LSTMO	q118,q1063	c	o
+nddl	q354,q449	c	o
+nddl2	q443,q351	c	o
+nEFD2	q118,q1063	c	o
+nFR	q443,q351	c	o
+nigoff2	q262,q382	c	o
+ntfr1	q443,q351	c	o
+PS	q262,q382	c	o
+
+q445,q352	0	14
+da	q354,q449	c	o
+ddl2	q264,q383	c	o
+DS	q264,q383	c	o
+EFD2	q737,q608	c	o
+FR	q500,q390	c	o
+igoff2	q445,q352	c	o
+LSTMO	q120,q1064	c	o
+nda	q354,q449	c	o
+nddl2	q445,q352	c	o
+nEFD2	q120,q1064	c	o
+nFR	q445,q352	c	o
+nigoff2	q264,q383	c	o
+ntfr1	q445,q352	c	o
+PS	q264,q383	c	o
+
+q446,q553	1	14
+DA	q1065,q934	c	o
+DC	q545,q438	c	o
+ddl2	q385,q268	c	o
+DS	q385,q268	c	o
+EFD2	q446,q553	c	o
+FR	q1018,q435,q345	c	o
+igoff2	q446,q553	c	o
+LSTMO	q401,q509	c	o
+nddl2	q446,q553	c	o
+nEFD2	q446,q553	c	o
+nFR	q401,q509	c	o
+nigoff2	q385,q268	c	o
+ntfr1	q446,q553	c	o
+PS	q385,q268	c	o
+
+q448,q555	1	14
+DA	q1060,q929	c	o
+DC	q551,q444	c	o
+ddl2	q0,q37,q270,q980	c	o
+DS	q0,q37,q270,q980	c	o
+EFD2	q448,q555	c	o
+FR	q437,q112,q1020,q347,q1058	c	o
+igoff2	q448,q555	c	o
+LSTMO	q403,q511	c	o
+nddl2	q448,q555	c	o
+nEFD2	q448,q555	c	o
+nFR	q403,q511	c	o
+nigoff2	q0,q37,q270,q980	c	o
+ntfr1	q448,q555	c	o
+PS	q0,q37,q270,q980	c	o
+
+q450,q557	0	14
+da	q458,q561	c	o
+ddl2	q430,q1010,q335	c	o
+DS	q430,q1010,q335	c	o
+EFD2	q663,q779	c	o
+FR	q450,q557	c	o
+igoff2	q450,q557	c	o
+LSTMO	q519,q638	c	o
+nda	q558,q452	c	o
+nddl2	q450,q557	c	o
+nEFD2	q519,q638	c	o
+nFR	q505,q393	c	o
+nigoff2	q430,q1010,q335	c	o
+PS	q430,q1010,q335	c	o
+tfr1	q450,q557	c	o
+
+q453,q358	0	3
+igoff	q455,q360	c	o
+nigoff	q364,q802,q459,q884	c	o
+tfr1	q453,q358	c	o
+
+q454,q559	0	14
+ddl	q458,q561	c	o
+ddl2	q432,q1014,q339	c	o
+DS	q432,q1014,q339	c	o
+EFD2	q667,q783	c	o
+FR	q454,q559	c	o
+igoff2	q454,q559	c	o
+LSTMO	q521,q642	c	o
+nddl	q563,q460	c	o
+nddl2	q454,q559	c	o
+nEFD2	q521,q642	c	o
+nFR	q507,q397	c	o
+nigoff2	q432,q1014,q339	c	o
+PS	q432,q1014,q339	c	o
+tfr1	q454,q559	c	o
+
+q455,q360	0	3
+ddl	q364,q802,q459,q884	c	o
+nddl	q310,q461,q804,q172,q366	c	o
+tfr1	q455,q360	c	o
+
+q457,q362	0	3
+da	q310,q461,q804,q172,q366	c	o
+nda	q310,q461,q804,q172,q366	c	o
+tfr1	q457,q362	c	o
+
+q458,q561	1	14
+DA	q987,q44	c	o
+DC	q450,q557	c	o
+ddl2	q1018,q435,q345	c	o
+DS	q1018,q435,q345	c	o
+EFD2	q671,q787	c	o
+FR	q458,q561	c	o
+igoff2	q458,q561	c	o
+LSTMO	q523,q646	c	o
+nddl2	q458,q561	c	o
+nEFD2	q523,q646	c	o
+nFR	q401,q509	c	o
+nigoff2	q1018,q435,q345	c	o
+PS	q1018,q435,q345	c	o
+tfr1	q458,q561	c	o
+
+q46,q208	1	14
+DA	q987,q44	c	o
+DC	q40,q199	c	o
+ddl2	q1018,q435,q345	c	o
+DS	q1018,q435,q345	c	o
+EFD2	q46,q208	c	o
+FR	q46,q208	c	o
+igoff2	q46,q208	c	o
+nddl2	q46,q208	c	o
+nEFD2	q46,q208	c	o
+nFR	q1067,q123	c	o
+nigoff2	q1018,q435,q345	c	o
+PS	q1018,q435,q345	c	o
+PTMO	q24,q182	c	o
+tfr1	q46,q208	c	o
+
+q462,q564	0	5
+da	q572,q466	c	o
+da2	q81,q1024	c	o
+nda	q463,q566	c	o
+nda2	q290,q145	c	o
+ntfr1	q462,q564	c	o
+
+q463,q566	0	5
+da2	q1026,q83	c	o
+igoff	q464,q568	c	o
+nda2	q292,q147	c	o
+nigoff	q572,q466	c	o
+ntfr1	q463,q566	c	o
+
+q464,q568	0	5
+da2	q85,q1028	c	o
+ddl	q572,q466	c	o
+nda2	q294,q149	c	o
+nddl	q574,q468	c	o
+ntfr1	q464,q568	c	o
+
+q465,q570	0	5
+da	q574,q468	c	o
+da2	q87,q1030	c	o
+nda	q574,q468	c	o
+nda2	q296,q151	c	o
+ntfr1	q465,q570	c	o
+
+q47,q990	0	3
+dda2	q437,q112,q1020,q347,q1058	c	o
+ndda2	q437,q112,q1020,q347,q1058	c	o
+tfr1	q47,q990	c	o
+
+q473,q580	1	14
+DA	q1065,q934	c	o
+DC	q576,q469	c	o
+ddl2	q385,q268	c	o
+DS	q385,q268	c	o
+EFD2	q473,q580	c	o
+FR	q523,q646	c	o
+igoff2	q473,q580	c	o
+nddl2	q473,q580	c	o
+nEFD2	q473,q580	c	o
+nFR	q473,q580	c	o
+nigoff2	q385,q268	c	o
+ntfr1	q473,q580	c	o
+PS	q385,q268	c	o
+PTMO	q58,q215	c	o
+
+q474,q581	1	14
+DA	q1060,q929	c	o
+DC	q579,q472	c	o
+ddl2	q0,q37,q270,q980	c	o
+DS	q0,q37,q270,q980	c	o
+EFD2	q474,q581	c	o
+FR	q648,q524	c	o
+igoff2	q474,q581	c	o
+nddl2	q474,q581	c	o
+nEFD2	q474,q581	c	o
+nFR	q474,q581	c	o
+nigoff2	q0,q37,q270,q980	c	o
+ntfr1	q474,q581	c	o
+PS	q0,q37,q270,q980	c	o
+PTMO	q60,q216	c	o
+
+q475,q369	0	5
+dda	q482,q376	c	o
+dda2	q1,q157	c	o
+ndda	q378,q484	c	o
+ndda2	q1,q157	c	o
+tfr1	q475,q369	c	o
+
+q476,q582	0	15
+da	q481,q590	c	o
+ddl2	q430,q1010,q335	c	o
+DS	q430,q1010,q335	c	o
+EFD2	q663,q779	c	o
+FR	q476,q582	c	o
+igoff2	q476,q582	c	o
+LSTMO	q957,q2	c	o
+MTMO	q387,q494	c	o
+nda	q584,q477	c	o
+nddl2	q476,q582	c	o
+nEFD2	q957,q2	c	o
+nFR	q525,q420	c	o
+nigoff2	q430,q1010,q335	c	o
+PS	q430,q1010,q335	c	o
+tfr1	q476,q582	c	o
+
+q478,q586	0	15
+ddl	q481,q590	c	o
+ddl2	q432,q1014,q339	c	o
+DS	q432,q1014,q339	c	o
+EFD2	q667,q783	c	o
+FR	q478,q586	c	o
+igoff2	q478,q586	c	o
+LSTMO	q959,q6	c	o
+MTMO	q389,q498	c	o
+nddl	q592,q483	c	o
+nddl2	q478,q586	c	o
+nEFD2	q959,q6	c	o
+nFR	q529,q422	c	o
+nigoff2	q432,q1014,q339	c	o
+PS	q432,q1014,q339	c	o
+tfr1	q478,q586	c	o
+
+q481,q590	1	15
+DA	q987,q44	c	o
+DC	q476,q582	c	o
+ddl2	q1018,q435,q345	c	o
+DS	q1018,q435,q345	c	o
+EFD2	q671,q787	c	o
+FR	q481,q590	c	o
+igoff2	q481,q590	c	o
+LSTMO	q961,q11	c	o
+MTMO	q391,q502	c	o
+nddl2	q481,q590	c	o
+nEFD2	q961,q11	c	o
+nFR	q425,q533	c	o
+nigoff2	q1018,q435,q345	c	o
+PS	q1018,q435,q345	c	o
+tfr1	q481,q590	c	o
+
+q482,q376	0	3
+dda2	q12,q169	c	o
+ndda2	q12,q169	c	o
+tfr1	q482,q376	c	o
+
+q485,q598	0	3
+ddl2	q385,q268	c	o
+nddl2	q446,q553	c	o
+ntfr1	q485,q598	c	o
+
+q487,q601	0	4
+da	q491,q609	c	o
+nda	q603,q488	c	o
+ntfr1	q487,q601	c	o
+pdl2_f	q244,q96	c	o
+
+q489,q605	0	4
+ddl	q491,q609	c	o
+nddl	q492,q611	c	o
+ntfr1	q489,q605	c	o
+pdl2_f	q246,q100	c	o
+
+q490,q607	0	4
+da	q492,q611	c	o
+nda	q492,q611	c	o
+ntfr1	q490,q607	c	o
+pdl2_f	q247,q102	c	o
+
+q491,q609	0	2
+ntfr1	q491,q609	c	o
+pdl2_f	q248,q104	c	o
+
+q492,q611	0	2
+ntfr1	q492,q611	c	o
+pdl2_f	q106,q249	c	o
+
+q493,q613	0	14
+da	q501,q621	c	o
+ddl2	q430,q1010,q335	c	o
+DS	q430,q1010,q335	c	o
+EFD2	q493,q613	c	o
+FR	q1011,q900	c	o
+igoff2	q493,q613	c	o
+LSTMO	q450,q557	c	o
+nda	q615,q495	c	o
+nddl2	q493,q613	c	o
+nEFD2	q493,q613	c	o
+nFR	q505,q393	c	o
+nigoff2	q430,q1010,q335	c	o
+PS	q430,q1010,q335	c	o
+tfr1	q493,q613	c	o
+
+q496,q388	0	14
+ddl2	q337,q431,q1012	c	o
+DS	q337,q431,q1012	c	o
+EFD2	q781,q665	c	o
+FR	q496,q388	c	o
+igoff	q389,q498	c	o
+igoff2	q496,q388	c	o
+LSTMO	q201,q41	c	o
+nddl2	q496,q388	c	o
+nEFD2	q201,q41	c	o
+nFR	q441,q350	c	o
+nigoff	q391,q502	c	o
+nigoff2	q337,q431,q1012	c	o
+PS	q337,q431,q1012	c	o
+tfr1	q496,q388	c	o
+
+q497,q617	0	14
+ddl	q501,q621	c	o
+ddl2	q432,q1014,q339	c	o
+DS	q432,q1014,q339	c	o
+EFD2	q497,q617	c	o
+FR	q1015,q902	c	o
+igoff2	q497,q617	c	o
+LSTMO	q454,q559	c	o
+nddl	q623,q503	c	o
+nddl2	q497,q617	c	o
+nEFD2	q497,q617	c	o
+nFR	q507,q397	c	o
+nigoff2	q432,q1014,q339	c	o
+PS	q432,q1014,q339	c	o
+tfr1	q497,q617	c	o
+
+q500,q390	0	14
+da	q504,q392	c	o
+ddl2	q341,q433,q1016	c	o
+DS	q341,q433,q1016	c	o
+EFD2	q785,q669	c	o
+FR	q500,q390	c	o
+igoff2	q500,q390	c	o
+LSTMO	q205,q43	c	o
+nda	q504,q392	c	o
+nddl2	q500,q390	c	o
+nEFD2	q205,q43	c	o
+nFR	q445,q352	c	o
+nigoff2	q341,q433,q1016	c	o
+PS	q341,q433,q1016	c	o
+tfr1	q500,q390	c	o
+
+q501,q621	1	14
+DA	q987,q44	c	o
+DC	q493,q613	c	o
+ddl2	q1018,q435,q345	c	o
+DS	q1018,q435,q345	c	o
+EFD2	q501,q621	c	o
+FR	q1019,q905	c	o
+igoff2	q501,q621	c	o
+LSTMO	q458,q561	c	o
+nddl2	q501,q621	c	o
+nEFD2	q501,q621	c	o
+nFR	q401,q509	c	o
+nigoff2	q1018,q435,q345	c	o
+PS	q1018,q435,q345	c	o
+tfr1	q501,q621	c	o
+
+q504,q392	1	14
+DA	q982,q39	c	o
+DC	q500,q390	c	o
+ddl2	q437,q112,q1020,q347,q1058	c	o
+DS	q437,q112,q1020,q347,q1058	c	o
+EFD2	q789,q673	c	o
+FR	q504,q392	c	o
+igoff2	q504,q392	c	o
+LSTMO	q210,q48	c	o
+nddl2	q504,q392	c	o
+nEFD2	q210,q48	c	o
+nFR	q354,q449	c	o
+nigoff2	q437,q112,q1020,q347,q1058	c	o
+PS	q437,q112,q1020,q347,q1058	c	o
+tfr1	q504,q392	c	o
+
+q505,q393	0	14
+da	q401,q509	c	o
+ddl2	q258,q380	c	o
+DS	q258,q380	c	o
+EFD2	q734,q602	c	o
+FR	q450,q557	c	o
+igoff2	q505,q393	c	o
+LSTMO	q576,q469	c	o
+nda	q506,q395	c	o
+nddl2	q505,q393	c	o
+nEFD2	q576,q469	c	o
+nFR	q505,q393	c	o
+nigoff2	q258,q380	c	o
+ntfr1	q505,q393	c	o
+PS	q258,q380	c	o
+
+q506,q395	0	14
+ddl2	q260,q381	c	o
+DS	q260,q381	c	o
+EFD2	q735,q604	c	o
+FR	q558,q452	c	o
+igoff	q507,q397	c	o
+igoff2	q506,q395	c	o
+LSTMO	q577,q470	c	o
+nddl2	q506,q395	c	o
+nEFD2	q577,q470	c	o
+nFR	q506,q395	c	o
+nigoff	q401,q509	c	o
+nigoff2	q260,q381	c	o
+ntfr1	q506,q395	c	o
+PS	q260,q381	c	o
+
+q507,q397	0	14
+ddl	q401,q509	c	o
+ddl2	q262,q382	c	o
+DS	q262,q382	c	o
+EFD2	q736,q606	c	o
+FR	q454,q559	c	o
+igoff2	q507,q397	c	o
+LSTMO	q578,q471	c	o
+nddl	q403,q511	c	o
+nddl2	q507,q397	c	o
+nEFD2	q578,q471	c	o
+nFR	q507,q397	c	o
+nigoff2	q262,q382	c	o
+ntfr1	q507,q397	c	o
+PS	q262,q382	c	o
+
+q508,q399	0	14
+da	q403,q511	c	o
+ddl2	q264,q383	c	o
+DS	q264,q383	c	o
+EFD2	q737,q608	c	o
+FR	q560,q456	c	o
+igoff2	q508,q399	c	o
+LSTMO	q579,q472	c	o
+nda	q403,q511	c	o
+nddl2	q508,q399	c	o
+nEFD2	q579,q472	c	o
+nFR	q508,q399	c	o
+nigoff2	q264,q383	c	o
+ntfr1	q508,q399	c	o
+PS	q264,q383	c	o
+
+q51,q993	0	14
+ddl2	q260,q381	c	o
+DS	q260,q381	c	o
+EFD2	q51,q993	c	o
+FR	q313,q409	c	o
+igoff	q994,q53	c	o
+igoff2	q51,q993	c	o
+LSTMO	q603,q488	c	o
+nddl2	q51,q993	c	o
+nEFD2	q51,q993	c	o
+nFR	q889,q813	c	o
+nigoff	q996,q57	c	o
+nigoff2	q260,q381	c	o
+ntfr1	q51,q993	c	o
+PS	q260,q381	c	o
+
+q512,q626	0	5
+da	q634,q516	c	o
+da2	q3,q159	c	o
+nda	q513,q628	c	o
+nda2	q355,q223	c	o
+tfr1	q512,q626	c	o
+
+q513,q628	0	5
+da2	q161,q5	c	o
+igoff	q514,q630	c	o
+nda2	q357,q225	c	o
+nigoff	q634,q516	c	o
+tfr1	q513,q628	c	o
+
+q514,q630	0	5
+da2	q7,q163	c	o
+ddl	q634,q516	c	o
+nda2	q227,q359	c	o
+nddl	q636,q518	c	o
+tfr1	q514,q630	c	o
+
+q515,q632	0	5
+da	q636,q518	c	o
+da2	q165,q9	c	o
+nda	q636,q518	c	o
+nda2	q361,q229	c	o
+tfr1	q515,q632	c	o
+
+q519,q638	0	14
+da	q523,q646	c	o
+ddl2	q430,q1010,q335	c	o
+DS	q430,q1010,q335	c	o
+EFD2	q519,q638	c	o
+FR	q519,q638	c	o
+igoff2	q519,q638	c	o
+nda	q640,q520	c	o
+nddl2	q519,q638	c	o
+nEFD2	q519,q638	c	o
+nFR	q576,q469	c	o
+nigoff2	q430,q1010,q335	c	o
+PS	q430,q1010,q335	c	o
+PTMO	q128,q272	c	o
+tfr1	q519,q638	c	o
+
+q521,q642	0	14
+ddl	q523,q646	c	o
+ddl2	q432,q1014,q339	c	o
+DS	q432,q1014,q339	c	o
+EFD2	q521,q642	c	o
+FR	q521,q642	c	o
+igoff2	q521,q642	c	o
+nddl	q648,q524	c	o
+nddl2	q521,q642	c	o
+nEFD2	q521,q642	c	o
+nFR	q578,q471	c	o
+nigoff2	q432,q1014,q339	c	o
+PS	q432,q1014,q339	c	o
+PTMO	q132,q274	c	o
+tfr1	q521,q642	c	o
+
+q523,q646	1	14
+DA	q987,q44	c	o
+DC	q519,q638	c	o
+ddl2	q1018,q435,q345	c	o
+DS	q1018,q435,q345	c	o
+EFD2	q523,q646	c	o
+FR	q523,q646	c	o
+igoff2	q523,q646	c	o
+nddl2	q523,q646	c	o
+nEFD2	q523,q646	c	o
+nFR	q473,q580	c	o
+nigoff2	q1018,q435,q345	c	o
+PS	q1018,q435,q345	c	o
+PTMO	q136,q276	c	o
+tfr1	q523,q646	c	o
+
+q525,q420	0	15
+da	q425,q533	c	o
+ddl2	q258,q380	c	o
+DS	q258,q380	c	o
+EFD2	q734,q602	c	o
+FR	q476,q582	c	o
+igoff2	q525,q420	c	o
+LSTMO	q1023,q909	c	o
+MTMO	q439,q349	c	o
+nda	q527,q421	c	o
+nddl2	q525,q420	c	o
+nEFD2	q1023,q909	c	o
+nFR	q525,q420	c	o
+nigoff2	q258,q380	c	o
+ntfr1	q525,q420	c	o
+PS	q258,q380	c	o
+
+q527,q421	0	15
+ddl2	q260,q381	c	o
+DS	q260,q381	c	o
+EFD2	q735,q604	c	o
+FR	q584,q477	c	o
+igoff	q529,q422	c	o
+igoff2	q527,q421	c	o
+LSTMO	q1025,q910	c	o
+MTMO	q441,q350	c	o
+nddl2	q527,q421	c	o
+nEFD2	q1025,q910	c	o
+nFR	q527,q421	c	o
+nigoff	q425,q533	c	o
+nigoff2	q260,q381	c	o
+ntfr1	q527,q421	c	o
+PS	q260,q381	c	o
+
+q529,q422	0	15
+ddl	q425,q533	c	o
+ddl2	q262,q382	c	o
+DS	q262,q382	c	o
+EFD2	q736,q606	c	o
+FR	q478,q586	c	o
+igoff2	q529,q422	c	o
+LSTMO	q1027,q911	c	o
+MTMO	q443,q351	c	o
+nddl	q427,q535	c	o
+nddl2	q529,q422	c	o
+nEFD2	q1027,q911	c	o
+nFR	q529,q422	c	o
+nigoff2	q262,q382	c	o
+ntfr1	q529,q422	c	o
+PS	q262,q382	c	o
+
+q531,q423	0	15
+da	q427,q535	c	o
+ddl2	q264,q383	c	o
+DS	q264,q383	c	o
+EFD2	q737,q608	c	o
+FR	q588,q479	c	o
+igoff2	q531,q423	c	o
+LSTMO	q1029,q912	c	o
+MTMO	q445,q352	c	o
+nda	q427,q535	c	o
+nddl2	q531,q423	c	o
+nEFD2	q1029,q912	c	o
+nFR	q531,q423	c	o
+nigoff2	q264,q383	c	o
+ntfr1	q531,q423	c	o
+PS	q264,q383	c	o
+
+q534,q654	1	15
+DA	q1065,q934	c	o
+DC	q650,q526	c	o
+ddl2	q385,q268	c	o
+DS	q385,q268	c	o
+EFD2	q534,q654	c	o
+FR	q308,q803,q170	c	o
+igoff2	q534,q654	c	o
+LSTMO	q844,q936	c	o
+MTMO	q446,q553	c	o
+nddl2	q534,q654	c	o
+nEFD2	q534,q654	c	o
+nFR	q844,q936	c	o
+nigoff2	q385,q268	c	o
+ntfr1	q534,q654	c	o
+PS	q385,q268	c	o
+
+q536,q655	1	15
+DA	q1060,q929	c	o
+DC	q653,q532	c	o
+ddl2	q0,q37,q270,q980	c	o
+DS	q0,q37,q270,q980	c	o
+EFD2	q536,q655	c	o
+FR	q310,q461,q804,q172,q366	c	o
+igoff2	q536,q655	c	o
+LSTMO	q845,q938	c	o
+MTMO	q448,q555	c	o
+nddl2	q536,q655	c	o
+nEFD2	q536,q655	c	o
+nFR	q845,q938	c	o
+nigoff2	q0,q37,q270,q980	c	o
+ntfr1	q536,q655	c	o
+PS	q0,q37,q270,q980	c	o
+
+q537,q660	0	3
+ddl2	q1018,q435,q345	c	o
+nddl2	q501,q621	c	o
+tfr1	q537,q660	c	o
+
+q543,q672	0	2
+pdl2_f	q320,q181	c	o
+tfr1	q543,q672	c	o
+
+q544,q674	0	2
+pdl2_f	q322,q183	c	o
+tfr1	q544,q674	c	o
+
+q545,q438	0	14
+da	q446,q553	c	o
+ddl2	q258,q380	c	o
+DS	q258,q380	c	o
+EFD2	q545,q438	c	o
+FR	q430,q1010,q335	c	o
+igoff2	q545,q438	c	o
+LSTMO	q505,q393	c	o
+nda	q547,q440	c	o
+nddl2	q545,q438	c	o
+nEFD2	q545,q438	c	o
+nFR	q505,q393	c	o
+nigoff2	q258,q380	c	o
+ntfr1	q545,q438	c	o
+PS	q258,q380	c	o
+
+q547,q440	0	14
+ddl2	q260,q381	c	o
+DS	q260,q381	c	o
+EFD2	q547,q440	c	o
+FR	q337,q431,q1012	c	o
+igoff	q549,q442	c	o
+igoff2	q547,q440	c	o
+LSTMO	q506,q395	c	o
+nddl2	q547,q440	c	o
+nEFD2	q547,q440	c	o
+nFR	q506,q395	c	o
+nigoff	q446,q553	c	o
+nigoff2	q260,q381	c	o
+ntfr1	q547,q440	c	o
+PS	q260,q381	c	o
+
+q549,q442	0	14
+ddl	q446,q553	c	o
+ddl2	q262,q382	c	o
+DS	q262,q382	c	o
+EFD2	q549,q442	c	o
+FR	q432,q1014,q339	c	o
+igoff2	q549,q442	c	o
+LSTMO	q507,q397	c	o
+nddl	q448,q555	c	o
+nddl2	q549,q442	c	o
+nEFD2	q549,q442	c	o
+nFR	q507,q397	c	o
+nigoff2	q262,q382	c	o
+ntfr1	q549,q442	c	o
+PS	q262,q382	c	o
+
+q551,q444	0	14
+da	q448,q555	c	o
+ddl2	q264,q383	c	o
+DS	q264,q383	c	o
+EFD2	q551,q444	c	o
+FR	q341,q433,q1016	c	o
+igoff2	q551,q444	c	o
+LSTMO	q508,q399	c	o
+nda	q448,q555	c	o
+nddl2	q551,q444	c	o
+nEFD2	q551,q444	c	o
+nFR	q508,q399	c	o
+nigoff2	q264,q383	c	o
+ntfr1	q551,q444	c	o
+PS	q264,q383	c	o
+
+q554,q684	1	15
+DA	q1065,q934	c	o
+DC	q676,q546	c	o
+ddl2	q385,q268	c	o
+DS	q385,q268	c	o
+EFD2	q554,q684	c	o
+FR	q622,q749	c	o
+igoff2	q554,q684	c	o
+MTMO	q473,q580	c	o
+nddl2	q554,q684	c	o
+nEFD2	q554,q684	c	o
+nFR	q554,q684	c	o
+nigoff2	q385,q268	c	o
+ntfr1	q554,q684	c	o
+PS	q385,q268	c	o
+PTMO	q1086,q154	c	o
+
+q556,q686	1	15
+DA	q1060,q929	c	o
+DC	q682,q552	c	o
+ddl2	q0,q37,q270,q980	c	o
+DS	q0,q37,q270,q980	c	o
+EFD2	q556,q686	c	o
+FR	q751,q624	c	o
+igoff2	q556,q686	c	o
+MTMO	q474,q581	c	o
+nddl2	q556,q686	c	o
+nEFD2	q556,q686	c	o
+nFR	q556,q686	c	o
+nigoff2	q0,q37,q270,q980	c	o
+ntfr1	q556,q686	c	o
+PS	q0,q37,q270,q980	c	o
+PTMO	q1087,q156	c	o
+
+q558,q452	0	14
+ddl2	q337,q431,q1012	c	o
+DS	q337,q431,q1012	c	o
+EFD2	q781,q665	c	o
+FR	q558,q452	c	o
+igoff	q454,q559	c	o
+igoff2	q558,q452	c	o
+LSTMO	q640,q520	c	o
+nddl2	q558,q452	c	o
+nEFD2	q640,q520	c	o
+nFR	q506,q395	c	o
+nigoff	q458,q561	c	o
+nigoff2	q337,q431,q1012	c	o
+PS	q337,q431,q1012	c	o
+tfr1	q558,q452	c	o
+
+q560,q456	0	14
+da	q563,q460	c	o
+ddl2	q341,q433,q1016	c	o
+DS	q341,q433,q1016	c	o
+EFD2	q785,q669	c	o
+FR	q560,q456	c	o
+igoff2	q560,q456	c	o
+LSTMO	q644,q522	c	o
+nda	q563,q460	c	o
+nddl2	q560,q456	c	o
+nEFD2	q644,q522	c	o
+nFR	q508,q399	c	o
+nigoff2	q341,q433,q1016	c	o
+PS	q341,q433,q1016	c	o
+tfr1	q560,q456	c	o
+
+q563,q460	1	14
+DA	q982,q39	c	o
+DC	q560,q456	c	o
+ddl2	q437,q112,q1020,q347,q1058	c	o
+DS	q437,q112,q1020,q347,q1058	c	o
+EFD2	q789,q673	c	o
+FR	q563,q460	c	o
+igoff2	q563,q460	c	o
+LSTMO	q648,q524	c	o
+nddl2	q563,q460	c	o
+nEFD2	q648,q524	c	o
+nFR	q403,q511	c	o
+nigoff2	q437,q112,q1020,q347,q1058	c	o
+PS	q437,q112,q1020,q347,q1058	c	o
+tfr1	q563,q460	c	o
+
+q567,q697	0	5
+da2	q84,q237	c	o
+igoff	q569,q699	c	o
+nda2	q396,q293	c	o
+nigoff	q703,q573	c	o
+ntfr1	q567,q697	c	o
+
+q569,q699	0	5
+da2	q238,q86	c	o
+ddl	q703,q573	c	o
+nda2	q398,q295	c	o
+nddl	q705,q575	c	o
+ntfr1	q569,q699	c	o
+
+q571,q701	0	5
+da	q705,q575	c	o
+da2	q239,q88	c	o
+nda	q705,q575	c	o
+nda2	q400,q297	c	o
+ntfr1	q571,q701	c	o
+
+q572,q466	0	3
+da2	q91,q1033	c	o
+nda2	q153,q510,q298,q625	c	o
+ntfr1	q572,q466	c	o
+
+q574,q468	0	3
+da2	q1035,q155,q300,q93	c	o
+nda2	q1035,q155,q300,q93	c	o
+ntfr1	q574,q468	c	o
+
+q576,q469	0	14
+da	q473,q580	c	o
+ddl2	q258,q380	c	o
+DS	q258,q380	c	o
+EFD2	q576,q469	c	o
+FR	q519,q638	c	o
+igoff2	q576,q469	c	o
+nda	q577,q470	c	o
+nddl2	q576,q469	c	o
+nEFD2	q576,q469	c	o
+nFR	q576,q469	c	o
+nigoff2	q258,q380	c	o
+ntfr1	q576,q469	c	o
+PS	q258,q380	c	o
+PTMO	q211,q50	c	o
+
+q577,q470	0	14
+ddl2	q260,q381	c	o
+DS	q260,q381	c	o
+EFD2	q577,q470	c	o
+FR	q640,q520	c	o
+igoff	q578,q471	c	o
+igoff2	q577,q470	c	o
+nddl2	q577,q470	c	o
+nEFD2	q577,q470	c	o
+nFR	q577,q470	c	o
+nigoff	q473,q580	c	o
+nigoff2	q260,q381	c	o
+ntfr1	q577,q470	c	o
+PS	q260,q381	c	o
+PTMO	q212,q52	c	o
+
+q578,q471	0	14
+ddl	q473,q580	c	o
+ddl2	q262,q382	c	o
+DS	q262,q382	c	o
+EFD2	q578,q471	c	o
+FR	q521,q642	c	o
+igoff2	q578,q471	c	o
+nddl	q474,q581	c	o
+nddl2	q578,q471	c	o
+nEFD2	q578,q471	c	o
+nFR	q578,q471	c	o
+nigoff2	q262,q382	c	o
+ntfr1	q578,q471	c	o
+PS	q262,q382	c	o
+PTMO	q213,q54	c	o
+
+q579,q472	0	14
+da	q474,q581	c	o
+ddl2	q264,q383	c	o
+DS	q264,q383	c	o
+EFD2	q579,q472	c	o
+FR	q644,q522	c	o
+igoff2	q579,q472	c	o
+nda	q474,q581	c	o
+nddl2	q579,q472	c	o
+nEFD2	q579,q472	c	o
+nFR	q579,q472	c	o
+nigoff2	q264,q383	c	o
+ntfr1	q579,q472	c	o
+PS	q264,q383	c	o
+PTMO	q214,q56	c	o
+
+q58,q215	1	14
+DA	q1065,q934	c	o
+DC	q211,q50	c	o
+ddl2	q385,q268	c	o
+DS	q385,q268	c	o
+EFD2	q610,q738	c	o
+FR	q136,q276	c	o
+igoff2	q58,q215	c	o
+LSTMO	q385,q268	c	o
+nddl2	q58,q215	c	o
+nEFD2	q385,q268	c	o
+nFR	q58,q215	c	o
+nigoff2	q385,q268	c	o
+ntfr1	q58,q215	c	o
+PS	q385,q268	c	o
+
+q583,q710	0	15
+da	q591,q718	c	o
+ddl2	q430,q1010,q335	c	o
+DS	q430,q1010,q335	c	o
+EFD2	q583,q710	c	o
+FR	q687,q940	c	o
+igoff2	q583,q710	c	o
+LSTMO	q880,q983	c	o
+MTMO	q493,q613	c	o
+nda	q712,q585	c	o
+nddl2	q583,q710	c	o
+nEFD2	q583,q710	c	o
+nFR	q930,q839	c	o
+nigoff2	q430,q1010,q335	c	o
+PS	q430,q1010,q335	c	o
+tfr1	q583,q710	c	o
+
+q584,q477	0	15
+ddl2	q337,q431,q1012	c	o
+DS	q337,q431,q1012	c	o
+EFD2	q781,q665	c	o
+FR	q584,q477	c	o
+igoff	q478,q586	c	o
+igoff2	q584,q477	c	o
+LSTMO	q4,q958	c	o
+MTMO	q496,q388	c	o
+nddl2	q584,q477	c	o
+nEFD2	q4,q958	c	o
+nFR	q527,q421	c	o
+nigoff	q481,q590	c	o
+nigoff2	q337,q431,q1012	c	o
+PS	q337,q431,q1012	c	o
+tfr1	q584,q477	c	o
+
+q587,q714	0	15
+ddl	q591,q718	c	o
+ddl2	q432,q1014,q339	c	o
+DS	q432,q1014,q339	c	o
+EFD2	q587,q714	c	o
+FR	q689,q944	c	o
+igoff2	q587,q714	c	o
+LSTMO	q882,q985	c	o
+MTMO	q497,q617	c	o
+nddl	q720,q593	c	o
+nddl2	q587,q714	c	o
+nEFD2	q587,q714	c	o
+nFR	q932,q841	c	o
+nigoff2	q432,q1014,q339	c	o
+PS	q432,q1014,q339	c	o
+tfr1	q587,q714	c	o
+
+q588,q479	0	15
+da	q592,q483	c	o
+ddl2	q341,q433,q1016	c	o
+DS	q341,q433,q1016	c	o
+EFD2	q785,q669	c	o
+FR	q588,q479	c	o
+igoff2	q588,q479	c	o
+LSTMO	q8,q960	c	o
+MTMO	q500,q390	c	o
+nda	q592,q483	c	o
+nddl2	q588,q479	c	o
+nEFD2	q8,q960	c	o
+nFR	q531,q423	c	o
+nigoff2	q341,q433,q1016	c	o
+PS	q341,q433,q1016	c	o
+tfr1	q588,q479	c	o
+
+q59,q997	1	14
+DA	q1060,q929	c	o
+DC	q995,q55	c	o
+ddl2	q0,q37,q270,q980	c	o
+DS	q0,q37,q270,q980	c	o
+EFD2	q59,q997	c	o
+FR	q321,q417	c	o
+igoff2	q59,q997	c	o
+LSTMO	q492,q611	c	o
+nddl2	q59,q997	c	o
+nEFD2	q59,q997	c	o
+nFR	q819,q897	c	o
+nigoff2	q0,q37,q270,q980	c	o
+ntfr1	q59,q997	c	o
+PS	q0,q37,q270,q980	c	o
+
+q591,q718	1	15
+DA	q987,q44	c	o
+DC	q583,q710	c	o
+ddl2	q1018,q435,q345	c	o
+DS	q1018,q435,q345	c	o
+EFD2	q591,q718	c	o
+FR	q692,q948	c	o
+igoff2	q591,q718	c	o
+LSTMO	q885,q989	c	o
+MTMO	q501,q621	c	o
+nddl2	q591,q718	c	o
+nEFD2	q591,q718	c	o
+nFR	q844,q936	c	o
+nigoff2	q1018,q435,q345	c	o
+PS	q1018,q435,q345	c	o
+tfr1	q591,q718	c	o
+
+q592,q483	1	15
+DA	q982,q39	c	o
+DC	q588,q479	c	o
+ddl2	q437,q112,q1020,q347,q1058	c	o
+DS	q437,q112,q1020,q347,q1058	c	o
+EFD2	q789,q673	c	o
+FR	q592,q483	c	o
+igoff2	q592,q483	c	o
+LSTMO	q13,q962	c	o
+MTMO	q504,q392	c	o
+nddl2	q592,q483	c	o
+nEFD2	q13,q962	c	o
+nFR	q427,q535	c	o
+nigoff2	q437,q112,q1020,q347,q1058	c	o
+PS	q437,q112,q1020,q347,q1058	c	o
+tfr1	q592,q483	c	o
+
+q599,q731	0	3
+da2	q124,q269	c	o
+nda2	q920,q979,q831,q878	c	o
+ntfr1	q599,q731	c	o
+
+q60,q216	1	14
+DA	q1060,q929	c	o
+DC	q214,q56	c	o
+ddl2	q0,q37,q270,q980	c	o
+DS	q0,q37,q270,q980	c	o
+EFD2	q612,q739	c	o
+FR	q277,q138	c	o
+igoff2	q60,q216	c	o
+LSTMO	q0,q37,q270,q980	c	o
+nddl2	q60,q216	c	o
+nEFD2	q0,q37,q270,q980	c	o
+nFR	q60,q216	c	o
+nigoff2	q0,q37,q270,q980	c	o
+ntfr1	q60,q216	c	o
+PS	q0,q37,q270,q980	c	o
+
+q600,q733	0	3
+da2	q271,q981,q126,q879	c	o
+nda2	q271,q981,q126,q879	c	o
+ntfr1	q600,q733	c	o
+
+q603,q488	0	4
+igoff	q489,q605	c	o
+nigoff	q491,q609	c	o
+ntfr1	q603,q488	c	o
+pdl2_f	q98,q245	c	o
+
+q610,q738	1	15
+DA	q1065,q934	c	o
+DC	q734,q602	c	o
+ddl2	q385,q268	c	o
+DS	q385,q268	c	o
+EFD2	q610,q738	c	o
+FR	q671,q787	c	o
+igoff2	q610,q738	c	o
+MTMO	q996,q57	c	o
+nddl2	q610,q738	c	o
+nEFD2	q610,q738	c	o
+nFR	q610,q738	c	o
+nigoff2	q385,q268	c	o
+ntfr1	q610,q738	c	o
+PS	q385,q268	c	o
+PTMO	q683,q796	c	o
+
+q612,q739	1	15
+DA	q1060,q929	c	o
+DC	q737,q608	c	o
+ddl2	q0,q37,q270,q980	c	o
+DS	q0,q37,q270,q980	c	o
+EFD2	q612,q739	c	o
+FR	q789,q673	c	o
+igoff2	q612,q739	c	o
+MTMO	q59,q997	c	o
+nddl2	q612,q739	c	o
+nEFD2	q612,q739	c	o
+nFR	q612,q739	c	o
+nigoff2	q0,q37,q270,q980	c	o
+ntfr1	q612,q739	c	o
+PS	q0,q37,q270,q980	c	o
+PTMO	q685,q797	c	o
+
+q614,q741	0	15
+da	q622,q749	c	o
+ddl2	q430,q1010,q335	c	o
+DS	q430,q1010,q335	c	o
+EFD2	q614,q741	c	o
+FR	q614,q741	c	o
+igoff2	q614,q741	c	o
+MTMO	q519,q638	c	o
+nda	q743,q616	c	o
+nddl2	q614,q741	c	o
+nEFD2	q614,q741	c	o
+nFR	q676,q546	c	o
+nigoff2	q430,q1010,q335	c	o
+PS	q430,q1010,q335	c	o
+PTMO	q73,q224	c	o
+tfr1	q614,q741	c	o
+
+q615,q495	0	14
+ddl2	q337,q431,q1012	c	o
+DS	q337,q431,q1012	c	o
+EFD2	q615,q495	c	o
+FR	q1013,q901	c	o
+igoff	q497,q617	c	o
+igoff2	q615,q495	c	o
+LSTMO	q558,q452	c	o
+nddl2	q615,q495	c	o
+nEFD2	q615,q495	c	o
+nFR	q506,q395	c	o
+nigoff	q501,q621	c	o
+nigoff2	q337,q431,q1012	c	o
+PS	q337,q431,q1012	c	o
+tfr1	q615,q495	c	o
+
+q618,q745	0	15
+ddl	q622,q749	c	o
+ddl2	q432,q1014,q339	c	o
+DS	q432,q1014,q339	c	o
+EFD2	q618,q745	c	o
+FR	q618,q745	c	o
+igoff2	q618,q745	c	o
+MTMO	q521,q642	c	o
+nddl	q751,q624	c	o
+nddl2	q618,q745	c	o
+nEFD2	q618,q745	c	o
+nFR	q680,q550	c	o
+nigoff2	q432,q1014,q339	c	o
+PS	q432,q1014,q339	c	o
+PTMO	q75,q228	c	o
+tfr1	q618,q745	c	o
+
+q619,q499	0	14
+da	q623,q503	c	o
+ddl2	q341,q433,q1016	c	o
+DS	q341,q433,q1016	c	o
+EFD2	q619,q499	c	o
+FR	q1017,q903	c	o
+igoff2	q619,q499	c	o
+LSTMO	q560,q456	c	o
+nda	q623,q503	c	o
+nddl2	q619,q499	c	o
+nEFD2	q619,q499	c	o
+nFR	q508,q399	c	o
+nigoff2	q341,q433,q1016	c	o
+PS	q341,q433,q1016	c	o
+tfr1	q619,q499	c	o
+
+q62,q217	0	4
+da	q70,q221	c	o
+ddl2_f	q236,q82	c	o
+nda	q218,q64	c	o
+ntfr1	q62,q217	c	o
+
+q622,q749	1	15
+DA	q987,q44	c	o
+DC	q614,q741	c	o
+ddl2	q1018,q435,q345	c	o
+DS	q1018,q435,q345	c	o
+EFD2	q622,q749	c	o
+FR	q622,q749	c	o
+igoff2	q622,q749	c	o
+MTMO	q523,q646	c	o
+nddl2	q622,q749	c	o
+nEFD2	q622,q749	c	o
+nFR	q554,q684	c	o
+nigoff2	q1018,q435,q345	c	o
+PS	q1018,q435,q345	c	o
+PTMO	q77,q232	c	o
+tfr1	q622,q749	c	o
+
+q623,q503	1	14
+DA	q982,q39	c	o
+DC	q619,q499	c	o
+ddl2	q437,q112,q1020,q347,q1058	c	o
+DS	q437,q112,q1020,q347,q1058	c	o
+EFD2	q623,q503	c	o
+FR	q1021,q907	c	o
+igoff2	q623,q503	c	o
+LSTMO	q563,q460	c	o
+nddl2	q623,q503	c	o
+nEFD2	q623,q503	c	o
+nFR	q403,q511	c	o
+nigoff2	q437,q112,q1020,q347,q1058	c	o
+PS	q437,q112,q1020,q347,q1058	c	o
+tfr1	q623,q503	c	o
+
+q629,q754	0	5
+da2	q162,q304,q799	c	o
+igoff	q631,q755	c	o
+nda2	q453,q358	c	o
+nigoff	q757,q635	c	o
+tfr1	q629,q754	c	o
+
+q631,q755	0	5
+da2	q305,q800,q164	c	o
+ddl	q757,q635	c	o
+nda2	q455,q360	c	o
+nddl	q758,q637	c	o
+tfr1	q631,q755	c	o
+
+q633,q756	0	5
+da	q758,q637	c	o
+da2	q306,q801,q166	c	o
+nda	q758,q637	c	o
+nda2	q457,q362	c	o
+tfr1	q633,q756	c	o
+
+q634,q516	0	3
+da2	q12,q169	c	o
+nda2	q363,q691,q231,q562	c	o
+tfr1	q634,q516	c	o
+
+q636,q518	0	3
+da2	q171,q365,q14,q233	c	o
+nda2	q171,q365,q14,q233	c	o
+tfr1	q636,q518	c	o
+
+q639	0	5
+da	q647	c	o
+nda	q641	c	o
+nsbp2	q408	c	o
+sbp2	q430,q1010,q335	c	o
+tfr1	q639	c	o
+
+q640,q520	0	14
+ddl2	q337,q431,q1012	c	o
+DS	q337,q431,q1012	c	o
+EFD2	q640,q520	c	o
+FR	q640,q520	c	o
+igoff	q521,q642	c	o
+igoff2	q640,q520	c	o
+nddl2	q640,q520	c	o
+nEFD2	q640,q520	c	o
+nFR	q577,q470	c	o
+nigoff	q523,q646	c	o
+nigoff2	q337,q431,q1012	c	o
+PS	q337,q431,q1012	c	o
+PTMO	q273,q130	c	o
+tfr1	q640,q520	c	o
+
+q641	0	5
+igoff	q643	c	o
+nigoff	q647	c	o
+nsbp2	q410	c	o
+sbp2	q337,q431,q1012	c	o
+tfr1	q641	c	o
+
+q643	0	5
+ddl	q647	c	o
+nddl	q649	c	o
+nsbp2	q412	c	o
+sbp2	q432,q1014,q339	c	o
+tfr1	q643	c	o
+
+q644,q522	0	14
+da	q648,q524	c	o
+ddl2	q341,q433,q1016	c	o
+DS	q341,q433,q1016	c	o
+EFD2	q644,q522	c	o
+FR	q644,q522	c	o
+igoff2	q644,q522	c	o
+nda	q648,q524	c	o
+nddl2	q644,q522	c	o
+nEFD2	q644,q522	c	o
+nFR	q579,q472	c	o
+nigoff2	q341,q433,q1016	c	o
+PS	q341,q433,q1016	c	o
+PTMO	q275,q134	c	o
+tfr1	q644,q522	c	o
+
+q645	0	5
+da	q649	c	o
+nda	q649	c	o
+nsbp2	q414	c	o
+sbp2	q341,q433,q1016	c	o
+tfr1	q645	c	o
+
+q647	0	3
+nsbp2	q416	c	o
+sbp2	q1018,q435,q345	c	o
+tfr1	q647	c	o
+
+q648,q524	1	14
+DA	q982,q39	c	o
+DC	q644,q522	c	o
+ddl2	q437,q112,q1020,q347,q1058	c	o
+DS	q437,q112,q1020,q347,q1058	c	o
+EFD2	q648,q524	c	o
+FR	q648,q524	c	o
+igoff2	q648,q524	c	o
+nddl2	q648,q524	c	o
+nEFD2	q648,q524	c	o
+nFR	q474,q581	c	o
+nigoff2	q437,q112,q1020,q347,q1058	c	o
+PS	q437,q112,q1020,q347,q1058	c	o
+PTMO	q277,q138	c	o
+tfr1	q648,q524	c	o
+
+q649	0	3
+nsbp2	q418	c	o
+sbp2	q437,q112,q1020,q347,q1058	c	o
+tfr1	q649	c	o
+
+q650,q526	0	15
+da	q534,q654	c	o
+ddl2	q258,q380	c	o
+DS	q258,q380	c	o
+EFD2	q650,q526	c	o
+FR	q160,q303,q798	c	o
+igoff2	q650,q526	c	o
+LSTMO	q930,q839	c	o
+MTMO	q545,q438	c	o
+nda	q651,q528	c	o
+nddl2	q650,q526	c	o
+nEFD2	q650,q526	c	o
+nFR	q930,q839	c	o
+nigoff2	q258,q380	c	o
+ntfr1	q650,q526	c	o
+PS	q258,q380	c	o
+
+q651,q528	0	15
+ddl2	q260,q381	c	o
+DS	q260,q381	c	o
+EFD2	q651,q528	c	o
+FR	q162,q304,q799	c	o
+igoff	q652,q530	c	o
+igoff2	q651,q528	c	o
+LSTMO	q931,q840	c	o
+MTMO	q547,q440	c	o
+nddl2	q651,q528	c	o
+nEFD2	q651,q528	c	o
+nFR	q931,q840	c	o
+nigoff	q534,q654	c	o
+nigoff2	q260,q381	c	o
+ntfr1	q651,q528	c	o
+PS	q260,q381	c	o
+
+q652,q530	0	15
+ddl	q534,q654	c	o
+ddl2	q262,q382	c	o
+DS	q262,q382	c	o
+EFD2	q652,q530	c	o
+FR	q305,q800,q164	c	o
+igoff2	q652,q530	c	o
+LSTMO	q932,q841	c	o
+MTMO	q549,q442	c	o
+nddl	q536,q655	c	o
+nddl2	q652,q530	c	o
+nEFD2	q652,q530	c	o
+nFR	q932,q841	c	o
+nigoff2	q262,q382	c	o
+ntfr1	q652,q530	c	o
+PS	q262,q382	c	o
+
+q653,q532	0	15
+da	q536,q655	c	o
+ddl2	q264,q383	c	o
+DS	q264,q383	c	o
+EFD2	q653,q532	c	o
+FR	q306,q801,q166	c	o
+igoff2	q653,q532	c	o
+LSTMO	q933,q842	c	o
+MTMO	q551,q444	c	o
+nda	q536,q655	c	o
+nddl2	q653,q532	c	o
+nEFD2	q653,q532	c	o
+nFR	q933,q842	c	o
+nigoff2	q264,q383	c	o
+ntfr1	q653,q532	c	o
+PS	q264,q383	c	o
+
+q66,q219	0	4
+ddl	q70,q221	c	o
+ddl2_f	q238,q86	c	o
+nddl	q222,q72	c	o
+ntfr1	q66,q219	c	o
+
+q661,q776	0	3
+da2	q207,q346	c	o
+nda2	q1057,q968,q872,q927	c	o
+tfr1	q661,q776	c	o
+
+q662,q778	0	3
+da2	q1059,q348,q209,q928	c	o
+nda2	q1059,q348,q209,q928	c	o
+tfr1	q662,q778	c	o
+
+q663,q779	0	15
+da	q671,q787	c	o
+ddl2	q430,q1010,q335	c	o
+DS	q430,q1010,q335	c	o
+EFD2	q663,q779	c	o
+FR	q663,q779	c	o
+igoff2	q663,q779	c	o
+MTMO	q127,q1070	c	o
+nda	q781,q665	c	o
+nddl2	q663,q779	c	o
+nEFD2	q663,q779	c	o
+nFR	q734,q602	c	o
+nigoff2	q430,q1010,q335	c	o
+PS	q430,q1010,q335	c	o
+PTMO	q740,q832	c	o
+tfr1	q663,q779	c	o
+
+q664,q539	0	4
+da	q543,q672	c	o
+nda	q666,q540	c	o
+pdl2_f	q312,q173	c	o
+tfr1	q664,q539	c	o
+
+q666,q540	0	4
+igoff	q668,q541	c	o
+nigoff	q543,q672	c	o
+pdl2_f	q175,q314	c	o
+tfr1	q666,q540	c	o
+
+q667,q783	0	15
+ddl	q671,q787	c	o
+ddl2	q432,q1014,q339	c	o
+DS	q432,q1014,q339	c	o
+EFD2	q667,q783	c	o
+FR	q667,q783	c	o
+igoff2	q667,q783	c	o
+MTMO	q1072,q131	c	o
+nddl	q789,q673	c	o
+nddl2	q667,q783	c	o
+nEFD2	q667,q783	c	o
+nFR	q736,q606	c	o
+nigoff2	q432,q1014,q339	c	o
+PS	q432,q1014,q339	c	o
+PTMO	q744,q834	c	o
+tfr1	q667,q783	c	o
+
+q668,q541	0	4
+ddl	q543,q672	c	o
+nddl	q544,q674	c	o
+pdl2_f	q177,q316	c	o
+tfr1	q668,q541	c	o
+
+q670,q542	0	4
+da	q544,q674	c	o
+nda	q544,q674	c	o
+pdl2_f	q179,q318	c	o
+tfr1	q670,q542	c	o
+
+q671,q787	1	15
+DA	q987,q44	c	o
+DC	q663,q779	c	o
+ddl2	q1018,q435,q345	c	o
+DS	q1018,q435,q345	c	o
+EFD2	q671,q787	c	o
+FR	q671,q787	c	o
+igoff2	q671,q787	c	o
+MTMO	q1074,q135	c	o
+nddl2	q671,q787	c	o
+nEFD2	q671,q787	c	o
+nFR	q610,q738	c	o
+nigoff2	q1018,q435,q345	c	o
+PS	q1018,q435,q345	c	o
+PTMO	q748,q837	c	o
+tfr1	q671,q787	c	o
+
+q676,q546	0	15
+da	q554,q684	c	o
+ddl2	q258,q380	c	o
+DS	q258,q380	c	o
+EFD2	q676,q546	c	o
+FR	q614,q741	c	o
+igoff2	q676,q546	c	o
+MTMO	q576,q469	c	o
+nda	q678,q548	c	o
+nddl2	q676,q546	c	o
+nEFD2	q676,q546	c	o
+nFR	q676,q546	c	o
+nigoff2	q258,q380	c	o
+ntfr1	q676,q546	c	o
+PS	q258,q380	c	o
+PTMO	q146,q1082	c	o
+
+q678,q548	0	15
+ddl2	q260,q381	c	o
+DS	q260,q381	c	o
+EFD2	q678,q548	c	o
+FR	q743,q616	c	o
+igoff	q680,q550	c	o
+igoff2	q678,q548	c	o
+MTMO	q577,q470	c	o
+nddl2	q678,q548	c	o
+nEFD2	q678,q548	c	o
+nFR	q678,q548	c	o
+nigoff	q554,q684	c	o
+nigoff2	q260,q381	c	o
+ntfr1	q678,q548	c	o
+PS	q260,q381	c	o
+PTMO	q148,q1083	c	o
+
+q68,q220	0	4
+da	q222,q72	c	o
+ddl2_f	q239,q88	c	o
+nda	q222,q72	c	o
+ntfr1	q68,q220	c	o
+
+q680,q550	0	15
+ddl	q554,q684	c	o
+ddl2	q262,q382	c	o
+DS	q262,q382	c	o
+EFD2	q680,q550	c	o
+FR	q618,q745	c	o
+igoff2	q680,q550	c	o
+MTMO	q578,q471	c	o
+nddl	q556,q686	c	o
+nddl2	q680,q550	c	o
+nEFD2	q680,q550	c	o
+nFR	q680,q550	c	o
+nigoff2	q262,q382	c	o
+ntfr1	q680,q550	c	o
+PS	q262,q382	c	o
+PTMO	q150,q1084	c	o
+
+q682,q552	0	15
+da	q556,q686	c	o
+ddl2	q264,q383	c	o
+DS	q264,q383	c	o
+EFD2	q682,q552	c	o
+FR	q747,q620	c	o
+igoff2	q682,q552	c	o
+MTMO	q579,q472	c	o
+nda	q556,q686	c	o
+nddl2	q682,q552	c	o
+nEFD2	q682,q552	c	o
+nFR	q682,q552	c	o
+nigoff2	q264,q383	c	o
+ntfr1	q682,q552	c	o
+PS	q264,q383	c	o
+PTMO	q152,q1085	c	o
+
+q683,q796	1	15
+DA	q1065,q934	c	o
+DC	q791,q675	c	o
+ddl2	q385,q268	c	o
+DS	q385,q268	c	o
+EFD2	q610,q738	c	o
+FR	q748,q837	c	o
+igoff2	q683,q796	c	o
+LSTMO	q425,q533	c	o
+MTMO	q996,q57	c	o
+nddl2	q683,q796	c	o
+nEFD2	q425,q533	c	o
+nFR	q683,q796	c	o
+nigoff2	q385,q268	c	o
+ntfr1	q683,q796	c	o
+PS	q385,q268	c	o
+
+q685,q797	1	15
+DA	q1060,q929	c	o
+DC	q794,q681	c	o
+ddl2	q0,q37,q270,q980	c	o
+DS	q0,q37,q270,q980	c	o
+EFD2	q612,q739	c	o
+FR	q838,q750	c	o
+igoff2	q685,q797	c	o
+LSTMO	q427,q535	c	o
+MTMO	q59,q997	c	o
+nddl2	q685,q797	c	o
+nEFD2	q427,q535	c	o
+nFR	q685,q797	c	o
+nigoff2	q0,q37,q270,q980	c	o
+ntfr1	q685,q797	c	o
+PS	q0,q37,q270,q980	c	o
+
+q687,q940	0	5
+da	q692,q948	c	o
+igoff2	q711	c	o
+nda	q688,q942	c	o
+nigoff2	q160,q303,q798	c	o
+tfr1	q687,q940	c	o
+
+q688,q942	0	5
+igoff	q689,q944	c	o
+igoff2	q713	c	o
+nigoff	q692,q948	c	o
+nigoff2	q162,q304,q799	c	o
+tfr1	q688,q942	c	o
+
+q689,q944	0	5
+ddl	q692,q948	c	o
+igoff2	q715	c	o
+nddl	q693,q950	c	o
+nigoff2	q305,q800,q164	c	o
+tfr1	q689,q944	c	o
+
+q69,q1007	0	2
+ddl2_f	q91,q1033	c	o
+ntfr1	q69,q1007	c	o
+
+q690,q946	0	5
+da	q693,q950	c	o
+igoff2	q717	c	o
+nda	q693,q950	c	o
+nigoff2	q306,q801,q166	c	o
+tfr1	q690,q946	c	o
+
+q692,q948	0	3
+igoff2	q719	c	o
+nigoff2	q308,q803,q170	c	o
+tfr1	q692,q948	c	o
+
+q693,q950	0	3
+igoff2	q721	c	o
+nigoff2	q310,q461,q804,q172,q366	c	o
+tfr1	q693,q950	c	o
+
+q695,q565	0	5
+da	q703,q573	c	o
+da2	q236,q82	c	o
+nda	q567,q697	c	o
+nda2	q291,q394	c	o
+ntfr1	q695,q565	c	o
+
+q696,q806	0	4
+ddl2_f	q261,q117	c	o
+igoff	q807,q698	c	o
+nigoff	q809,q702	c	o
+ntfr1	q696,q806	c	o
+
+q7,q163	0	11
+ddl	q12,q169	c	o
+DS	q7,q163	c	o
+EFD2	q7,q163	c	o
+FR	q7,q163	c	o
+LSTMO	q305,q800,q164	c	o
+MTMO	q202,q340	c	o
+nddl	q171,q365,q14,q233	c	o
+nEFD2	q7,q163	c	o
+nFR	q85,q1028	c	o
+PS	q7,q163	c	o
+tfr1	q7,q163	c	o
+
+q70,q221	0	2
+ddl2_f	q241,q92	c	o
+ntfr1	q70,q221	c	o
+
+q703,q573	0	3
+da2	q241,q92	c	o
+nda2	q299,q752,q402,q843	c	o
+ntfr1	q703,q573	c	o
+
+q704,q810	0	2
+ddl2_f	q271,q981,q126,q879	c	o
+ntfr1	q704,q810	c	o
+
+q705,q575	0	3
+da2	q301,q94,q243,q404	c	o
+nda2	q301,q94,q243,q404	c	o
+ntfr1	q705,q575	c	o
+
+q707,q816	0	5
+dda	q818,q708	c	o
+dda2	q267,q122	c	o
+ndda	q818,q708	c	o
+ndda2	q267,q122	c	o
+ntfr1	q707,q816	c	o
+
+q709,q820	0	3
+dda2	q271,q981,q126,q879	c	o
+ndda2	q271,q981,q126,q879	c	o
+ntfr1	q709,q820	c	o
+
+q71,q1009	0	2
+ddl2_f	q1035,q155,q300,q93	c	o
+ntfr1	q71,q1009	c	o
+
+q711	0	5
+bsp2	q160,q303,q798	c	o
+da	q719	c	o
+nbsp2	q861	c	o
+nda	q713	c	o
+tfr1	q711	c	o
+
+q712,q585	0	15
+ddl2	q337,q431,q1012	c	o
+DS	q337,q431,q1012	c	o
+EFD2	q712,q585	c	o
+FR	q688,q942	c	o
+igoff	q587,q714	c	o
+igoff2	q712,q585	c	o
+LSTMO	q984,q881	c	o
+MTMO	q615,q495	c	o
+nddl2	q712,q585	c	o
+nEFD2	q712,q585	c	o
+nFR	q931,q840	c	o
+nigoff	q591,q718	c	o
+nigoff2	q337,q431,q1012	c	o
+PS	q337,q431,q1012	c	o
+tfr1	q712,q585	c	o
+
+q713	0	5
+bsp2	q162,q304,q799	c	o
+igoff	q715	c	o
+nbsp2	q863	c	o
+nigoff	q719	c	o
+tfr1	q713	c	o
+
+q715	0	5
+bsp2	q305,q800,q164	c	o
+ddl	q719	c	o
+nbsp2	q865	c	o
+nddl	q721	c	o
+tfr1	q715	c	o
+
+q716,q589	0	15
+da	q720,q593	c	o
+ddl2	q341,q433,q1016	c	o
+DS	q341,q433,q1016	c	o
+EFD2	q716,q589	c	o
+FR	q690,q946	c	o
+igoff2	q716,q589	c	o
+LSTMO	q986,q883	c	o
+MTMO	q619,q499	c	o
+nda	q720,q593	c	o
+nddl2	q716,q589	c	o
+nEFD2	q716,q589	c	o
+nFR	q933,q842	c	o
+nigoff2	q341,q433,q1016	c	o
+PS	q341,q433,q1016	c	o
+tfr1	q716,q589	c	o
+
+q717	0	5
+bsp2	q306,q801,q166	c	o
+da	q721	c	o
+nbsp2	q867	c	o
+nda	q721	c	o
+tfr1	q717	c	o
+
+q719	0	3
+bsp2	q308,q803,q170	c	o
+nbsp2	q869	c	o
+tfr1	q719	c	o
+
+q720,q593	1	15
+DA	q982,q39	c	o
+DC	q716,q589	c	o
+ddl2	q437,q112,q1020,q347,q1058	c	o
+DS	q437,q112,q1020,q347,q1058	c	o
+EFD2	q720,q593	c	o
+FR	q693,q950	c	o
+igoff2	q720,q593	c	o
+LSTMO	q991,q886	c	o
+MTMO	q623,q503	c	o
+nddl2	q720,q593	c	o
+nEFD2	q720,q593	c	o
+nFR	q845,q938	c	o
+nigoff2	q437,q112,q1020,q347,q1058	c	o
+PS	q437,q112,q1020,q347,q1058	c	o
+tfr1	q720,q593	c	o
+
+q721	0	3
+bsp2	q310,q461,q804,q172,q366	c	o
+nbsp2	q871	c	o
+tfr1	q721	c	o
+
+q722,q825	0	5
+da	q829,q730	c	o
+da2	q258,q380	c	o
+nda	q724,q826	c	o
+nda2	q27,q970	c	o
+ntfr1	q722,q825	c	o
+
+q723,q594	0	5
+da	q599,q731	c	o
+da2	q115,q259	c	o
+nda	q725,q595	c	o
+nda2	q873,q971	c	o
+ntfr1	q723,q594	c	o
+
+q724,q826	0	5
+da2	q260,q381	c	o
+igoff	q827,q726	c	o
+nda2	q29,q972	c	o
+nigoff	q829,q730	c	o
+ntfr1	q724,q826	c	o
+
+q725,q595	0	5
+da2	q261,q117	c	o
+igoff	q727,q596	c	o
+nda2	q874,q973	c	o
+nigoff	q599,q731	c	o
+ntfr1	q725,q595	c	o
+
+q727,q596	0	5
+da2	q119,q263	c	o
+ddl	q599,q731	c	o
+nda2	q875,q975	c	o
+nddl	q600,q733	c	o
+ntfr1	q727,q596	c	o
+
+q729,q597	0	5
+da	q600,q733	c	o
+da2	q121,q265	c	o
+nda	q600,q733	c	o
+nda2	q876,q977	c	o
+ntfr1	q729,q597	c	o
+
+q73,q224	0	15
+da	q77,q232	c	o
+ddl2	q430,q1010,q335	c	o
+DS	q430,q1010,q335	c	o
+EFD2	q663,q779	c	o
+FR	q73,q224	c	o
+igoff2	q73,q224	c	o
+LSTMO	q160,q303,q798	c	o
+MTMO	q128,q272	c	o
+nda	q226,q74	c	o
+nddl2	q73,q224	c	o
+nEFD2	q160,q303,q798	c	o
+nFR	q146,q1082	c	o
+nigoff2	q430,q1010,q335	c	o
+PS	q430,q1010,q335	c	o
+tfr1	q73,q224	c	o
+
+q732,q830	0	3
+da2	q0,q37,q270,q980	c	o
+nda2	q0,q37,q270,q980	c	o
+ntfr1	q732,q830	c	o
+
+q734,q602	0	15
+da	q610,q738	c	o
+ddl2	q258,q380	c	o
+DS	q258,q380	c	o
+EFD2	q734,q602	c	o
+FR	q663,q779	c	o
+igoff2	q734,q602	c	o
+MTMO	q992,q49	c	o
+nda	q735,q604	c	o
+nddl2	q734,q602	c	o
+nEFD2	q734,q602	c	o
+nFR	q734,q602	c	o
+nigoff2	q258,q380	c	o
+ntfr1	q734,q602	c	o
+PS	q258,q380	c	o
+PTMO	q791,q675	c	o
+
+q735,q604	0	15
+ddl2	q260,q381	c	o
+DS	q260,q381	c	o
+EFD2	q735,q604	c	o
+FR	q781,q665	c	o
+igoff	q736,q606	c	o
+igoff2	q735,q604	c	o
+MTMO	q51,q993	c	o
+nddl2	q735,q604	c	o
+nEFD2	q735,q604	c	o
+nFR	q735,q604	c	o
+nigoff	q610,q738	c	o
+nigoff2	q260,q381	c	o
+ntfr1	q735,q604	c	o
+PS	q260,q381	c	o
+PTMO	q792,q677	c	o
+
+q736,q606	0	15
+ddl	q610,q738	c	o
+ddl2	q262,q382	c	o
+DS	q262,q382	c	o
+EFD2	q736,q606	c	o
+FR	q667,q783	c	o
+igoff2	q736,q606	c	o
+MTMO	q994,q53	c	o
+nddl	q612,q739	c	o
+nddl2	q736,q606	c	o
+nEFD2	q736,q606	c	o
+nFR	q736,q606	c	o
+nigoff2	q262,q382	c	o
+ntfr1	q736,q606	c	o
+PS	q262,q382	c	o
+PTMO	q793,q679	c	o
+
+q737,q608	0	15
+da	q612,q739	c	o
+ddl2	q264,q383	c	o
+DS	q264,q383	c	o
+EFD2	q737,q608	c	o
+FR	q785,q669	c	o
+igoff2	q737,q608	c	o
+MTMO	q995,q55	c	o
+nda	q612,q739	c	o
+nddl2	q737,q608	c	o
+nEFD2	q737,q608	c	o
+nFR	q737,q608	c	o
+nigoff2	q264,q383	c	o
+ntfr1	q737,q608	c	o
+PS	q264,q383	c	o
+PTMO	q794,q681	c	o
+
+q740,q832	0	15
+da	q748,q837	c	o
+ddl2	q430,q1010,q335	c	o
+DS	q430,q1010,q335	c	o
+EFD2	q663,q779	c	o
+FR	q740,q832	c	o
+igoff2	q740,q832	c	o
+LSTMO	q476,q582	c	o
+MTMO	q127,q1070	c	o
+nda	q833,q742	c	o
+nddl2	q740,q832	c	o
+nEFD2	q476,q582	c	o
+nFR	q791,q675	c	o
+nigoff2	q430,q1010,q335	c	o
+PS	q430,q1010,q335	c	o
+tfr1	q740,q832	c	o
+
+q743,q616	0	15
+ddl2	q337,q431,q1012	c	o
+DS	q337,q431,q1012	c	o
+EFD2	q743,q616	c	o
+FR	q743,q616	c	o
+igoff	q618,q745	c	o
+igoff2	q743,q616	c	o
+MTMO	q640,q520	c	o
+nddl2	q743,q616	c	o
+nEFD2	q743,q616	c	o
+nFR	q678,q548	c	o
+nigoff	q622,q749	c	o
+nigoff2	q337,q431,q1012	c	o
+PS	q337,q431,q1012	c	o
+PTMO	q226,q74	c	o
+tfr1	q743,q616	c	o
+
+q744,q834	0	15
+ddl	q748,q837	c	o
+ddl2	q432,q1014,q339	c	o
+DS	q432,q1014,q339	c	o
+EFD2	q667,q783	c	o
+FR	q744,q834	c	o
+igoff2	q744,q834	c	o
+LSTMO	q478,q586	c	o
+MTMO	q1072,q131	c	o
+nddl	q838,q750	c	o
+nddl2	q744,q834	c	o
+nEFD2	q478,q586	c	o
+nFR	q793,q679	c	o
+nigoff2	q432,q1014,q339	c	o
+PS	q432,q1014,q339	c	o
+tfr1	q744,q834	c	o
+
+q747,q620	0	15
+da	q751,q624	c	o
+ddl2	q341,q433,q1016	c	o
+DS	q341,q433,q1016	c	o
+EFD2	q747,q620	c	o
+FR	q747,q620	c	o
+igoff2	q747,q620	c	o
+MTMO	q644,q522	c	o
+nda	q751,q624	c	o
+nddl2	q747,q620	c	o
+nEFD2	q747,q620	c	o
+nFR	q682,q552	c	o
+nigoff2	q341,q433,q1016	c	o
+PS	q341,q433,q1016	c	o
+PTMO	q230,q76	c	o
+tfr1	q747,q620	c	o
+
+q748,q837	1	15
+DA	q987,q44	c	o
+DC	q740,q832	c	o
+ddl2	q1018,q435,q345	c	o
+DS	q1018,q435,q345	c	o
+EFD2	q671,q787	c	o
+FR	q748,q837	c	o
+igoff2	q748,q837	c	o
+LSTMO	q481,q590	c	o
+MTMO	q1074,q135	c	o
+nddl2	q748,q837	c	o
+nEFD2	q481,q590	c	o
+nFR	q683,q796	c	o
+nigoff2	q1018,q435,q345	c	o
+PS	q1018,q435,q345	c	o
+tfr1	q748,q837	c	o
+
+q75,q228	0	15
+ddl	q77,q232	c	o
+ddl2	q432,q1014,q339	c	o
+DS	q432,q1014,q339	c	o
+EFD2	q667,q783	c	o
+FR	q75,q228	c	o
+igoff2	q75,q228	c	o
+LSTMO	q305,q800,q164	c	o
+MTMO	q132,q274	c	o
+nddl	q234,q78	c	o
+nddl2	q75,q228	c	o
+nEFD2	q305,q800,q164	c	o
+nFR	q150,q1084	c	o
+nigoff2	q432,q1014,q339	c	o
+PS	q432,q1014,q339	c	o
+tfr1	q75,q228	c	o
+
+q751,q624	1	15
+DA	q982,q39	c	o
+DC	q747,q620	c	o
+ddl2	q437,q112,q1020,q347,q1058	c	o
+DS	q437,q112,q1020,q347,q1058	c	o
+EFD2	q751,q624	c	o
+FR	q751,q624	c	o
+igoff2	q751,q624	c	o
+MTMO	q648,q524	c	o
+nddl2	q751,q624	c	o
+nEFD2	q751,q624	c	o
+nFR	q556,q686	c	o
+nigoff2	q437,q112,q1020,q347,q1058	c	o
+PS	q437,q112,q1020,q347,q1058	c	o
+PTMO	q234,q78	c	o
+tfr1	q751,q624	c	o
+
+q753,q627	0	5
+da	q757,q635	c	o
+da2	q160,q303,q798	c	o
+nda	q629,q754	c	o
+nda2	q356,q451	c	o
+tfr1	q753,q627	c	o
+
+q757,q635	0	3
+da2	q308,q803,q170	c	o
+nda2	q364,q802,q459,q884	c	o
+tfr1	q757,q635	c	o
+
+q758,q637	0	3
+da2	q310,q461,q804,q172,q366	c	o
+nda2	q310,q461,q804,q172,q366	c	o
+tfr1	q758,q637	c	o
+
+q760,q853	0	5
+dda	q854,q761	c	o
+dda2	q344,q206	c	o
+ndda	q854,q761	c	o
+ndda2	q344,q206	c	o
+tfr1	q760,q853	c	o
+
+q762,q855	0	3
+dda2	q1059,q348,q209,q928	c	o
+ndda2	q1059,q348,q209,q928	c	o
+tfr1	q762,q855	c	o
+
+q763,q856	0	5
+dda	q765,q858	c	o
+dda2	q235,q80	c	o
+ndda	q859,q766	c	o
+ndda2	q235,q80	c	o
+ntfr1	q763,q856	c	o
+
+q765,q858	0	3
+dda2	q241,q92	c	o
+ndda2	q241,q92	c	o
+ntfr1	q765,q858	c	o
+
+q767,q860	0	5
+da	q868,q775	c	o
+da2	q430,q1010,q335	c	o
+nda	q769,q862	c	o
+nda2	q107,q1048	c	o
+tfr1	q767,q860	c	o
+
+q768,q656	0	5
+da	q661,q776	c	o
+da2	q198,q336	c	o
+nda	q770,q657	c	o
+nda2	q922,q1049	c	o
+tfr1	q768,q656	c	o
+
+q769,q862	0	5
+da2	q337,q431,q1012	c	o
+igoff	q864,q771	c	o
+nda2	q108,q1050	c	o
+nigoff	q868,q775	c	o
+tfr1	q769,q862	c	o
+
+q77,q232	1	15
+DA	q987,q44	c	o
+DC	q73,q224	c	o
+ddl2	q1018,q435,q345	c	o
+DS	q1018,q435,q345	c	o
+EFD2	q671,q787	c	o
+FR	q77,q232	c	o
+igoff2	q77,q232	c	o
+LSTMO	q308,q803,q170	c	o
+MTMO	q136,q276	c	o
+nddl2	q77,q232	c	o
+nEFD2	q308,q803,q170	c	o
+nFR	q1086,q154	c	o
+nigoff2	q1018,q435,q345	c	o
+PS	q1018,q435,q345	c	o
+tfr1	q77,q232	c	o
+
+q770,q657	0	5
+da2	q338,q200	c	o
+igoff	q772,q658	c	o
+nda2	q923,q1051	c	o
+nigoff	q661,q776	c	o
+tfr1	q770,q657	c	o
+
+q772,q658	0	5
+da2	q202,q340	c	o
+ddl	q661,q776	c	o
+nda2	q924,q1053	c	o
+nddl	q662,q778	c	o
+tfr1	q772,q658	c	o
+
+q774,q659	0	5
+da	q662,q778	c	o
+da2	q204,q342	c	o
+nda	q662,q778	c	o
+nda2	q925,q1055	c	o
+tfr1	q774,q659	c	o
+
+q777,q870	0	3
+da2	q437,q112,q1020,q347,q1058	c	o
+nda2	q437,q112,q1020,q347,q1058	c	o
+tfr1	q777,q870	c	o
+
+q780	0	5
+bsp2	q430,q1010,q335	c	o
+da	q788	c	o
+nbsp2	q639	c	o
+nda	q782	c	o
+tfr1	q780	c	o
+
+q781,q665	0	15
+ddl2	q337,q431,q1012	c	o
+DS	q337,q431,q1012	c	o
+EFD2	q781,q665	c	o
+FR	q781,q665	c	o
+igoff	q667,q783	c	o
+igoff2	q781,q665	c	o
+MTMO	q129,q1071	c	o
+nddl2	q781,q665	c	o
+nEFD2	q781,q665	c	o
+nFR	q735,q604	c	o
+nigoff	q671,q787	c	o
+nigoff2	q337,q431,q1012	c	o
+PS	q337,q431,q1012	c	o
+PTMO	q833,q742	c	o
+tfr1	q781,q665	c	o
+
+q782	0	5
+bsp2	q337,q431,q1012	c	o
+igoff	q784	c	o
+nbsp2	q641	c	o
+nigoff	q788	c	o
+tfr1	q782	c	o
+
+q784	0	5
+bsp2	q432,q1014,q339	c	o
+ddl	q788	c	o
+nbsp2	q643	c	o
+nddl	q790	c	o
+tfr1	q784	c	o
+
+q785,q669	0	15
+da	q789,q673	c	o
+ddl2	q341,q433,q1016	c	o
+DS	q341,q433,q1016	c	o
+EFD2	q785,q669	c	o
+FR	q785,q669	c	o
+igoff2	q785,q669	c	o
+MTMO	q133,q1073	c	o
+nda	q789,q673	c	o
+nddl2	q785,q669	c	o
+nEFD2	q785,q669	c	o
+nFR	q737,q608	c	o
+nigoff2	q341,q433,q1016	c	o
+PS	q341,q433,q1016	c	o
+PTMO	q835,q746	c	o
+tfr1	q785,q669	c	o
+
+q786	0	5
+bsp2	q341,q433,q1016	c	o
+da	q790	c	o
+nbsp2	q645	c	o
+nda	q790	c	o
+tfr1	q786	c	o
+
+q788	0	3
+bsp2	q1018,q435,q345	c	o
+nbsp2	q647	c	o
+tfr1	q788	c	o
+
+q789,q673	1	15
+DA	q982,q39	c	o
+DC	q785,q669	c	o
+ddl2	q437,q112,q1020,q347,q1058	c	o
+DS	q437,q112,q1020,q347,q1058	c	o
+EFD2	q789,q673	c	o
+FR	q789,q673	c	o
+igoff2	q789,q673	c	o
+MTMO	q1075,q137	c	o
+nddl2	q789,q673	c	o
+nEFD2	q789,q673	c	o
+nFR	q612,q739	c	o
+nigoff2	q437,q112,q1020,q347,q1058	c	o
+PS	q437,q112,q1020,q347,q1058	c	o
+PTMO	q838,q750	c	o
+tfr1	q789,q673	c	o
+
+q79,q1022	0	11
+dda	q91,q1033	c	o
+DS	q79,q1022	c	o
+EFD2	q79,q1022	c	o
+FR	q1,q157	c	o
+LSTMO	q235,q80	c	o
+MTMO	q113,q257	c	o
+ndda	q1035,q155,q300,q93	c	o
+nEFD2	q79,q1022	c	o
+nFR	q79,q1022	c	o
+ntfr1	q79,q1022	c	o
+PS	q79,q1022	c	o
+
+q790	0	3
+bsp2	q437,q112,q1020,q347,q1058	c	o
+nbsp2	q649	c	o
+tfr1	q790	c	o
+
+q791,q675	0	15
+da	q683,q796	c	o
+ddl2	q258,q380	c	o
+DS	q258,q380	c	o
+EFD2	q734,q602	c	o
+FR	q740,q832	c	o
+igoff2	q791,q675	c	o
+LSTMO	q525,q420	c	o
+MTMO	q992,q49	c	o
+nda	q792,q677	c	o
+nddl2	q791,q675	c	o
+nEFD2	q525,q420	c	o
+nFR	q791,q675	c	o
+nigoff2	q258,q380	c	o
+ntfr1	q791,q675	c	o
+PS	q258,q380	c	o
+
+q792,q677	0	15
+ddl2	q260,q381	c	o
+DS	q260,q381	c	o
+EFD2	q735,q604	c	o
+FR	q833,q742	c	o
+igoff	q793,q679	c	o
+igoff2	q792,q677	c	o
+LSTMO	q527,q421	c	o
+MTMO	q51,q993	c	o
+nddl2	q792,q677	c	o
+nEFD2	q527,q421	c	o
+nFR	q792,q677	c	o
+nigoff	q683,q796	c	o
+nigoff2	q260,q381	c	o
+ntfr1	q792,q677	c	o
+PS	q260,q381	c	o
+
+q793,q679	0	15
+ddl	q683,q796	c	o
+ddl2	q262,q382	c	o
+DS	q262,q382	c	o
+EFD2	q736,q606	c	o
+FR	q744,q834	c	o
+igoff2	q793,q679	c	o
+LSTMO	q529,q422	c	o
+MTMO	q994,q53	c	o
+nddl	q685,q797	c	o
+nddl2	q793,q679	c	o
+nEFD2	q529,q422	c	o
+nFR	q793,q679	c	o
+nigoff2	q262,q382	c	o
+ntfr1	q793,q679	c	o
+PS	q262,q382	c	o
+
+q794,q681	0	15
+da	q685,q797	c	o
+ddl2	q264,q383	c	o
+DS	q264,q383	c	o
+EFD2	q737,q608	c	o
+FR	q835,q746	c	o
+igoff2	q794,q681	c	o
+LSTMO	q531,q423	c	o
+MTMO	q995,q55	c	o
+nda	q685,q797	c	o
+nddl2	q794,q681	c	o
+nEFD2	q531,q423	c	o
+nFR	q794,q681	c	o
+nigoff2	q264,q383	c	o
+ntfr1	q794,q681	c	o
+PS	q264,q383	c	o
+
+q795,q978,q35,q877	0	3
+igoff2	q485,q598	c	o
+nigoff2	q385,q268	c	o
+ntfr1	q795,q978,q35,q877	c	o
+
+q8,q960	0	15
+da	q13,q962	c	o
+ddl2	q341,q433,q1016	c	o
+DS	q341,q433,q1016	c	o
+EFD2	q8,q960	c	o
+FR	q8,q960	c	o
+igoff2	q8,q960	c	o
+MTMO	q205,q43	c	o
+nda	q13,q962	c	o
+nddl2	q8,q960	c	o
+nEFD2	q8,q960	c	o
+nFR	q1029,q912	c	o
+nigoff2	q341,q433,q1016	c	o
+PS	q341,q433,q1016	c	o
+PTMO	q1079,q954	c	o
+tfr1	q8,q960	c	o
+
+q805,q694	0	4
+da	q809,q702	c	o
+ddl2_f	q115,q259	c	o
+nda	q696,q806	c	o
+ntfr1	q805,q694	c	o
+
+q807,q698	0	4
+ddl	q809,q702	c	o
+ddl2_f	q119,q263	c	o
+nddl	q704,q810	c	o
+ntfr1	q807,q698	c	o
+
+q808,q700	0	4
+da	q704,q810	c	o
+ddl2_f	q121,q265	c	o
+nda	q704,q810	c	o
+ntfr1	q808,q700	c	o
+
+q809,q702	0	2
+ddl2_f	q124,q269	c	o
+ntfr1	q809,q702	c	o
+
+q81,q1024	0	11
+da	q91,q1033	c	o
+DS	q81,q1024	c	o
+EFD2	q81,q1024	c	o
+FR	q3,q159	c	o
+LSTMO	q236,q82	c	o
+MTMO	q115,q259	c	o
+nda	q1026,q83	c	o
+nEFD2	q81,q1024	c	o
+nFR	q81,q1024	c	o
+ntfr1	q81,q1024	c	o
+PS	q81,q1024	c	o
+
+q811,q706	0	5
+dda	q818,q708	c	o
+dda2	q113,q257	c	o
+ndda	q709,q820	c	o
+ndda2	q113,q257	c	o
+ntfr1	q811,q706	c	o
+
+q812,q887	0	4
+da	q817,q895	c	o
+nda	q889,q813	c	o
+ntfr1	q812,q887	c	o
+pdl2_f	q805,q694	c	o
+
+q814,q891	0	4
+ddl	q817,q895	c	o
+nddl	q819,q897	c	o
+ntfr1	q814,q891	c	o
+pdl2_f	q807,q698	c	o
+
+q815,q893	0	4
+da	q819,q897	c	o
+nda	q819,q897	c	o
+ntfr1	q815,q893	c	o
+pdl2_f	q808,q700	c	o
+
+q817,q895	0	2
+ntfr1	q817,q895	c	o
+pdl2_f	q809,q702	c	o
+
+q818,q708	0	3
+dda2	q124,q269	c	o
+ndda2	q124,q269	c	o
+ntfr1	q818,q708	c	o
+
+q819,q897	0	2
+ntfr1	q819,q897	c	o
+pdl2_f	q704,q810	c	o
+
+q821,q899	0	5
+dda	q823,q906	c	o
+dda2	q302,q158	c	o
+ndda	q908,q824	c	o
+ndda2	q302,q158	c	o
+tfr1	q821,q899	c	o
+
+q823,q906	0	3
+dda2	q308,q803,q170	c	o
+ndda2	q308,q803,q170	c	o
+tfr1	q823,q906	c	o
+
+q827,q726	0	5
+da2	q262,q382	c	o
+ddl	q829,q730	c	o
+nda2	q974,q31	c	o
+nddl	q732,q830	c	o
+ntfr1	q827,q726	c	o
+
+q828,q728	0	5
+da	q732,q830	c	o
+da2	q264,q383	c	o
+nda	q732,q830	c	o
+nda2	q976,q33	c	o
+ntfr1	q828,q728	c	o
+
+q829,q730	0	3
+da2	q385,q268	c	o
+nda2	q795,q978,q35,q877	c	o
+ntfr1	q829,q730	c	o
+
+q833,q742	0	15
+ddl2	q337,q431,q1012	c	o
+DS	q337,q431,q1012	c	o
+EFD2	q781,q665	c	o
+FR	q833,q742	c	o
+igoff	q744,q834	c	o
+igoff2	q833,q742	c	o
+LSTMO	q584,q477	c	o
+MTMO	q129,q1071	c	o
+nddl2	q833,q742	c	o
+nEFD2	q584,q477	c	o
+nFR	q792,q677	c	o
+nigoff	q748,q837	c	o
+nigoff2	q337,q431,q1012	c	o
+PS	q337,q431,q1012	c	o
+tfr1	q833,q742	c	o
+
+q835,q746	0	15
+da	q838,q750	c	o
+ddl2	q341,q433,q1016	c	o
+DS	q341,q433,q1016	c	o
+EFD2	q785,q669	c	o
+FR	q835,q746	c	o
+igoff2	q835,q746	c	o
+LSTMO	q588,q479	c	o
+MTMO	q133,q1073	c	o
+nda	q838,q750	c	o
+nddl2	q835,q746	c	o
+nEFD2	q588,q479	c	o
+nFR	q794,q681	c	o
+nigoff2	q341,q433,q1016	c	o
+PS	q341,q433,q1016	c	o
+tfr1	q835,q746	c	o
+
+q838,q750	1	15
+DA	q982,q39	c	o
+DC	q835,q746	c	o
+ddl2	q437,q112,q1020,q347,q1058	c	o
+DS	q437,q112,q1020,q347,q1058	c	o
+EFD2	q789,q673	c	o
+FR	q838,q750	c	o
+igoff2	q838,q750	c	o
+LSTMO	q592,q483	c	o
+MTMO	q1075,q137	c	o
+nddl2	q838,q750	c	o
+nEFD2	q592,q483	c	o
+nFR	q685,q797	c	o
+nigoff2	q437,q112,q1020,q347,q1058	c	o
+PS	q437,q112,q1020,q347,q1058	c	o
+tfr1	q838,q750	c	o
+
+q84,q237	0	10
+DS	q84,q237	c	o
+EFD2	q84,q237	c	o
+FR	q162,q304,q799	c	o
+igoff	q238,q86	c	o
+MTMO	q260,q381	c	o
+nEFD2	q84,q237	c	o
+nFR	q84,q237	c	o
+nigoff	q241,q92	c	o
+ntfr1	q84,q237	c	o
+PS	q84,q237	c	o
+
+q844,q936	1	15
+DA	q1065,q934	c	o
+DC	q930,q839	c	o
+ddl2	q385,q268	c	o
+DS	q385,q268	c	o
+EFD2	q610,q738	c	o
+FR	q885,q989	c	o
+igoff2	q844,q936	c	o
+LSTMO	q554,q684	c	o
+MTMO	q401,q509	c	o
+nddl2	q844,q936	c	o
+nEFD2	q554,q684	c	o
+nFR	q844,q936	c	o
+nigoff2	q385,q268	c	o
+ntfr1	q844,q936	c	o
+PS	q385,q268	c	o
+
+q845,q938	1	15
+DA	q1060,q929	c	o
+DC	q933,q842	c	o
+ddl2	q0,q37,q270,q980	c	o
+DS	q0,q37,q270,q980	c	o
+EFD2	q612,q739	c	o
+FR	q991,q886	c	o
+igoff2	q845,q938	c	o
+LSTMO	q556,q686	c	o
+MTMO	q403,q511	c	o
+nddl2	q845,q938	c	o
+nEFD2	q556,q686	c	o
+nFR	q845,q938	c	o
+nigoff2	q0,q37,q270,q980	c	o
+ntfr1	q845,q938	c	o
+PS	q0,q37,q270,q980	c	o
+
+q846,q939	0	4
+da	q947,q850	c	o
+nda	q847,q941	c	o
+s_kw2_t	q3,q159	c	o
+tfr1	q846,q939	c	o
+
+q847,q941	0	4
+igoff	q848,q943	c	o
+nigoff	q947,q850	c	o
+s_kw2_t	q161,q5	c	o
+tfr1	q847,q941	c	o
+
+q848,q943	0	4
+ddl	q947,q850	c	o
+nddl	q851,q949	c	o
+s_kw2_t	q7,q163	c	o
+tfr1	q848,q943	c	o
+
+q849,q945	0	4
+da	q851,q949	c	o
+nda	q851,q949	c	o
+s_kw2_t	q165,q9	c	o
+tfr1	q849,q945	c	o
+
+q85,q1028	0	11
+ddl	q91,q1033	c	o
+DS	q85,q1028	c	o
+EFD2	q85,q1028	c	o
+FR	q7,q163	c	o
+LSTMO	q238,q86	c	o
+MTMO	q119,q263	c	o
+nddl	q1035,q155,q300,q93	c	o
+nEFD2	q85,q1028	c	o
+nFR	q85,q1028	c	o
+ntfr1	q85,q1028	c	o
+PS	q85,q1028	c	o
+
+q851,q949	0	2
+s_kw2_t	q171,q365,q14,q233	c	o
+tfr1	q851,q949	c	o
+
+q852,q759	0	5
+dda	q854,q761	c	o
+dda2	q197,q334	c	o
+ndda	q762,q855	c	o
+ndda2	q197,q334	c	o
+tfr1	q852,q759	c	o
+
+q854,q761	0	3
+dda2	q207,q346	c	o
+ndda2	q207,q346	c	o
+tfr1	q854,q761	c	o
+
+q857,q764	0	5
+dda	q765,q858	c	o
+dda2	q90,q240	c	o
+ndda	q765,q858	c	o
+ndda2	q90,q240	c	o
+ntfr1	q857,q764	c	o
+
+q859,q766	0	3
+dda2	q301,q94,q243,q404	c	o
+ndda2	q301,q94,q243,q404	c	o
+ntfr1	q859,q766	c	o
+
+q861	0	5
+da	q869	c	o
+nda	q863	c	o
+nsbp2	q279	c	o
+sbp2	q160,q303,q798	c	o
+tfr1	q861	c	o
+
+q863	0	5
+igoff	q865	c	o
+nigoff	q869	c	o
+nsbp2	q281	c	o
+sbp2	q162,q304,q799	c	o
+tfr1	q863	c	o
+
+q864,q771	0	5
+da2	q432,q1014,q339	c	o
+ddl	q868,q775	c	o
+nda2	q109,q1052	c	o
+nddl	q777,q870	c	o
+tfr1	q864,q771	c	o
+
+q865	0	5
+ddl	q869	c	o
+nddl	q871	c	o
+nsbp2	q283	c	o
+sbp2	q305,q800,q164	c	o
+tfr1	q865	c	o
+
+q866,q773	0	5
+da	q777,q870	c	o
+da2	q341,q433,q1016	c	o
+nda	q777,q870	c	o
+nda2	q1054,q110	c	o
+tfr1	q866,q773	c	o
+
+q867	0	5
+da	q871	c	o
+nda	q871	c	o
+nsbp2	q285	c	o
+sbp2	q306,q801,q166	c	o
+tfr1	q867	c	o
+
+q868,q775	0	3
+da2	q1018,q435,q345	c	o
+nda2	q1056,q836,q111,q926	c	o
+tfr1	q868,q775	c	o
+
+q869	0	3
+nsbp2	q287	c	o
+sbp2	q308,q803,q170	c	o
+tfr1	q869	c	o
+
+q87,q1030	0	11
+da	q1035,q155,q300,q93	c	o
+DS	q87,q1030	c	o
+EFD2	q87,q1030	c	o
+FR	q165,q9	c	o
+LSTMO	q239,q88	c	o
+MTMO	q121,q265	c	o
+nda	q1035,q155,q300,q93	c	o
+nEFD2	q87,q1030	c	o
+nFR	q87,q1030	c	o
+ntfr1	q87,q1030	c	o
+PS	q87,q1030	c	o
+
+q871	0	3
+nsbp2	q289	c	o
+sbp2	q310,q461,q804,q172,q366	c	o
+tfr1	q871	c	o
+
+q873,q971	0	3
+da	q920,q979,q831,q878	c	o
+nda	q874,q973	c	o
+ntfr1	q873,q971	c	o
+
+q874,q973	0	3
+igoff	q875,q975	c	o
+nigoff	q920,q979,q831,q878	c	o
+ntfr1	q874,q973	c	o
+
+q875,q975	0	3
+ddl	q920,q979,q831,q878	c	o
+nddl	q271,q981,q126,q879	c	o
+ntfr1	q875,q975	c	o
+
+q876,q977	0	3
+da	q271,q981,q126,q879	c	o
+nda	q271,q981,q126,q879	c	o
+ntfr1	q876,q977	c	o
+
+q880,q983	0	15
+da	q885,q989	c	o
+ddl2	q430,q1010,q335	c	o
+DS	q430,q1010,q335	c	o
+EFD2	q663,q779	c	o
+FR	q880,q983	c	o
+igoff2	q880,q983	c	o
+LSTMO	q614,q741	c	o
+MTMO	q450,q557	c	o
+nda	q984,q881	c	o
+nddl2	q880,q983	c	o
+nEFD2	q614,q741	c	o
+nFR	q930,q839	c	o
+nigoff2	q430,q1010,q335	c	o
+PS	q430,q1010,q335	c	o
+tfr1	q880,q983	c	o
+
+q882,q985	0	15
+ddl	q885,q989	c	o
+ddl2	q432,q1014,q339	c	o
+DS	q432,q1014,q339	c	o
+EFD2	q667,q783	c	o
+FR	q882,q985	c	o
+igoff2	q882,q985	c	o
+LSTMO	q618,q745	c	o
+MTMO	q454,q559	c	o
+nddl	q991,q886	c	o
+nddl2	q882,q985	c	o
+nEFD2	q618,q745	c	o
+nFR	q932,q841	c	o
+nigoff2	q432,q1014,q339	c	o
+PS	q432,q1014,q339	c	o
+tfr1	q882,q985	c	o
+
+q885,q989	1	15
+DA	q987,q44	c	o
+DC	q880,q983	c	o
+ddl2	q1018,q435,q345	c	o
+DS	q1018,q435,q345	c	o
+EFD2	q671,q787	c	o
+FR	q885,q989	c	o
+igoff2	q885,q989	c	o
+LSTMO	q622,q749	c	o
+MTMO	q458,q561	c	o
+nddl2	q885,q989	c	o
+nEFD2	q622,q749	c	o
+nFR	q844,q936	c	o
+nigoff2	q1018,q435,q345	c	o
+PS	q1018,q435,q345	c	o
+tfr1	q885,q989	c	o
+
+q889,q813	0	4
+igoff	q814,q891	c	o
+nigoff	q817,q895	c	o
+ntfr1	q889,q813	c	o
+pdl2_f	q696,q806	c	o
+
+q896,q1006	1	15
+DA	q1065,q934	c	o
+DC	q998,q888	c	o
+ddl2	q385,q268	c	o
+DS	q385,q268	c	o
+EFD2	q610,q738	c	o
+FR	q955,q1080	c	o
+igoff2	q896,q1006	c	o
+LSTMO	q919,q1044	c	o
+MTMO	q1045,q103	c	o
+nddl2	q896,q1006	c	o
+nEFD2	q919,q1044	c	o
+nFR	q896,q1006	c	o
+nigoff2	q385,q268	c	o
+ntfr1	q896,q1006	c	o
+PS	q385,q268	c	o
+
+q898,q1008	1	15
+DA	q1060,q929	c	o
+DC	q1004,q894	c	o
+ddl2	q0,q37,q270,q980	c	o
+DS	q0,q37,q270,q980	c	o
+EFD2	q612,q739	c	o
+FR	q1081,q956	c	o
+igoff2	q898,q1008	c	o
+LSTMO	q921,q1046	c	o
+MTMO	q1047,q105	c	o
+nddl2	q898,q1008	c	o
+nEFD2	q921,q1046	c	o
+nFR	q898,q1008	c	o
+nigoff2	q0,q37,q270,q980	c	o
+ntfr1	q898,q1008	c	o
+PS	q0,q37,q270,q980	c	o
+
+q90,q240	0	10
+dda	q241,q92	c	o
+DS	q90,q240	c	o
+EFD2	q90,q240	c	o
+FR	q168,q307	c	o
+MTMO	q266,q384	c	o
+ndda	q241,q92	c	o
+nEFD2	q90,q240	c	o
+nFR	q90,q240	c	o
+ntfr1	q90,q240	c	o
+PS	q90,q240	c	o
+
+q904,q822	0	5
+dda	q823,q906	c	o
+dda2	q168,q307	c	o
+ndda	q823,q906	c	o
+ndda2	q168,q307	c	o
+tfr1	q904,q822	c	o
+
+q908,q824	0	3
+dda2	q310,q461,q804,q172,q366	c	o
+ndda2	q310,q461,q804,q172,q366	c	o
+tfr1	q908,q824	c	o
+
+q91,q1033	1	11
+DA	q424,q328	c	o
+DC	q462,q564	c	o
+DS	q91,q1033	c	o
+EFD2	q91,q1033	c	o
+FR	q12,q169	c	o
+LSTMO	q241,q92	c	o
+MTMO	q124,q269	c	o
+nEFD2	q91,q1033	c	o
+nFR	q91,q1033	c	o
+ntfr1	q91,q1033	c	o
+PS	q91,q1033	c	o
+
+q913,q1032	1	15
+DA	q1065,q934	c	o
+DC	q1023,q909	c	o
+ddl2	q385,q268	c	o
+DS	q385,q268	c	o
+EFD2	q913,q1032	c	o
+FR	q961,q11	c	o
+igoff2	q913,q1032	c	o
+MTMO	q1067,q123	c	o
+nddl2	q913,q1032	c	o
+nEFD2	q913,q1032	c	o
+nFR	q913,q1032	c	o
+nigoff2	q385,q268	c	o
+ntfr1	q913,q1032	c	o
+PS	q385,q268	c	o
+PTMO	q896,q1006	c	o
+
+q914,q1034	1	15
+DA	q1060,q929	c	o
+DC	q1029,q912	c	o
+ddl2	q0,q37,q270,q980	c	o
+DS	q0,q37,q270,q980	c	o
+EFD2	q914,q1034	c	o
+FR	q13,q962	c	o
+igoff2	q914,q1034	c	o
+MTMO	q1069,q125	c	o
+nddl2	q914,q1034	c	o
+nEFD2	q914,q1034	c	o
+nFR	q914,q1034	c	o
+nigoff2	q0,q37,q270,q980	c	o
+ntfr1	q914,q1034	c	o
+PS	q0,q37,q270,q980	c	o
+PTMO	q898,q1008	c	o
+
+q915,q1036	0	15
+da	q919,q1044	c	o
+ddl2	q258,q380	c	o
+DS	q258,q380	c	o
+EFD2	q915,q1036	c	o
+FR	q846,q939	c	o
+igoff2	q915,q1036	c	o
+LSTMO	q324,q186	c	o
+MTMO	q992,q49	c	o
+nda	q916,q1038	c	o
+nddl2	q915,q1036	c	o
+nEFD2	q915,q1036	c	o
+nFR	q185,q28	c	o
+nigoff2	q258,q380	c	o
+ntfr1	q915,q1036	c	o
+PS	q258,q380	c	o
+
+q916,q1038	0	15
+ddl2	q260,q381	c	o
+DS	q260,q381	c	o
+EFD2	q916,q1038	c	o
+FR	q847,q941	c	o
+igoff	q917,q1040	c	o
+igoff2	q916,q1038	c	o
+LSTMO	q188,q325	c	o
+MTMO	q51,q993	c	o
+nddl2	q916,q1038	c	o
+nEFD2	q916,q1038	c	o
+nFR	q187,q30	c	o
+nigoff	q919,q1044	c	o
+nigoff2	q260,q381	c	o
+ntfr1	q916,q1038	c	o
+PS	q260,q381	c	o
+
+q917,q1040	0	15
+ddl	q919,q1044	c	o
+ddl2	q262,q382	c	o
+DS	q262,q382	c	o
+EFD2	q917,q1040	c	o
+FR	q848,q943	c	o
+igoff2	q917,q1040	c	o
+LSTMO	q326,q190	c	o
+MTMO	q994,q53	c	o
+nddl	q921,q1046	c	o
+nddl2	q917,q1040	c	o
+nEFD2	q917,q1040	c	o
+nFR	q189,q32	c	o
+nigoff2	q262,q382	c	o
+ntfr1	q917,q1040	c	o
+PS	q262,q382	c	o
+
+q918,q1042	0	15
+da	q921,q1046	c	o
+ddl2	q264,q383	c	o
+DS	q264,q383	c	o
+EFD2	q918,q1042	c	o
+FR	q849,q945	c	o
+igoff2	q918,q1042	c	o
+LSTMO	q327,q192	c	o
+MTMO	q995,q55	c	o
+nda	q921,q1046	c	o
+nddl2	q918,q1042	c	o
+nEFD2	q918,q1042	c	o
+nFR	q191,q34	c	o
+nigoff2	q264,q383	c	o
+ntfr1	q918,q1042	c	o
+PS	q264,q383	c	o
+
+q919,q1044	1	15
+DA	q1065,q934	c	o
+DC	q915,q1036	c	o
+ddl2	q385,q268	c	o
+DS	q385,q268	c	o
+EFD2	q919,q1044	c	o
+FR	q947,q850	c	o
+igoff2	q919,q1044	c	o
+LSTMO	q194,q329	c	o
+MTMO	q996,q57	c	o
+nddl2	q919,q1044	c	o
+nEFD2	q919,q1044	c	o
+nFR	q193,q36	c	o
+nigoff2	q385,q268	c	o
+ntfr1	q919,q1044	c	o
+PS	q385,q268	c	o
+
+q920,q979,q831,q878	0	3
+igoff2	q386,q486	c	o
+nigoff2	q124,q269	c	o
+ntfr1	q920,q979,q831,q878	c	o
+
+q921,q1046	1	15
+DA	q1060,q929	c	o
+DC	q918,q1042	c	o
+ddl2	q0,q37,q270,q980	c	o
+DS	q0,q37,q270,q980	c	o
+EFD2	q921,q1046	c	o
+FR	q851,q949	c	o
+igoff2	q921,q1046	c	o
+LSTMO	q331,q196	c	o
+MTMO	q59,q997	c	o
+nddl2	q921,q1046	c	o
+nEFD2	q921,q1046	c	o
+nFR	q195,q38	c	o
+nigoff2	q0,q37,q270,q980	c	o
+ntfr1	q921,q1046	c	o
+PS	q0,q37,q270,q980	c	o
+
+q922,q1049	0	3
+da	q1057,q968,q872,q927	c	o
+nda	q923,q1051	c	o
+tfr1	q922,q1049	c	o
+
+q923,q1051	0	3
+igoff	q924,q1053	c	o
+nigoff	q1057,q968,q872,q927	c	o
+tfr1	q923,q1051	c	o
+
+q924,q1053	0	3
+ddl	q1057,q968,q872,q927	c	o
+nddl	q1059,q348,q209,q928	c	o
+tfr1	q924,q1053	c	o
+
+q925,q1055	0	3
+da	q1059,q348,q209,q928	c	o
+nda	q1059,q348,q209,q928	c	o
+tfr1	q925,q1055	c	o
+
+q930,q839	0	15
+da	q844,q936	c	o
+ddl2	q258,q380	c	o
+DS	q258,q380	c	o
+EFD2	q734,q602	c	o
+FR	q880,q983	c	o
+igoff2	q930,q839	c	o
+LSTMO	q676,q546	c	o
+MTMO	q505,q393	c	o
+nda	q931,q840	c	o
+nddl2	q930,q839	c	o
+nEFD2	q676,q546	c	o
+nFR	q930,q839	c	o
+nigoff2	q258,q380	c	o
+ntfr1	q930,q839	c	o
+PS	q258,q380	c	o
+
+q931,q840	0	15
+ddl2	q260,q381	c	o
+DS	q260,q381	c	o
+EFD2	q735,q604	c	o
+FR	q984,q881	c	o
+igoff	q932,q841	c	o
+igoff2	q931,q840	c	o
+LSTMO	q678,q548	c	o
+MTMO	q506,q395	c	o
+nddl2	q931,q840	c	o
+nEFD2	q678,q548	c	o
+nFR	q931,q840	c	o
+nigoff	q844,q936	c	o
+nigoff2	q260,q381	c	o
+ntfr1	q931,q840	c	o
+PS	q260,q381	c	o
+
+q932,q841	0	15
+ddl	q844,q936	c	o
+ddl2	q262,q382	c	o
+DS	q262,q382	c	o
+EFD2	q736,q606	c	o
+FR	q882,q985	c	o
+igoff2	q932,q841	c	o
+LSTMO	q680,q550	c	o
+MTMO	q507,q397	c	o
+nddl	q845,q938	c	o
+nddl2	q932,q841	c	o
+nEFD2	q680,q550	c	o
+nFR	q932,q841	c	o
+nigoff2	q262,q382	c	o
+ntfr1	q932,q841	c	o
+PS	q262,q382	c	o
+
+q933,q842	0	15
+da	q845,q938	c	o
+ddl2	q264,q383	c	o
+DS	q264,q383	c	o
+EFD2	q737,q608	c	o
+FR	q986,q883	c	o
+igoff2	q933,q842	c	o
+LSTMO	q682,q552	c	o
+MTMO	q508,q399	c	o
+nda	q845,q938	c	o
+nddl2	q933,q842	c	o
+nEFD2	q682,q552	c	o
+nFR	q933,q842	c	o
+nigoff2	q264,q383	c	o
+ntfr1	q933,q842	c	o
+PS	q264,q383	c	o
+
+q935,q1066	0	3
+dda2	q385,q268	c	o
+ndda2	q385,q268	c	o
+ntfr1	q935,q1066	c	o
+
+q937,q1068	0	3
+dda2	q0,q37,q270,q980	c	o
+ndda2	q0,q37,q270,q980	c	o
+ntfr1	q937,q1068	c	o
+
+q947,q850	0	2
+s_kw2_t	q12,q169	c	o
+tfr1	q947,q850	c	o
+
+q95,q1037	0	14
+da	q1045,q103	c	o
+ddl2	q258,q380	c	o
+DS	q258,q380	c	o
+EFD2	q734,q602	c	o
+FR	q16,q174	c	o
+igoff2	q95,q1037	c	o
+LSTMO	q992,q49	c	o
+nda	q97,q1039	c	o
+nddl2	q95,q1037	c	o
+nEFD2	q992,q49	c	o
+nFR	q95,q1037	c	o
+nigoff2	q258,q380	c	o
+ntfr1	q95,q1037	c	o
+PS	q258,q380	c	o
+
+q951,q1076	0	15
+da	q955,q1080	c	o
+ddl2	q430,q1010,q335	c	o
+DS	q430,q1010,q335	c	o
+EFD2	q663,q779	c	o
+FR	q951,q1076	c	o
+igoff2	q951,q1076	c	o
+LSTMO	q15,q963	c	o
+MTMO	q16,q174	c	o
+nda	q1077,q952	c	o
+nddl2	q951,q1076	c	o
+nEFD2	q15,q963	c	o
+nFR	q998,q888	c	o
+nigoff2	q430,q1010,q335	c	o
+PS	q430,q1010,q335	c	o
+tfr1	q951,q1076	c	o
+
+q953,q1078	0	15
+ddl	q955,q1080	c	o
+ddl2	q432,q1014,q339	c	o
+DS	q432,q1014,q339	c	o
+EFD2	q667,q783	c	o
+FR	q953,q1078	c	o
+igoff2	q953,q1078	c	o
+LSTMO	q19,q965	c	o
+MTMO	q20,q178	c	o
+nddl	q1081,q956	c	o
+nddl2	q953,q1078	c	o
+nEFD2	q19,q965	c	o
+nFR	q1002,q892	c	o
+nigoff2	q432,q1014,q339	c	o
+PS	q432,q1014,q339	c	o
+tfr1	q953,q1078	c	o
+
+q955,q1080	1	15
+DA	q987,q44	c	o
+DC	q951,q1076	c	o
+ddl2	q1018,q435,q345	c	o
+DS	q1018,q435,q345	c	o
+EFD2	q671,q787	c	o
+FR	q955,q1080	c	o
+igoff2	q955,q1080	c	o
+LSTMO	q23,q967	c	o
+MTMO	q24,q182	c	o
+nddl2	q955,q1080	c	o
+nEFD2	q23,q967	c	o
+nFR	q896,q1006	c	o
+nigoff2	q1018,q435,q345	c	o
+PS	q1018,q435,q345	c	o
+tfr1	q955,q1080	c	o
+
+q957,q2	0	15
+da	q961,q11	c	o
+ddl2	q430,q1010,q335	c	o
+DS	q430,q1010,q335	c	o
+EFD2	q957,q2	c	o
+FR	q957,q2	c	o
+igoff2	q957,q2	c	o
+MTMO	q40,q199	c	o
+nda	q4,q958	c	o
+nddl2	q957,q2	c	o
+nEFD2	q957,q2	c	o
+nFR	q1023,q909	c	o
+nigoff2	q430,q1010,q335	c	o
+PS	q430,q1010,q335	c	o
+PTMO	q951,q1076	c	o
+tfr1	q957,q2	c	o
+
+q959,q6	0	15
+ddl	q961,q11	c	o
+ddl2	q432,q1014,q339	c	o
+DS	q432,q1014,q339	c	o
+EFD2	q959,q6	c	o
+FR	q959,q6	c	o
+igoff2	q959,q6	c	o
+MTMO	q42,q203	c	o
+nddl	q13,q962	c	o
+nddl2	q959,q6	c	o
+nEFD2	q959,q6	c	o
+nFR	q1027,q911	c	o
+nigoff2	q432,q1014,q339	c	o
+PS	q432,q1014,q339	c	o
+PTMO	q953,q1078	c	o
+tfr1	q959,q6	c	o
+
+q961,q11	1	15
+DA	q987,q44	c	o
+DC	q957,q2	c	o
+ddl2	q1018,q435,q345	c	o
+DS	q1018,q435,q345	c	o
+EFD2	q961,q11	c	o
+FR	q961,q11	c	o
+igoff2	q961,q11	c	o
+MTMO	q46,q208	c	o
+nddl2	q961,q11	c	o
+nEFD2	q961,q11	c	o
+nFR	q913,q1032	c	o
+nigoff2	q1018,q435,q345	c	o
+PS	q1018,q435,q345	c	o
+PTMO	q955,q1080	c	o
+tfr1	q961,q11	c	o
+
+q97,q1039	0	14
+ddl2	q260,q381	c	o
+DS	q260,q381	c	o
+EFD2	q735,q604	c	o
+FR	q176,q18	c	o
+igoff	q99,q1041	c	o
+igoff2	q97,q1039	c	o
+LSTMO	q51,q993	c	o
+nddl2	q97,q1039	c	o
+nEFD2	q51,q993	c	o
+nFR	q97,q1039	c	o
+nigoff	q1045,q103	c	o
+nigoff2	q260,q381	c	o
+ntfr1	q97,q1039	c	o
+PS	q260,q381	c	o
+
+q974,q31	0	3
+ddl	q795,q978,q35,q877	c	o
+nddl	q0,q37,q270,q980	c	o
+ntfr1	q974,q31	c	o
+
+q976,q33	0	3
+da	q0,q37,q270,q980	c	o
+nda	q0,q37,q270,q980	c	o
+ntfr1	q976,q33	c	o
+
+q98,q245	0	4
+ddl2_f	q260,q381	c	o
+igoff	q246,q100	c	o
+nigoff	q248,q104	c	o
+ntfr1	q98,q245	c	o
+
+q982,q39	0	5
+dda	q988,q45	c	o
+dda2	q429,q333	c	o
+ndda	q47,q990	c	o
+ndda2	q429,q333	c	o
+tfr1	q982,q39	c	o
+
+q984,q881	0	15
+ddl2	q337,q431,q1012	c	o
+DS	q337,q431,q1012	c	o
+EFD2	q781,q665	c	o
+FR	q984,q881	c	o
+igoff	q882,q985	c	o
+igoff2	q984,q881	c	o
+LSTMO	q743,q616	c	o
+MTMO	q558,q452	c	o
+nddl2	q984,q881	c	o
+nEFD2	q743,q616	c	o
+nFR	q931,q840	c	o
+nigoff	q885,q989	c	o
+nigoff2	q337,q431,q1012	c	o
+PS	q337,q431,q1012	c	o
+tfr1	q984,q881	c	o
+
+q986,q883	0	15
+da	q991,q886	c	o
+ddl2	q341,q433,q1016	c	o
+DS	q341,q433,q1016	c	o
+EFD2	q785,q669	c	o
+FR	q986,q883	c	o
+igoff2	q986,q883	c	o
+LSTMO	q747,q620	c	o
+MTMO	q560,q456	c	o
+nda	q991,q886	c	o
+nddl2	q986,q883	c	o
+nEFD2	q747,q620	c	o
+nFR	q933,q842	c	o
+nigoff2	q341,q433,q1016	c	o
+PS	q341,q433,q1016	c	o
+tfr1	q986,q883	c	o
+
+q987,q44	0	5
+dda	q988,q45	c	o
+dda2	q434,q343	c	o
+ndda	q988,q45	c	o
+ndda2	q434,q343	c	o
+tfr1	q987,q44	c	o
+
+q988,q45	0	3
+dda2	q1018,q435,q345	c	o
+ndda2	q1018,q435,q345	c	o
+tfr1	q988,q45	c	o
+
+q99,q1041	0	14
+ddl	q1045,q103	c	o
+ddl2	q262,q382	c	o
+DS	q262,q382	c	o
+EFD2	q736,q606	c	o
+FR	q20,q178	c	o
+igoff2	q99,q1041	c	o
+LSTMO	q994,q53	c	o
+nddl	q1047,q105	c	o
+nddl2	q99,q1041	c	o
+nEFD2	q994,q53	c	o
+nFR	q99,q1041	c	o
+nigoff2	q262,q382	c	o
+ntfr1	q99,q1041	c	o
+PS	q262,q382	c	o
+
+q991,q886	1	15
+DA	q982,q39	c	o
+DC	q986,q883	c	o
+ddl2	q437,q112,q1020,q347,q1058	c	o
+DS	q437,q112,q1020,q347,q1058	c	o
+EFD2	q789,q673	c	o
+FR	q991,q886	c	o
+igoff2	q991,q886	c	o
+LSTMO	q751,q624	c	o
+MTMO	q563,q460	c	o
+nddl2	q991,q886	c	o
+nEFD2	q751,q624	c	o
+nFR	q845,q938	c	o
+nigoff2	q437,q112,q1020,q347,q1058	c	o
+PS	q437,q112,q1020,q347,q1058	c	o
+tfr1	q991,q886	c	o
+
+q992,q49	0	14
+da	q996,q57	c	o
+ddl2	q258,q380	c	o
+DS	q258,q380	c	o
+EFD2	q992,q49	c	o
+FR	q407,q311	c	o
+igoff2	q992,q49	c	o
+LSTMO	q487,q601	c	o
+nda	q51,q993	c	o
+nddl2	q992,q49	c	o
+nEFD2	q992,q49	c	o
+nFR	q812,q887	c	o
+nigoff2	q258,q380	c	o
+ntfr1	q992,q49	c	o
+PS	q258,q380	c	o
+
+q994,q53	0	14
+ddl	q996,q57	c	o
+ddl2	q262,q382	c	o
+DS	q262,q382	c	o
+EFD2	q994,q53	c	o
+FR	q315,q411	c	o
+igoff2	q994,q53	c	o
+LSTMO	q489,q605	c	o
+nddl	q59,q997	c	o
+nddl2	q994,q53	c	o
+nEFD2	q994,q53	c	o
+nFR	q814,q891	c	o
+nigoff2	q262,q382	c	o
+ntfr1	q994,q53	c	o
+PS	q262,q382	c	o
+
+q995,q55	0	14
+da	q59,q997	c	o
+ddl2	q264,q383	c	o
+DS	q264,q383	c	o
+EFD2	q995,q55	c	o
+FR	q413,q317	c	o
+igoff2	q995,q55	c	o
+LSTMO	q490,q607	c	o
+nda	q59,q997	c	o
+nddl2	q995,q55	c	o
+nEFD2	q995,q55	c	o
+nFR	q815,q893	c	o
+nigoff2	q264,q383	c	o
+ntfr1	q995,q55	c	o
+PS	q264,q383	c	o
+
+q996,q57	1	14
+DA	q1065,q934	c	o
+DC	q992,q49	c	o
+ddl2	q385,q268	c	o
+DS	q385,q268	c	o
+EFD2	q996,q57	c	o
+FR	q415,q319	c	o
+igoff2	q996,q57	c	o
+LSTMO	q491,q609	c	o
+nddl2	q996,q57	c	o
+nEFD2	q996,q57	c	o
+nFR	q817,q895	c	o
+nigoff2	q385,q268	c	o
+ntfr1	q996,q57	c	o
+PS	q385,q268	c	o
+
+q998,q888	0	15
+da	q896,q1006	c	o
+ddl2	q258,q380	c	o
+DS	q258,q380	c	o
+EFD2	q734,q602	c	o
+FR	q951,q1076	c	o
+igoff2	q998,q888	c	o
+LSTMO	q915,q1036	c	o
+MTMO	q95,q1037	c	o
+nda	q1000,q890	c	o
+nddl2	q998,q888	c	o
+nEFD2	q915,q1036	c	o
+nFR	q998,q888	c	o
+nigoff2	q258,q380	c	o
+ntfr1	q998,q888	c	o
+PS	q258,q380	c	o
+
+q999,q61	0	4
+da	q69,q1007	c	o
+ddl2_f	q81,q1024	c	o
+nda	q1001,q63	c	o
+ntfr1	q999,q61	c	o
+

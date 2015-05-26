@@ -1,0 +1,41 @@
+9
+
+nlkpsState.LKidle	1	3
+DC	nlkpsState.0	c	o
+FR	nlkpsState.LKidle	c	o
+nFR	nlkpsState.LKidle	c	o
+
+lkpsState.0	0	2
+da3	lkpsState.LKidle	c	o
+nda3	lkpsState.1	c	o
+
+lkpsState.1	0	2
+lkp3	nlkpsState.3,lkpsState.3,lkpsState.LKintScan	c	o
+nlkp3	lkpsState.LKidle	c	o
+
+lkpsState.2,4	0	1
+s_kw3_t	lkpsState.5	c	o
+
+lkpsState.5	0	1
+s_lp3_t	lkpsState.LKidle	c	o
+
+lkpsState.LKidle	1	4
+DC	lkpsState.0	c	o
+FR	lkpsState.LKidle	c	o
+nFR	lkpsState.LKidle	c	o
+TMO	nlkpsState.LKidle	c	o
+
+nlkpsState.0	0	2
+da3	nlkpsState.LKidle	c	o
+nda3	nlkpsState.1	c	o
+
+nlkpsState.1	0	2
+lkp3	nlkpsState.3,lkpsState.3,lkpsState.LKintScan	c	o
+nlkp3	nlkpsState.LKidle	c	o
+
+nlkpsState.3,lkpsState.3,lkpsState.LKintScan	0	4
+DC	nlkpsState.3,lkpsState.3,lkpsState.LKintScan	c	o
+FR	lkpsState.2,4	c	o
+nFR	lkpsState.LKidle	c	o
+TMO	nlkpsState.LKidle	c	o
+

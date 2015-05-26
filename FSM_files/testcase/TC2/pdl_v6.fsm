@@ -1,0 +1,50 @@
+6
+
+npdlState	1	6
+npdl1	npdlState	c	o
+fpdl	rFault	c	o
+pdl2_f	pdlState	c	o
+npdl1_f	npdlState	c	o
+pdl1_f	pdlState	c	o
+fddl	fFault	c	o
+
+F_npdlState	1	6
+npdl1	F_npdlState	c	o
+pdl2_f	pdlState	c	o
+npdl1_f	npdlState	c	o
+pdl1_f	pdlState	c	o
+fddl	fFault	c	o
+fpdl	rFault	c	o
+
+F_pdlState	1	6
+pdl1	F_pdlState	c	o
+pdl2_f	pdlState	c	o
+npdl1_f	npdlState	c	o
+pdl1_f	pdlState	c	o
+fddl	fFault	c	o
+fpdl	rFault	c	o
+
+fFault	1	8
+lad_pdl	F_pdlState	c	o
+uld_pdl	F_npdlState	c	o
+null_pdl	F_npdlState	c	o
+ula_pdl	F_npdlState	c	o
+pdl2_f	pdlState	c	o
+npdl1_f	npdlState	c	o
+pdl1_f	pdlState	c	o
+fpdl	rFault	c	o
+
+pdlState	1	6
+pdl1	pdlState	c	o
+fpdl	rFault	c	o
+pdl2_f	pdlState	c	o
+npdl1_f	npdlState	c	o
+pdl1_f	pdlState	c	o
+fddl	fFault	c	o
+
+rFault	1	4
+pdl2_f	pdlState	c	o
+npdl1_f	npdlState	c	o
+pdl1_f	pdlState	c	o
+fddl	fFault	c	o
+
