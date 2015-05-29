@@ -1,0 +1,12 @@
+2
+
+nbspState	1	3
+nbsp5	nbspState	c	o
+nbsp2	nbspState	c	o
+BON	bspState	c	o
+
+bspState	1	3
+BOFF	nbspState	c	o
+bsp5	bspState	c	o
+bsp2	bspState	c	o
+

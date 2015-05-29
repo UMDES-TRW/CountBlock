@@ -1,0 +1,47 @@
+10
+
+(LKidle,nlkpsState)	1	4
+DC	(0,nlkpsState)	c	o
+dc	(0,nlkpsState)	c	o
+FR	(LKidle,nlkpsState)	c	o
+nFR	(LKidle,nlkpsState)	c	o
+
+(0,lkpsState)	0	2
+da3	(LKidle,lkpsState)	c	o
+nda3	(1,lkpsState)	c	o
+
+(0,nlkpsState)	0	2
+da3	(LKidle,nlkpsState)	c	o
+nda3	(1,nlkpsState)	c	o
+
+(1,lkpsState)	0	2
+lkp3	(3,lkpsState),(3,nlkpsState),(LKintScan,lkpsState)	c	o
+nlkp3	(LKidle,lkpsState)	c	o
+
+(1,nlkpsState)	0	2
+lkp3	(3,lkpsState),(3,nlkpsState),(LKintScan,lkpsState)	c	o
+nlkp3	(LKidle,nlkpsState)	c	o
+
+(2,lkpsState)	0	1
+KivWarn3_f	(4,lkpsState)	c	o
+
+(3,lkpsState),(3,nlkpsState),(LKintScan,lkpsState)	1	5
+DC	(3,lkpsState),(3,nlkpsState),(LKintScan,lkpsState)	c	o
+dc	(3,lkpsState),(3,nlkpsState),(LKintScan,lkpsState)	c	o
+FR	(2,lkpsState)	c	o
+nFR	(LKidle,lkpsState)	c	o
+TMO	(LKidle,nlkpsState)	c	o
+
+(4,lkpsState)	0	1
+s_kw3_t	(5,lkpsState)	c	o
+
+(5,lkpsState)	0	1
+s_lp3_t	(LKidle,lkpsState)	c	o
+
+(LKidle,lkpsState)	1	5
+DC	(0,lkpsState)	c	o
+dc	(0,lkpsState)	c	o
+FR	(LKidle,lkpsState)	c	o
+nFR	(LKidle,lkpsState)	c	o
+TMO	(LKidle,nlkpsState)	c	o
+

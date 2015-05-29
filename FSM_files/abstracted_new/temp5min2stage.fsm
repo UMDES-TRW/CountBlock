@@ -1,0 +1,206 @@
+20
+
+((((0,igoffState),nbspState),nsbpState),ndsbsState),((((1,igoffState),nbspState),nsbpState),ndsbsState),((((2,igoffState),nbspState),nsbpState),ndsbsState),((((3,igoffState),nbspState),nsbpState),ndsbsState),((((DivOut,igoffState),nbspState),nsbpState),ndsbsState),((((DivIn,igoffState),nbspState),nsbpState),ndsbsState)	1	9
+BON	((((0,igoffState),bspState),nsbpState),ndsbsState),((((1,igoffState),bspState),nsbpState),ndsbsState),((((2,igoffState),bspState),nsbpState),ndsbsState),((((DivIn,igoffState),bspState),nsbpState),ndsbsState)	c	o
+DDC	((((0,igoffState),nbspState),nsbpState),ndsbsState),((((1,igoffState),nbspState),nsbpState),ndsbsState),((((2,igoffState),nbspState),nsbpState),ndsbsState),((((3,igoffState),nbspState),nsbpState),ndsbsState),((((DivOut,igoffState),nbspState),nsbpState),ndsbsState),((((DivIn,igoffState),nbspState),nsbpState),ndsbsState)	c	o
+igoff	((((0,igoffState),nbspState),nsbpState),ndsbsState),((((1,igoffState),nbspState),nsbpState),ndsbsState),((((2,igoffState),nbspState),nsbpState),ndsbsState),((((3,igoffState),nbspState),nsbpState),ndsbsState),((((DivOut,igoffState),nbspState),nsbpState),ndsbsState),((((DivIn,igoffState),nbspState),nsbpState),ndsbsState)	c	o
+igoff2	((((0,igoffState),nbspState),nsbpState),ndsbsState),((((1,igoffState),nbspState),nsbpState),ndsbsState),((((2,igoffState),nbspState),nsbpState),ndsbsState),((((3,igoffState),nbspState),nsbpState),ndsbsState),((((DivOut,igoffState),nbspState),nsbpState),ndsbsState),((((DivIn,igoffState),nbspState),nsbpState),ndsbsState)	c	o
+nbsp2	((((0,igoffState),nbspState),nsbpState),ndsbsState),((((1,igoffState),nbspState),nsbpState),ndsbsState),((((2,igoffState),nbspState),nsbpState),ndsbsState),((((3,igoffState),nbspState),nsbpState),ndsbsState),((((DivOut,igoffState),nbspState),nsbpState),ndsbsState),((((DivIn,igoffState),nbspState),nsbpState),ndsbsState)	c	o
+nIGOFF	((((DivOut,nigoffState),nbspState),nsbpState),ndsbsState),((((DivIn,nigoffState),nbspState),nsbpState),ndsbsState),((((0,nigoffState),nbspState),nsbpState),ndsbsState)	c	o
+nsbp2	((((0,igoffState),nbspState),nsbpState),ndsbsState),((((1,igoffState),nbspState),nsbpState),ndsbsState),((((2,igoffState),nbspState),nsbpState),ndsbsState),((((3,igoffState),nbspState),nsbpState),ndsbsState),((((DivOut,igoffState),nbspState),nsbpState),ndsbsState),((((DivIn,igoffState),nbspState),nsbpState),ndsbsState)	c	o
+SBB	((((DivIn,igoffState),nbspState),nsbpState),dsbsState)	c	o
+SBP	((((DivIn,igoffState),nbspState),sbpState),ndsbsState),((((3,igoffState),nbspState),sbpState),ndsbsState),((((2,igoffState),nbspState),sbpState),ndsbsState),((((1,igoffState),nbspState),sbpState),ndsbsState),((((0,igoffState),nbspState),sbpState),ndsbsState)	c	o
+
+((((0,igoffState),bspState),nsbpState),dsbsState),((((1,igoffState),bspState),nsbpState),dsbsState)	0	5
+bsp2	((((0,igoffState),bspState),nsbpState),dsbsState),((((1,igoffState),bspState),nsbpState),dsbsState)	c	o
+dsbs5	((((DivIn,igoffState),bspState),nsbpState),dsbsState)	c	o
+igoff	((((0,igoffState),bspState),nsbpState),dsbsState),((((1,igoffState),bspState),nsbpState),dsbsState)	c	o
+igoff2	((((0,igoffState),bspState),nsbpState),dsbsState),((((1,igoffState),bspState),nsbpState),dsbsState)	c	o
+nsbp2	((((0,igoffState),bspState),nsbpState),dsbsState),((((1,igoffState),bspState),nsbpState),dsbsState)	c	o
+
+((((0,igoffState),bspState),nsbpState),ndsbsState),((((1,igoffState),bspState),nsbpState),ndsbsState),((((2,igoffState),bspState),nsbpState),ndsbsState),((((DivIn,igoffState),bspState),nsbpState),ndsbsState)	1	9
+BOFF	((((0,igoffState),nbspState),nsbpState),ndsbsState),((((1,igoffState),nbspState),nsbpState),ndsbsState),((((2,igoffState),nbspState),nsbpState),ndsbsState),((((3,igoffState),nbspState),nsbpState),ndsbsState),((((DivOut,igoffState),nbspState),nsbpState),ndsbsState),((((DivIn,igoffState),nbspState),nsbpState),ndsbsState)	c	o
+bsp2	((((0,igoffState),bspState),nsbpState),ndsbsState),((((1,igoffState),bspState),nsbpState),ndsbsState),((((2,igoffState),bspState),nsbpState),ndsbsState),((((DivIn,igoffState),bspState),nsbpState),ndsbsState)	c	o
+DDC	((((0,igoffState),bspState),nsbpState),ndsbsState),((((1,igoffState),bspState),nsbpState),ndsbsState),((((2,igoffState),bspState),nsbpState),ndsbsState),((((DivIn,igoffState),bspState),nsbpState),ndsbsState)	c	o
+igoff	((((0,igoffState),bspState),nsbpState),ndsbsState),((((1,igoffState),bspState),nsbpState),ndsbsState),((((2,igoffState),bspState),nsbpState),ndsbsState),((((DivIn,igoffState),bspState),nsbpState),ndsbsState)	c	o
+igoff2	((((0,igoffState),bspState),nsbpState),ndsbsState),((((1,igoffState),bspState),nsbpState),ndsbsState),((((2,igoffState),bspState),nsbpState),ndsbsState),((((DivIn,igoffState),bspState),nsbpState),ndsbsState)	c	o
+nIGOFF	((((DivIn,nigoffState),bspState),nsbpState),ndsbsState),((((0,nigoffState),bspState),nsbpState),ndsbsState)	c	o
+nsbp2	((((0,igoffState),bspState),nsbpState),ndsbsState),((((1,igoffState),bspState),nsbpState),ndsbsState),((((2,igoffState),bspState),nsbpState),ndsbsState),((((DivIn,igoffState),bspState),nsbpState),ndsbsState)	c	o
+SBB	((((DivIn,igoffState),bspState),nsbpState),dsbsState)	c	o
+SBP	((((0,igoffState),bspState),sbpState),ndsbsState),((((1,igoffState),bspState),sbpState),ndsbsState),((((2,igoffState),bspState),sbpState),ndsbsState),((((DivIn,igoffState),bspState),sbpState),ndsbsState)	c	o
+
+((((0,igoffState),bspState),sbpState),dsbsState),((((1,igoffState),bspState),sbpState),dsbsState)	0	5
+bsp2	((((0,igoffState),bspState),sbpState),dsbsState),((((1,igoffState),bspState),sbpState),dsbsState)	c	o
+dsbs5	((((DivIn,igoffState),bspState),sbpState),dsbsState)	c	o
+igoff	((((0,igoffState),bspState),sbpState),dsbsState),((((1,igoffState),bspState),sbpState),dsbsState)	c	o
+igoff2	((((0,igoffState),bspState),sbpState),dsbsState),((((1,igoffState),bspState),sbpState),dsbsState)	c	o
+sbp2	((((0,igoffState),bspState),sbpState),dsbsState),((((1,igoffState),bspState),sbpState),dsbsState)	c	o
+
+((((0,igoffState),bspState),sbpState),ndsbsState),((((1,igoffState),bspState),sbpState),ndsbsState),((((2,igoffState),bspState),sbpState),ndsbsState),((((DivIn,igoffState),bspState),sbpState),ndsbsState)	1	9
+BOFF	((((DivIn,igoffState),nbspState),sbpState),ndsbsState),((((3,igoffState),nbspState),sbpState),ndsbsState),((((2,igoffState),nbspState),sbpState),ndsbsState),((((1,igoffState),nbspState),sbpState),ndsbsState),((((0,igoffState),nbspState),sbpState),ndsbsState)	c	o
+bsp2	((((0,igoffState),bspState),sbpState),ndsbsState),((((1,igoffState),bspState),sbpState),ndsbsState),((((2,igoffState),bspState),sbpState),ndsbsState),((((DivIn,igoffState),bspState),sbpState),ndsbsState)	c	o
+DDC	((((0,igoffState),bspState),sbpState),ndsbsState),((((1,igoffState),bspState),sbpState),ndsbsState),((((2,igoffState),bspState),sbpState),ndsbsState),((((DivIn,igoffState),bspState),sbpState),ndsbsState)	c	o
+igoff	((((0,igoffState),bspState),sbpState),ndsbsState),((((1,igoffState),bspState),sbpState),ndsbsState),((((2,igoffState),bspState),sbpState),ndsbsState),((((DivIn,igoffState),bspState),sbpState),ndsbsState)	c	o
+igoff2	((((0,igoffState),bspState),sbpState),ndsbsState),((((1,igoffState),bspState),sbpState),ndsbsState),((((2,igoffState),bspState),sbpState),ndsbsState),((((DivIn,igoffState),bspState),sbpState),ndsbsState)	c	o
+nIGOFF	((((0,nigoffState),bspState),sbpState),ndsbsState),((((DivIn,nigoffState),bspState),sbpState),ndsbsState)	c	o
+nSBP	((((0,igoffState),bspState),nsbpState),ndsbsState),((((1,igoffState),bspState),nsbpState),ndsbsState),((((2,igoffState),bspState),nsbpState),ndsbsState),((((DivIn,igoffState),bspState),nsbpState),ndsbsState)	c	o
+SBB	((((DivIn,igoffState),bspState),sbpState),dsbsState)	c	o
+sbp2	((((0,igoffState),bspState),sbpState),ndsbsState),((((1,igoffState),bspState),sbpState),ndsbsState),((((2,igoffState),bspState),sbpState),ndsbsState),((((DivIn,igoffState),bspState),sbpState),ndsbsState)	c	o
+
+((((0,nigoffState),bspState),sbpState),dsbsState),((((DivIn,nigoffState),bspState),sbpState),dsbsState)	1	9
+BOFF	((((DivIn,nigoffState),nbspState),sbpState),dsbsState),((((0,nigoffState),nbspState),sbpState),dsbsState)	c	o
+bsp2	((((0,nigoffState),bspState),sbpState),dsbsState),((((DivIn,nigoffState),bspState),sbpState),dsbsState)	c	o
+DDC	((((0,nigoffState),bspState),sbpState),dsbsState),((((DivIn,nigoffState),bspState),sbpState),dsbsState)	c	o
+IGOFF	((((DivIn,igoffState),bspState),sbpState),dsbsState)	c	o
+nigoff	((((0,nigoffState),bspState),sbpState),dsbsState),((((DivIn,nigoffState),bspState),sbpState),dsbsState)	c	o
+nigoff2	((((0,nigoffState),bspState),sbpState),dsbsState),((((DivIn,nigoffState),bspState),sbpState),dsbsState)	c	o
+nSBP	((((DivIn,nigoffState),bspState),nsbpState),dsbsState),((((0,nigoffState),bspState),nsbpState),dsbsState)	c	o
+sbp2	((((0,nigoffState),bspState),sbpState),dsbsState),((((DivIn,nigoffState),bspState),sbpState),dsbsState)	c	o
+SBUB	((((0,nigoffState),bspState),sbpState),ndsbsState),((((DivIn,nigoffState),bspState),sbpState),ndsbsState)	c	o
+
+((((0,nigoffState),bspState),sbpState),ndsbsState),((((DivIn,nigoffState),bspState),sbpState),ndsbsState)	1	9
+BOFF	((((DivIn,nigoffState),nbspState),sbpState),ndsbsState),((((0,nigoffState),nbspState),sbpState),ndsbsState)	c	o
+bsp2	((((0,nigoffState),bspState),sbpState),ndsbsState),((((DivIn,nigoffState),bspState),sbpState),ndsbsState)	c	o
+DDC	((((0,nigoffState),bspState),sbpState),ndsbsState),((((DivIn,nigoffState),bspState),sbpState),ndsbsState)	c	o
+IGOFF	((((0,igoffState),bspState),sbpState),ndsbsState),((((1,igoffState),bspState),sbpState),ndsbsState),((((2,igoffState),bspState),sbpState),ndsbsState),((((DivIn,igoffState),bspState),sbpState),ndsbsState)	c	o
+nigoff	((((0,nigoffState),bspState),sbpState),ndsbsState),((((DivIn,nigoffState),bspState),sbpState),ndsbsState)	c	o
+nigoff2	((((0,nigoffState),bspState),sbpState),ndsbsState),((((DivIn,nigoffState),bspState),sbpState),ndsbsState)	c	o
+nSBP	((((DivIn,nigoffState),bspState),nsbpState),ndsbsState),((((0,nigoffState),bspState),nsbpState),ndsbsState)	c	o
+SBB	((((0,nigoffState),bspState),sbpState),dsbsState),((((DivIn,nigoffState),bspState),sbpState),dsbsState)	c	o
+sbp2	((((0,nigoffState),bspState),sbpState),ndsbsState),((((DivIn,nigoffState),bspState),sbpState),ndsbsState)	c	o
+
+((((1,igoffState),nbspState),nsbpState),dsbsState),((((0,igoffState),nbspState),nsbpState),dsbsState)	0	5
+dsbs5	((((DivIn,igoffState),nbspState),nsbpState),dsbsState)	c	o
+igoff	((((1,igoffState),nbspState),nsbpState),dsbsState),((((0,igoffState),nbspState),nsbpState),dsbsState)	c	o
+igoff2	((((1,igoffState),nbspState),nsbpState),dsbsState),((((0,igoffState),nbspState),nsbpState),dsbsState)	c	o
+nbsp2	((((1,igoffState),nbspState),nsbpState),dsbsState),((((0,igoffState),nbspState),nsbpState),dsbsState)	c	o
+nsbp2	((((1,igoffState),nbspState),nsbpState),dsbsState),((((0,igoffState),nbspState),nsbpState),dsbsState)	c	o
+
+((((1,igoffState),nbspState),sbpState),dsbsState),((((0,igoffState),nbspState),sbpState),dsbsState)	0	5
+dsbs5	((((DivIn,igoffState),nbspState),sbpState),dsbsState)	c	o
+igoff	((((1,igoffState),nbspState),sbpState),dsbsState),((((0,igoffState),nbspState),sbpState),dsbsState)	c	o
+igoff2	((((1,igoffState),nbspState),sbpState),dsbsState),((((0,igoffState),nbspState),sbpState),dsbsState)	c	o
+nbsp2	((((1,igoffState),nbspState),sbpState),dsbsState),((((0,igoffState),nbspState),sbpState),dsbsState)	c	o
+sbp2	((((1,igoffState),nbspState),sbpState),dsbsState),((((0,igoffState),nbspState),sbpState),dsbsState)	c	o
+
+((((DivIn,igoffState),bspState),nsbpState),dsbsState)	1	9
+BOFF	((((DivIn,igoffState),nbspState),nsbpState),dsbsState)	c	o
+bsp2	((((DivIn,igoffState),bspState),nsbpState),dsbsState)	c	o
+DDC	((((0,igoffState),bspState),nsbpState),dsbsState),((((1,igoffState),bspState),nsbpState),dsbsState)	c	o
+igoff	((((DivIn,igoffState),bspState),nsbpState),dsbsState)	c	o
+igoff2	((((DivIn,igoffState),bspState),nsbpState),dsbsState)	c	o
+nIGOFF	((((DivIn,nigoffState),bspState),nsbpState),dsbsState),((((0,nigoffState),bspState),nsbpState),dsbsState)	c	o
+nsbp2	((((DivIn,igoffState),bspState),nsbpState),dsbsState)	c	o
+SBP	((((DivIn,igoffState),bspState),sbpState),dsbsState)	c	o
+SBUB	((((0,igoffState),bspState),nsbpState),ndsbsState),((((1,igoffState),bspState),nsbpState),ndsbsState),((((2,igoffState),bspState),nsbpState),ndsbsState),((((DivIn,igoffState),bspState),nsbpState),ndsbsState)	c	o
+
+((((DivIn,igoffState),bspState),sbpState),dsbsState)	1	9
+BOFF	((((DivIn,igoffState),nbspState),sbpState),dsbsState)	c	o
+bsp2	((((DivIn,igoffState),bspState),sbpState),dsbsState)	c	o
+DDC	((((0,igoffState),bspState),sbpState),dsbsState),((((1,igoffState),bspState),sbpState),dsbsState)	c	o
+igoff	((((DivIn,igoffState),bspState),sbpState),dsbsState)	c	o
+igoff2	((((DivIn,igoffState),bspState),sbpState),dsbsState)	c	o
+nIGOFF	((((0,nigoffState),bspState),sbpState),dsbsState),((((DivIn,nigoffState),bspState),sbpState),dsbsState)	c	o
+nSBP	((((DivIn,igoffState),bspState),nsbpState),dsbsState)	c	o
+sbp2	((((DivIn,igoffState),bspState),sbpState),dsbsState)	c	o
+SBUB	((((0,igoffState),bspState),sbpState),ndsbsState),((((1,igoffState),bspState),sbpState),ndsbsState),((((2,igoffState),bspState),sbpState),ndsbsState),((((DivIn,igoffState),bspState),sbpState),ndsbsState)	c	o
+
+((((DivIn,igoffState),nbspState),nsbpState),dsbsState)	1	9
+BON	((((DivIn,igoffState),bspState),nsbpState),dsbsState)	c	o
+DDC	((((1,igoffState),nbspState),nsbpState),dsbsState),((((0,igoffState),nbspState),nsbpState),dsbsState)	c	o
+igoff	((((DivIn,igoffState),nbspState),nsbpState),dsbsState)	c	o
+igoff2	((((DivIn,igoffState),nbspState),nsbpState),dsbsState)	c	o
+nbsp2	((((DivIn,igoffState),nbspState),nsbpState),dsbsState)	c	o
+nIGOFF	((((DivIn,nigoffState),nbspState),nsbpState),dsbsState),((((0,nigoffState),nbspState),nsbpState),dsbsState)	c	o
+nsbp2	((((DivIn,igoffState),nbspState),nsbpState),dsbsState)	c	o
+SBP	((((DivIn,igoffState),nbspState),sbpState),dsbsState)	c	o
+SBUB	((((0,igoffState),nbspState),nsbpState),ndsbsState),((((1,igoffState),nbspState),nsbpState),ndsbsState),((((2,igoffState),nbspState),nsbpState),ndsbsState),((((3,igoffState),nbspState),nsbpState),ndsbsState),((((DivOut,igoffState),nbspState),nsbpState),ndsbsState),((((DivIn,igoffState),nbspState),nsbpState),ndsbsState)	c	o
+
+((((DivIn,igoffState),nbspState),sbpState),dsbsState)	1	9
+BON	((((DivIn,igoffState),bspState),sbpState),dsbsState)	c	o
+DDC	((((1,igoffState),nbspState),sbpState),dsbsState),((((0,igoffState),nbspState),sbpState),dsbsState)	c	o
+igoff	((((DivIn,igoffState),nbspState),sbpState),dsbsState)	c	o
+igoff2	((((DivIn,igoffState),nbspState),sbpState),dsbsState)	c	o
+nbsp2	((((DivIn,igoffState),nbspState),sbpState),dsbsState)	c	o
+nIGOFF	((((DivIn,nigoffState),nbspState),sbpState),dsbsState),((((0,nigoffState),nbspState),sbpState),dsbsState)	c	o
+nSBP	((((DivIn,igoffState),nbspState),nsbpState),dsbsState)	c	o
+sbp2	((((DivIn,igoffState),nbspState),sbpState),dsbsState)	c	o
+SBUB	((((DivIn,igoffState),nbspState),sbpState),ndsbsState),((((3,igoffState),nbspState),sbpState),ndsbsState),((((2,igoffState),nbspState),sbpState),ndsbsState),((((1,igoffState),nbspState),sbpState),ndsbsState),((((0,igoffState),nbspState),sbpState),ndsbsState)	c	o
+
+((((DivIn,igoffState),nbspState),sbpState),ndsbsState),((((3,igoffState),nbspState),sbpState),ndsbsState),((((2,igoffState),nbspState),sbpState),ndsbsState),((((1,igoffState),nbspState),sbpState),ndsbsState),((((0,igoffState),nbspState),sbpState),ndsbsState)	1	9
+BON	((((0,igoffState),bspState),sbpState),ndsbsState),((((1,igoffState),bspState),sbpState),ndsbsState),((((2,igoffState),bspState),sbpState),ndsbsState),((((DivIn,igoffState),bspState),sbpState),ndsbsState)	c	o
+DDC	((((DivIn,igoffState),nbspState),sbpState),ndsbsState),((((3,igoffState),nbspState),sbpState),ndsbsState),((((2,igoffState),nbspState),sbpState),ndsbsState),((((1,igoffState),nbspState),sbpState),ndsbsState),((((0,igoffState),nbspState),sbpState),ndsbsState)	c	o
+igoff	((((DivIn,igoffState),nbspState),sbpState),ndsbsState),((((3,igoffState),nbspState),sbpState),ndsbsState),((((2,igoffState),nbspState),sbpState),ndsbsState),((((1,igoffState),nbspState),sbpState),ndsbsState),((((0,igoffState),nbspState),sbpState),ndsbsState)	c	o
+igoff2	((((DivIn,igoffState),nbspState),sbpState),ndsbsState),((((3,igoffState),nbspState),sbpState),ndsbsState),((((2,igoffState),nbspState),sbpState),ndsbsState),((((1,igoffState),nbspState),sbpState),ndsbsState),((((0,igoffState),nbspState),sbpState),ndsbsState)	c	o
+nbsp2	((((DivIn,igoffState),nbspState),sbpState),ndsbsState),((((3,igoffState),nbspState),sbpState),ndsbsState),((((2,igoffState),nbspState),sbpState),ndsbsState),((((1,igoffState),nbspState),sbpState),ndsbsState),((((0,igoffState),nbspState),sbpState),ndsbsState)	c	o
+nIGOFF	((((DivIn,nigoffState),nbspState),sbpState),ndsbsState),((((0,nigoffState),nbspState),sbpState),ndsbsState)	c	o
+nSBP	((((0,igoffState),nbspState),nsbpState),ndsbsState),((((1,igoffState),nbspState),nsbpState),ndsbsState),((((2,igoffState),nbspState),nsbpState),ndsbsState),((((3,igoffState),nbspState),nsbpState),ndsbsState),((((DivOut,igoffState),nbspState),nsbpState),ndsbsState),((((DivIn,igoffState),nbspState),nsbpState),ndsbsState)	c	o
+SBB	((((DivIn,igoffState),nbspState),sbpState),dsbsState)	c	o
+sbp2	((((DivIn,igoffState),nbspState),sbpState),ndsbsState),((((3,igoffState),nbspState),sbpState),ndsbsState),((((2,igoffState),nbspState),sbpState),ndsbsState),((((1,igoffState),nbspState),sbpState),ndsbsState),((((0,igoffState),nbspState),sbpState),ndsbsState)	c	o
+
+((((DivIn,nigoffState),bspState),nsbpState),dsbsState),((((0,nigoffState),bspState),nsbpState),dsbsState)	1	9
+BOFF	((((DivIn,nigoffState),nbspState),nsbpState),dsbsState),((((0,nigoffState),nbspState),nsbpState),dsbsState)	c	o
+bsp2	((((DivIn,nigoffState),bspState),nsbpState),dsbsState),((((0,nigoffState),bspState),nsbpState),dsbsState)	c	o
+DDC	((((DivIn,nigoffState),bspState),nsbpState),dsbsState),((((0,nigoffState),bspState),nsbpState),dsbsState)	c	o
+IGOFF	((((DivIn,igoffState),bspState),nsbpState),dsbsState)	c	o
+nigoff	((((DivIn,nigoffState),bspState),nsbpState),dsbsState),((((0,nigoffState),bspState),nsbpState),dsbsState)	c	o
+nigoff2	((((DivIn,nigoffState),bspState),nsbpState),dsbsState),((((0,nigoffState),bspState),nsbpState),dsbsState)	c	o
+nsbp2	((((DivIn,nigoffState),bspState),nsbpState),dsbsState),((((0,nigoffState),bspState),nsbpState),dsbsState)	c	o
+SBP	((((0,nigoffState),bspState),sbpState),dsbsState),((((DivIn,nigoffState),bspState),sbpState),dsbsState)	c	o
+SBUB	((((DivIn,nigoffState),bspState),nsbpState),ndsbsState),((((0,nigoffState),bspState),nsbpState),ndsbsState)	c	o
+
+((((DivIn,nigoffState),bspState),nsbpState),ndsbsState),((((0,nigoffState),bspState),nsbpState),ndsbsState)	1	9
+BOFF	((((DivOut,nigoffState),nbspState),nsbpState),ndsbsState),((((DivIn,nigoffState),nbspState),nsbpState),ndsbsState),((((0,nigoffState),nbspState),nsbpState),ndsbsState)	c	o
+bsp2	((((DivIn,nigoffState),bspState),nsbpState),ndsbsState),((((0,nigoffState),bspState),nsbpState),ndsbsState)	c	o
+DDC	((((DivIn,nigoffState),bspState),nsbpState),ndsbsState),((((0,nigoffState),bspState),nsbpState),ndsbsState)	c	o
+IGOFF	((((0,igoffState),bspState),nsbpState),ndsbsState),((((1,igoffState),bspState),nsbpState),ndsbsState),((((2,igoffState),bspState),nsbpState),ndsbsState),((((DivIn,igoffState),bspState),nsbpState),ndsbsState)	c	o
+nigoff	((((DivIn,nigoffState),bspState),nsbpState),ndsbsState),((((0,nigoffState),bspState),nsbpState),ndsbsState)	c	o
+nigoff2	((((DivIn,nigoffState),bspState),nsbpState),ndsbsState),((((0,nigoffState),bspState),nsbpState),ndsbsState)	c	o
+nsbp2	((((DivIn,nigoffState),bspState),nsbpState),ndsbsState),((((0,nigoffState),bspState),nsbpState),ndsbsState)	c	o
+SBB	((((DivIn,nigoffState),bspState),nsbpState),dsbsState),((((0,nigoffState),bspState),nsbpState),dsbsState)	c	o
+SBP	((((0,nigoffState),bspState),sbpState),ndsbsState),((((DivIn,nigoffState),bspState),sbpState),ndsbsState)	c	o
+
+((((DivIn,nigoffState),nbspState),nsbpState),dsbsState),((((0,nigoffState),nbspState),nsbpState),dsbsState)	1	9
+BON	((((DivIn,nigoffState),bspState),nsbpState),dsbsState),((((0,nigoffState),bspState),nsbpState),dsbsState)	c	o
+DDC	((((DivIn,nigoffState),nbspState),nsbpState),dsbsState),((((0,nigoffState),nbspState),nsbpState),dsbsState)	c	o
+IGOFF	((((DivIn,igoffState),nbspState),nsbpState),dsbsState)	c	o
+nbsp2	((((DivIn,nigoffState),nbspState),nsbpState),dsbsState),((((0,nigoffState),nbspState),nsbpState),dsbsState)	c	o
+nigoff	((((DivIn,nigoffState),nbspState),nsbpState),dsbsState),((((0,nigoffState),nbspState),nsbpState),dsbsState)	c	o
+nigoff2	((((DivIn,nigoffState),nbspState),nsbpState),dsbsState),((((0,nigoffState),nbspState),nsbpState),dsbsState)	c	o
+nsbp2	((((DivIn,nigoffState),nbspState),nsbpState),dsbsState),((((0,nigoffState),nbspState),nsbpState),dsbsState)	c	o
+SBP	((((DivIn,nigoffState),nbspState),sbpState),dsbsState),((((0,nigoffState),nbspState),sbpState),dsbsState)	c	o
+SBUB	((((DivOut,nigoffState),nbspState),nsbpState),ndsbsState),((((DivIn,nigoffState),nbspState),nsbpState),ndsbsState),((((0,nigoffState),nbspState),nsbpState),ndsbsState)	c	o
+
+((((DivIn,nigoffState),nbspState),sbpState),dsbsState),((((0,nigoffState),nbspState),sbpState),dsbsState)	1	9
+BON	((((0,nigoffState),bspState),sbpState),dsbsState),((((DivIn,nigoffState),bspState),sbpState),dsbsState)	c	o
+DDC	((((DivIn,nigoffState),nbspState),sbpState),dsbsState),((((0,nigoffState),nbspState),sbpState),dsbsState)	c	o
+IGOFF	((((DivIn,igoffState),nbspState),sbpState),dsbsState)	c	o
+nbsp2	((((DivIn,nigoffState),nbspState),sbpState),dsbsState),((((0,nigoffState),nbspState),sbpState),dsbsState)	c	o
+nigoff	((((DivIn,nigoffState),nbspState),sbpState),dsbsState),((((0,nigoffState),nbspState),sbpState),dsbsState)	c	o
+nigoff2	((((DivIn,nigoffState),nbspState),sbpState),dsbsState),((((0,nigoffState),nbspState),sbpState),dsbsState)	c	o
+nSBP	((((DivIn,nigoffState),nbspState),nsbpState),dsbsState),((((0,nigoffState),nbspState),nsbpState),dsbsState)	c	o
+sbp2	((((DivIn,nigoffState),nbspState),sbpState),dsbsState),((((0,nigoffState),nbspState),sbpState),dsbsState)	c	o
+SBUB	((((DivIn,nigoffState),nbspState),sbpState),ndsbsState),((((0,nigoffState),nbspState),sbpState),ndsbsState)	c	o
+
+((((DivIn,nigoffState),nbspState),sbpState),ndsbsState),((((0,nigoffState),nbspState),sbpState),ndsbsState)	1	9
+BON	((((0,nigoffState),bspState),sbpState),ndsbsState),((((DivIn,nigoffState),bspState),sbpState),ndsbsState)	c	o
+DDC	((((DivIn,nigoffState),nbspState),sbpState),ndsbsState),((((0,nigoffState),nbspState),sbpState),ndsbsState)	c	o
+IGOFF	((((DivIn,igoffState),nbspState),sbpState),ndsbsState),((((3,igoffState),nbspState),sbpState),ndsbsState),((((2,igoffState),nbspState),sbpState),ndsbsState),((((1,igoffState),nbspState),sbpState),ndsbsState),((((0,igoffState),nbspState),sbpState),ndsbsState)	c	o
+nbsp2	((((DivIn,nigoffState),nbspState),sbpState),ndsbsState),((((0,nigoffState),nbspState),sbpState),ndsbsState)	c	o
+nigoff	((((DivIn,nigoffState),nbspState),sbpState),ndsbsState),((((0,nigoffState),nbspState),sbpState),ndsbsState)	c	o
+nigoff2	((((DivIn,nigoffState),nbspState),sbpState),ndsbsState),((((0,nigoffState),nbspState),sbpState),ndsbsState)	c	o
+nSBP	((((DivOut,nigoffState),nbspState),nsbpState),ndsbsState),((((DivIn,nigoffState),nbspState),nsbpState),ndsbsState),((((0,nigoffState),nbspState),nsbpState),ndsbsState)	c	o
+SBB	((((DivIn,nigoffState),nbspState),sbpState),dsbsState),((((0,nigoffState),nbspState),sbpState),dsbsState)	c	o
+sbp2	((((DivIn,nigoffState),nbspState),sbpState),ndsbsState),((((0,nigoffState),nbspState),sbpState),ndsbsState)	c	o
+
+((((DivOut,nigoffState),nbspState),nsbpState),ndsbsState),((((DivIn,nigoffState),nbspState),nsbpState),ndsbsState),((((0,nigoffState),nbspState),nsbpState),ndsbsState)	1	9
+BON	((((DivIn,nigoffState),bspState),nsbpState),ndsbsState),((((0,nigoffState),bspState),nsbpState),ndsbsState)	c	o
+DDC	((((DivOut,nigoffState),nbspState),nsbpState),ndsbsState),((((DivIn,nigoffState),nbspState),nsbpState),ndsbsState),((((0,nigoffState),nbspState),nsbpState),ndsbsState)	c	o
+IGOFF	((((0,igoffState),nbspState),nsbpState),ndsbsState),((((1,igoffState),nbspState),nsbpState),ndsbsState),((((2,igoffState),nbspState),nsbpState),ndsbsState),((((3,igoffState),nbspState),nsbpState),ndsbsState),((((DivOut,igoffState),nbspState),nsbpState),ndsbsState),((((DivIn,igoffState),nbspState),nsbpState),ndsbsState)	c	o
+nbsp2	((((DivOut,nigoffState),nbspState),nsbpState),ndsbsState),((((DivIn,nigoffState),nbspState),nsbpState),ndsbsState),((((0,nigoffState),nbspState),nsbpState),ndsbsState)	c	o
+nigoff	((((DivOut,nigoffState),nbspState),nsbpState),ndsbsState),((((DivIn,nigoffState),nbspState),nsbpState),ndsbsState),((((0,nigoffState),nbspState),nsbpState),ndsbsState)	c	o
+nigoff2	((((DivOut,nigoffState),nbspState),nsbpState),ndsbsState),((((DivIn,nigoffState),nbspState),nsbpState),ndsbsState),((((0,nigoffState),nbspState),nsbpState),ndsbsState)	c	o
+nsbp2	((((DivOut,nigoffState),nbspState),nsbpState),ndsbsState),((((DivIn,nigoffState),nbspState),nsbpState),ndsbsState),((((0,nigoffState),nbspState),nsbpState),ndsbsState)	c	o
+SBB	((((DivIn,nigoffState),nbspState),nsbpState),dsbsState),((((0,nigoffState),nbspState),nsbpState),dsbsState)	c	o
+SBP	((((DivIn,nigoffState),nbspState),sbpState),ndsbsState),((((0,nigoffState),nbspState),sbpState),ndsbsState)	c	o
+

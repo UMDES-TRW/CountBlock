@@ -1,0 +1,29 @@
+6
+
+DivOut	1	4
+BON	DivIn	c	o
+DDC	DivIn	c	o
+SBP	DivIn	c	o
+SBB	DivIn	c	o
+
+3	0	2
+sbp5	DivIn	c	o
+nsbp5	DivOut	c	o
+
+2	0	2
+bsp5	DivIn	c	o
+nbsp5	3	c	o
+
+1	0	2
+dsbs5	DivIn	c	o
+ndsbs5	2	c	o
+
+0	0	2
+nigoff5	DivIn	c	o
+igoff5	1	c	o
+
+DivIn	1	4
+DDC	0	c	o
+SBB	DivIn	c	o
+BON	DivIn	c	o
+SBP	DivIn	c	o

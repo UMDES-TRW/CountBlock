@@ -1,64 +1,58 @@
-20
+18
 InitialState	1	1
-PS	Z1	c	o
+DA	Z1	c	o
 
 Z1	1	1
-nlp1_t	Z2	c	o
+dda2	Z2	c	o
 
 Z10	1	1
-ntfr1	Z11	c	o
+nda2	Z11	c	o
 
 Z11	1	1
-pdl1_f	Z12	c	o
+nda3	Z12	c	o
 
 Z12	1	1
-fpdl	Z13	c	o
+c_ula1_t	Z13	c	o
 
 Z13	1	1
-ddl1_f	Z14	c	o
+lkp3	Z14	c	o
 
 Z14	1	1
-c_ula1_t	Z15	c	o
+nda	Z15	c	o
 
 Z15	1	1
-s_null1	Z16	c	o
+igoff	Z16	c	o
 
 Z16	1	1
-PDA	Z17	c	o
+nddl	Z17	c	o
 
-Z17	1	1
-PS	Z18	c	o
-
-Z18	1	1
-nlp1_t	Z19	c	o
-
-Z19	1	0
+Z17	1	0
 
 Z2	1	1
-npdl1	Z3	c	o
+dda	Z3	c	o
 
 Z3	1	1
-nda1	Z4	c	o
+PDA	Z4	c	o
 
 Z4	1	1
-FSTMO	Z5	c	o
+DC	Z5	c	o
 
 Z5	1	1
-lad1	Z6	c	o
+da3	Z6	c	o
 
 Z6	1	1
-s_retry1_t	Z7	c	o
+da2	Z7	c	o
 
 Z7	1	1
-nPDS	Z8	c	o
+da	Z8	c	o
 
 Z8	1	1
-EFD1	Z9	c	o
+DDC	Z9	c	o
 
 Z9	1	1
-lad1	Z10	c	o
+dc	Z10	c	o
 
-94 events
+95 events
 DA	c	o
 DC	c	o
 DDC	c	o
@@ -85,6 +79,7 @@ da	c	o
 da1	c	o
 da2	c	o
 da3	c	o
+dc	c	o
 dda	c	o
 dda2	c	o
 ddl	c	o

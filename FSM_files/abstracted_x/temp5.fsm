@@ -1,0 +1,538 @@
+54
+
+q0	1	9
+BON	q47	c	o
+DDC	q22	c	o
+igoff	q0	c	o
+igoff2	q0	c	o
+nbsp2	q0	c	o
+nIGOFF	q8	c	o
+nsbp2	q0	c	o
+SBB	q18	c	o
+SBP	q29	c	o
+
+q1	0	7
+IGOFF	q16	c	o
+nbsp2	q1	c	o
+nigoff	q1	c	o
+nigoff2	q1	c	o
+nigoff5	q3	c	o
+nsbp2	q1	c	o
+SBUB	q4	c	o
+
+q10	0	8
+dsbs5	q11	c	o
+IGOFF	q24	c	o
+nbsp2	q10	c	o
+nigoff	q10	c	o
+nigoff2	q10	c	o
+nSBP	q2	c	o
+sbp2	q10	c	o
+SBUB	q13	c	o
+
+q11	1	9
+BON	q38	c	o
+DDC	q9	c	o
+IGOFF	q25	c	o
+nbsp2	q11	c	o
+nigoff	q11	c	o
+nigoff2	q11	c	o
+nSBP	q3	c	o
+sbp2	q11	c	o
+SBUB	q15	c	o
+
+q12	0	7
+IGOFF	q26	c	o
+nbsp2	q12	c	o
+nigoff	q12	c	o
+nigoff2	q12	c	o
+nigoff5	q15	c	o
+nSBP	q4	c	o
+sbp2	q12	c	o
+
+q13	0	7
+IGOFF	q27	c	o
+nbsp2	q13	c	o
+nbsp5	q14	c	o
+nigoff	q13	c	o
+nigoff2	q13	c	o
+nSBP	q5	c	o
+sbp2	q13	c	o
+
+q14	0	7
+IGOFF	q28	c	o
+nbsp2	q14	c	o
+nigoff	q14	c	o
+nigoff2	q14	c	o
+nSBP	q6	c	o
+sbp2	q14	c	o
+sbp5	q15	c	o
+
+q15	1	9
+BON	q41	c	o
+DDC	q12	c	o
+IGOFF	q29	c	o
+nbsp2	q15	c	o
+nigoff	q15	c	o
+nigoff2	q15	c	o
+nSBP	q7	c	o
+SBB	q11	c	o
+sbp2	q15	c	o
+
+q16	0	7
+igoff	q16	c	o
+igoff2	q16	c	o
+igoff5	q17	c	o
+nbsp2	q16	c	o
+nIGOFF	q1	c	o
+nsbp2	q16	c	o
+SBUB	q19	c	o
+
+q17	0	7
+dsbs5	q18	c	o
+igoff	q17	c	o
+igoff2	q17	c	o
+nbsp2	q17	c	o
+nIGOFF	q2	c	o
+nsbp2	q17	c	o
+SBUB	q20	c	o
+
+q18	1	9
+BON	q44	c	o
+DDC	q16	c	o
+igoff	q18	c	o
+igoff2	q18	c	o
+nbsp2	q18	c	o
+nIGOFF	q3	c	o
+nsbp2	q18	c	o
+SBP	q25	c	o
+SBUB	q22	c	o
+
+q19	0	6
+igoff	q19	c	o
+igoff2	q19	c	o
+igoff5	q20	c	o
+nbsp2	q19	c	o
+nIGOFF	q4	c	o
+nsbp2	q19	c	o
+
+q2	0	7
+dsbs5	q3	c	o
+IGOFF	q17	c	o
+nbsp2	q2	c	o
+nigoff	q2	c	o
+nigoff2	q2	c	o
+nsbp2	q2	c	o
+SBUB	q5	c	o
+
+q20	0	6
+igoff	q20	c	o
+igoff2	q20	c	o
+nbsp2	q20	c	o
+nbsp5	q21	c	o
+nIGOFF	q5	c	o
+nsbp2	q20	c	o
+
+q21	0	6
+igoff	q21	c	o
+igoff2	q21	c	o
+nbsp2	q21	c	o
+nIGOFF	q6	c	o
+nsbp2	q21	c	o
+nsbp5	q0	c	o
+
+q22	1	9
+BON	q47	c	o
+DDC	q19	c	o
+igoff	q22	c	o
+igoff2	q22	c	o
+nbsp2	q22	c	o
+nIGOFF	q7	c	o
+nsbp2	q22	c	o
+SBB	q18	c	o
+SBP	q29	c	o
+
+q23	0	8
+igoff	q23	c	o
+igoff2	q23	c	o
+igoff5	q24	c	o
+nbsp2	q23	c	o
+nIGOFF	q9	c	o
+nSBP	q16	c	o
+sbp2	q23	c	o
+SBUB	q26	c	o
+
+q24	0	8
+dsbs5	q25	c	o
+igoff	q24	c	o
+igoff2	q24	c	o
+nbsp2	q24	c	o
+nIGOFF	q10	c	o
+nSBP	q17	c	o
+sbp2	q24	c	o
+SBUB	q27	c	o
+
+q25	1	9
+BON	q50	c	o
+DDC	q23	c	o
+igoff	q25	c	o
+igoff2	q25	c	o
+nbsp2	q25	c	o
+nIGOFF	q11	c	o
+nSBP	q18	c	o
+sbp2	q25	c	o
+SBUB	q29	c	o
+
+q26	0	7
+igoff	q26	c	o
+igoff2	q26	c	o
+igoff5	q27	c	o
+nbsp2	q26	c	o
+nIGOFF	q12	c	o
+nSBP	q19	c	o
+sbp2	q26	c	o
+
+q27	0	7
+igoff	q27	c	o
+igoff2	q27	c	o
+nbsp2	q27	c	o
+nbsp5	q28	c	o
+nIGOFF	q13	c	o
+nSBP	q20	c	o
+sbp2	q27	c	o
+
+q28	0	7
+igoff	q28	c	o
+igoff2	q28	c	o
+nbsp2	q28	c	o
+nIGOFF	q14	c	o
+nSBP	q21	c	o
+sbp2	q28	c	o
+sbp5	q29	c	o
+
+q29	1	9
+BON	q53	c	o
+DDC	q26	c	o
+igoff	q29	c	o
+igoff2	q29	c	o
+nbsp2	q29	c	o
+nIGOFF	q15	c	o
+nSBP	q22	c	o
+SBB	q25	c	o
+sbp2	q29	c	o
+
+q3	1	9
+BON	q32	c	o
+DDC	q1	c	o
+IGOFF	q18	c	o
+nbsp2	q3	c	o
+nigoff	q3	c	o
+nigoff2	q3	c	o
+nsbp2	q3	c	o
+SBP	q11	c	o
+SBUB	q7	c	o
+
+q30	0	8
+BOFF	q1	c	o
+bsp2	q30	c	o
+IGOFF	q42	c	o
+nigoff	q30	c	o
+nigoff2	q30	c	o
+nigoff5	q32	c	o
+nsbp2	q30	c	o
+SBUB	q33	c	o
+
+q31	0	8
+BOFF	q2	c	o
+bsp2	q31	c	o
+dsbs5	q32	c	o
+IGOFF	q43	c	o
+nigoff	q31	c	o
+nigoff2	q31	c	o
+nsbp2	q31	c	o
+SBUB	q34	c	o
+
+q32	1	9
+BOFF	q3	c	o
+bsp2	q32	c	o
+DDC	q30	c	o
+IGOFF	q44	c	o
+nigoff	q32	c	o
+nigoff2	q32	c	o
+nsbp2	q32	c	o
+SBP	q38	c	o
+SBUB	q35	c	o
+
+q33	0	7
+BOFF	q4	c	o
+bsp2	q33	c	o
+IGOFF	q45	c	o
+nigoff	q33	c	o
+nigoff2	q33	c	o
+nigoff5	q35	c	o
+nsbp2	q33	c	o
+
+q34	0	7
+BOFF	q5	c	o
+bsp2	q34	c	o
+bsp5	q35	c	o
+IGOFF	q46	c	o
+nigoff	q34	c	o
+nigoff2	q34	c	o
+nsbp2	q34	c	o
+
+q35	1	9
+BOFF	q7	c	o
+bsp2	q35	c	o
+DDC	q33	c	o
+IGOFF	q47	c	o
+nigoff	q35	c	o
+nigoff2	q35	c	o
+nsbp2	q35	c	o
+SBB	q32	c	o
+SBP	q41	c	o
+
+q36	0	9
+BOFF	q9	c	o
+bsp2	q36	c	o
+IGOFF	q48	c	o
+nigoff	q36	c	o
+nigoff2	q36	c	o
+nigoff5	q38	c	o
+nSBP	q30	c	o
+sbp2	q36	c	o
+SBUB	q39	c	o
+
+q37	0	9
+BOFF	q10	c	o
+bsp2	q37	c	o
+dsbs5	q38	c	o
+IGOFF	q49	c	o
+nigoff	q37	c	o
+nigoff2	q37	c	o
+nSBP	q31	c	o
+sbp2	q37	c	o
+SBUB	q40	c	o
+
+q38	1	9
+BOFF	q11	c	o
+bsp2	q38	c	o
+DDC	q36	c	o
+IGOFF	q50	c	o
+nigoff	q38	c	o
+nigoff2	q38	c	o
+nSBP	q32	c	o
+sbp2	q38	c	o
+SBUB	q41	c	o
+
+q39	0	8
+BOFF	q12	c	o
+bsp2	q39	c	o
+IGOFF	q51	c	o
+nigoff	q39	c	o
+nigoff2	q39	c	o
+nigoff5	q41	c	o
+nSBP	q33	c	o
+sbp2	q39	c	o
+
+q4	0	6
+IGOFF	q19	c	o
+nbsp2	q4	c	o
+nigoff	q4	c	o
+nigoff2	q4	c	o
+nigoff5	q7	c	o
+nsbp2	q4	c	o
+
+q40	0	8
+BOFF	q13	c	o
+bsp2	q40	c	o
+bsp5	q41	c	o
+IGOFF	q52	c	o
+nigoff	q40	c	o
+nigoff2	q40	c	o
+nSBP	q34	c	o
+sbp2	q40	c	o
+
+q41	1	9
+BOFF	q15	c	o
+bsp2	q41	c	o
+DDC	q39	c	o
+IGOFF	q53	c	o
+nigoff	q41	c	o
+nigoff2	q41	c	o
+nSBP	q35	c	o
+SBB	q38	c	o
+sbp2	q41	c	o
+
+q42	0	8
+BOFF	q16	c	o
+bsp2	q42	c	o
+igoff	q42	c	o
+igoff2	q42	c	o
+igoff5	q43	c	o
+nIGOFF	q30	c	o
+nsbp2	q42	c	o
+SBUB	q45	c	o
+
+q43	0	8
+BOFF	q17	c	o
+bsp2	q43	c	o
+dsbs5	q44	c	o
+igoff	q43	c	o
+igoff2	q43	c	o
+nIGOFF	q31	c	o
+nsbp2	q43	c	o
+SBUB	q46	c	o
+
+q44	1	9
+BOFF	q18	c	o
+bsp2	q44	c	o
+DDC	q42	c	o
+igoff	q44	c	o
+igoff2	q44	c	o
+nIGOFF	q32	c	o
+nsbp2	q44	c	o
+SBP	q50	c	o
+SBUB	q47	c	o
+
+q45	0	7
+BOFF	q19	c	o
+bsp2	q45	c	o
+igoff	q45	c	o
+igoff2	q45	c	o
+igoff5	q46	c	o
+nIGOFF	q33	c	o
+nsbp2	q45	c	o
+
+q46	0	7
+BOFF	q20	c	o
+bsp2	q46	c	o
+bsp5	q47	c	o
+igoff	q46	c	o
+igoff2	q46	c	o
+nIGOFF	q34	c	o
+nsbp2	q46	c	o
+
+q47	1	9
+BOFF	q22	c	o
+bsp2	q47	c	o
+DDC	q45	c	o
+igoff	q47	c	o
+igoff2	q47	c	o
+nIGOFF	q35	c	o
+nsbp2	q47	c	o
+SBB	q44	c	o
+SBP	q53	c	o
+
+q48	0	9
+BOFF	q23	c	o
+bsp2	q48	c	o
+igoff	q48	c	o
+igoff2	q48	c	o
+igoff5	q49	c	o
+nIGOFF	q36	c	o
+nSBP	q42	c	o
+sbp2	q48	c	o
+SBUB	q51	c	o
+
+q49	0	9
+BOFF	q24	c	o
+bsp2	q49	c	o
+dsbs5	q50	c	o
+igoff	q49	c	o
+igoff2	q49	c	o
+nIGOFF	q37	c	o
+nSBP	q43	c	o
+sbp2	q49	c	o
+SBUB	q52	c	o
+
+q5	0	6
+IGOFF	q20	c	o
+nbsp2	q5	c	o
+nbsp5	q6	c	o
+nigoff	q5	c	o
+nigoff2	q5	c	o
+nsbp2	q5	c	o
+
+q50	1	9
+BOFF	q25	c	o
+bsp2	q50	c	o
+DDC	q48	c	o
+igoff	q50	c	o
+igoff2	q50	c	o
+nIGOFF	q38	c	o
+nSBP	q44	c	o
+sbp2	q50	c	o
+SBUB	q53	c	o
+
+q51	0	8
+BOFF	q26	c	o
+bsp2	q51	c	o
+igoff	q51	c	o
+igoff2	q51	c	o
+igoff5	q52	c	o
+nIGOFF	q39	c	o
+nSBP	q45	c	o
+sbp2	q51	c	o
+
+q52	0	8
+BOFF	q27	c	o
+bsp2	q52	c	o
+bsp5	q53	c	o
+igoff	q52	c	o
+igoff2	q52	c	o
+nIGOFF	q40	c	o
+nSBP	q46	c	o
+sbp2	q52	c	o
+
+q53	1	9
+BOFF	q29	c	o
+bsp2	q53	c	o
+DDC	q51	c	o
+igoff	q53	c	o
+igoff2	q53	c	o
+nIGOFF	q41	c	o
+nSBP	q47	c	o
+SBB	q50	c	o
+sbp2	q53	c	o
+
+q6	0	6
+IGOFF	q21	c	o
+nbsp2	q6	c	o
+nigoff	q6	c	o
+nigoff2	q6	c	o
+nsbp2	q6	c	o
+nsbp5	q8	c	o
+
+q7	1	9
+BON	q35	c	o
+DDC	q4	c	o
+IGOFF	q22	c	o
+nbsp2	q7	c	o
+nigoff	q7	c	o
+nigoff2	q7	c	o
+nsbp2	q7	c	o
+SBB	q3	c	o
+SBP	q15	c	o
+
+q8	1	9
+BON	q35	c	o
+DDC	q7	c	o
+IGOFF	q0	c	o
+nbsp2	q8	c	o
+nigoff	q8	c	o
+nigoff2	q8	c	o
+nsbp2	q8	c	o
+SBB	q3	c	o
+SBP	q15	c	o
+
+q9	0	8
+IGOFF	q23	c	o
+nbsp2	q9	c	o
+nigoff	q9	c	o
+nigoff2	q9	c	o
+nigoff5	q11	c	o
+nSBP	q1	c	o
+sbp2	q9	c	o
+SBUB	q12	c	o
+

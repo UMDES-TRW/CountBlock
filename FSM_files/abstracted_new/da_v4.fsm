@@ -1,0 +1,48 @@
+6
+
+ndaState	1	8
+nda	ndaState	c	o
+nda1	ndaState	c	o
+nda2	ndaState	c	o
+nda3	ndaState	c	o
+ndda2	ndaState	c	o
+ndda	ndaState	c	o
+DA	npda_ddaState	c	o
+PDA	pda_nddaState	c	o
+
+0	0	1
+DC	ndaState	c	o
+
+1	0	1
+DC	pda_nddaState	c	o
+
+npda_ddaState	1	8
+da	npda_ddaState	c	o
+da1	npda_ddaState	c	o
+da2	npda_ddaState	c	o
+da3	npda_ddaState	c	o
+dda2	npda_ddaState	c	o
+dda	npda_ddaState	c	o
+DDC	0	c	o
+PDA	pda_ddaState	c	o
+
+pda_ddaState	1	8
+da	pda_ddaState	c	o
+da1	pda_ddaState	c	o
+da2	pda_ddaState	c	o
+da3	pda_ddaState	c	o
+dda2	pda_ddaState	c	o
+dda	pda_ddaState	c	o
+DC	npda_ddaState	c	o
+DDC	1	c	o
+
+pda_nddaState	1	8
+da	pda_ddaState	c	o
+da1	pda_nddaState	c	o
+da2	pda_nddaState	c	o
+da3	pda_nddaState	c	o
+ndda2	pda_nddaState	c	o
+ndda	pda_nddaState	c	o
+DA	pda_ddaState	c	o
+DC	ndaState	c	o
+

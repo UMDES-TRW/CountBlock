@@ -1,0 +1,10 @@
+2
+
+nppState	1	3
+npp1	nppState	c	o
+DS	ppState	c	o
+PS	ppState	c	o
+
+ppState	1	2
+pp1	ppState	c	o
+nPDS	nppState	c	o

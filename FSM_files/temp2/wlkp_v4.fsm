@@ -1,0 +1,10 @@
+2
+
+nwlkpState 1 2
+s_wlkp2_t wlkpState c o
+c_wlkp2_t nwlkpState c o
+
+wlkpState 1 3
+c_wlkp2_t nwlkpState c o
+PTMO nwlkpState c o
+s_wlkp2_t wlkpState c o

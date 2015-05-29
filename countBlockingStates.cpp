@@ -175,7 +175,7 @@ int main(int argc, char * argv[])
     
       subset.push_back(automata[i]);
     
-  
+  /*
   if(IsDDCSpecUseful(subset))
   {
     //subset.push_back(CreateDDCSpecialAutomaton(subset));
@@ -190,6 +190,7 @@ int main(int argc, char * argv[])
   }
   else
     cout << "Fault spec is not useful and will not be used." << endl;
+*/
 
   //Print update header
   InitialStateSpace = GetCartesianStateSpace(subset);
@@ -211,6 +212,7 @@ int main(int argc, char * argv[])
   subset.clear();
   subset.push_back(Result2);
 }
+subset.at(0).Export("ParCompAcc.fsm");
   //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
 
   //~~~~~~~~~~~~~~~~~ On-the-fly ParComp ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
